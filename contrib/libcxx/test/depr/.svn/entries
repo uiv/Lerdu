@@ -1,0 +1,83 @@
+10
+
+dir
+166254
+http://llvm.org/svn/llvm-project/libcxx/trunk/test/depr
+http://llvm.org/svn/llvm-project
+
+
+
+2012-06-01T20:02:59.114862Z
+157832
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+nothing_to_do.pass.cpp
+file
+
+
+
+
+2012-10-19T01:22:16.960276Z
+de8ffdb592ab304b14832467aef77cb3
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+372
+
+exception.unexpected
+dir
+
+depr.lib.binders
+dir
+
+depr.auto.ptr
+dir
+
+depr.c.headers
+dir
+
+depr.function.objects
+dir
+
+depr.str.strstreams
+dir
+
+depr.ios.members
+dir
+

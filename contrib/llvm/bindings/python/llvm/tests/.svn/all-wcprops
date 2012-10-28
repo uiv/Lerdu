@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/153248/llvm/trunk/bindings/python/llvm/tests
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/152482/llvm/trunk/bindings/python/llvm/tests/__init__.py
+END
+test_object.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/152482/llvm/trunk/bindings/python/llvm/tests/test_object.py
+END
+test_core.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/153248/llvm/trunk/bindings/python/llvm/tests/test_core.py
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/153174/llvm/trunk/bindings/python/llvm/tests/base.py
+END
+test_disassembler.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/152527/llvm/trunk/bindings/python/llvm/tests/test_disassembler.py
+END

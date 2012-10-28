@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/c.locales
+END
+clocale.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/c.locales/clocale.pass.cpp
+END
+version.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/c.locales/version.pass.cpp
+END

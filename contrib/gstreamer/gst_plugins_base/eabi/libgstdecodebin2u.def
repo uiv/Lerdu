@@ -1,0 +1,18 @@
+EXPORTS
+	_GST_PLUGIN_DESC @ 1 NONAME
+	gst_autoplug_select_result_get_type @ 2 NONAME
+	gst_factory_list_debug @ 3 NONAME
+	gst_factory_list_filter @ 4 NONAME
+	gst_factory_list_get_elements @ 5 NONAME
+	gst_factory_list_is_type @ 6 NONAME
+	gst_play_flags_get_type @ 7 NONAME
+	gst_play_marshal_BOOLEAN__OBJECT_OBJECT @ 8 NONAME
+	gst_play_marshal_BOOLEAN__OBJECT_OBJECT_OBJECT @ 9 NONAME
+	gst_play_marshal_BOXED__INT @ 10 NONAME
+	gst_play_marshal_BOXED__OBJECT_OBJECT @ 11 NONAME
+	gst_play_marshal_BOXED__OBJECT_OBJECT_BOXED @ 12 NONAME
+	gst_play_marshal_ENUM__OBJECT_OBJECT_BOXED @ 13 NONAME
+	gst_play_marshal_ENUM__OBJECT_OBJECT_OBJECT @ 14 NONAME
+	gst_play_marshal_OBJECT__BOXED @ 15 NONAME
+	gst_play_marshal_VOID__OBJECT_BOOLEAN @ 16 NONAME
+

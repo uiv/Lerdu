@@ -1,0 +1,5 @@
+EXPORTS
+	_GST_PLUGIN_DESC @ 1 NONAME
+	_ZTI15DevSoundWrapper @ 2 NONAME ; #<TI>#
+	_ZTV15DevSoundWrapper @ 3 NONAME ; #<VT>#
+

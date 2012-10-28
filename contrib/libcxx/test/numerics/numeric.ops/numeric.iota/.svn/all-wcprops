@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numeric.ops/numeric.iota
+END
+iota.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numeric.ops/numeric.iota/iota.pass.cpp
+END

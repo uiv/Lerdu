@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/allocator.adaptor/allocator.adaptor.cnstr
+END
+converting_copy.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/allocator.adaptor/allocator.adaptor.cnstr/converting_copy.pass.cpp
+END
+copy.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/allocator.adaptor/allocator.adaptor.cnstr/copy.pass.cpp
+END
+allocs.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/allocator.adaptor/allocator.adaptor.cnstr/allocs.pass.cpp
+END
+converting_move.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/allocator.adaptor/allocator.adaptor.cnstr/converting_move.pass.cpp
+END
+default.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/allocator.adaptor/allocator.adaptor.cnstr/default.pass.cpp
+END

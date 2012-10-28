@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/input.output/iostream.format/ext.manip
+END
+get_money.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/input.output/iostream.format/ext.manip/get_money.pass.cpp
+END
+put_time.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/input.output/iostream.format/ext.manip/put_time.pass.cpp
+END
+get_time.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/input.output/iostream.format/ext.manip/get_time.pass.cpp
+END
+put_money.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/input.output/iostream.format/ext.manip/put_money.pass.cpp
+END

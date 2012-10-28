@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/std.ios.manip/adjustfield.manip
+END
+left.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/std.ios.manip/adjustfield.manip/left.pass.cpp
+END
+internal.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/std.ios.manip/adjustfield.manip/internal.pass.cpp
+END
+right.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/std.ios.manip/adjustfield.manip/right.pass.cpp
+END

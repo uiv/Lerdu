@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.iter/re.regiter/re.regiter.comp
+END
+tested_elsewhere.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.iter/re.regiter/re.regiter.comp/tested_elsewhere.pass.cpp
+END

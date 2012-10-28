@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/llvm-project/!svn/ver/166077/llvm/trunk/lib/DebugInfo
+END
+DWARFDebugRangeList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/163128/llvm/trunk/lib/DebugInfo/DWARFDebugRangeList.cpp
+END
+DWARFFormValue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/163258/llvm/trunk/lib/DebugInfo/DWARFFormValue.cpp
+END
+DWARFDebugLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/162895/llvm/trunk/lib/DebugInfo/DWARFDebugLine.h
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/146409/llvm/trunk/lib/DebugInfo/LLVMBuild.txt
+END
+DWARFDebugRangeList.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/163128/llvm/trunk/lib/DebugInfo/DWARFDebugRangeList.h
+END
+DWARFFormValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/163258/llvm/trunk/lib/DebugInfo/DWARFFormValue.h
+END
+DWARFDebugAbbrev.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/143814/llvm/trunk/lib/DebugInfo/DWARFDebugAbbrev.cpp
+END
+DWARFAttribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/139627/llvm/trunk/lib/DebugInfo/DWARFAttribute.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/162659/llvm/trunk/lib/DebugInfo/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/139627/llvm/trunk/lib/DebugInfo/Makefile
+END
+DWARFAbbreviationDeclaration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/139778/llvm/trunk/lib/DebugInfo/DWARFAbbreviationDeclaration.cpp
+END
+DWARFDebugAbbrev.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/143814/llvm/trunk/lib/DebugInfo/DWARFDebugAbbrev.h
+END
+DIContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/162657/llvm/trunk/lib/DebugInfo/DIContext.cpp
+END
+DWARFDebugArangeSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/143799/llvm/trunk/lib/DebugInfo/DWARFDebugArangeSet.cpp
+END
+DWARFAbbreviationDeclaration.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/139627/llvm/trunk/lib/DebugInfo/DWARFAbbreviationDeclaration.h
+END
+DWARFDebugInfoEntry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/163128/llvm/trunk/lib/DebugInfo/DWARFDebugInfoEntry.cpp
+END
+DWARFContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/166077/llvm/trunk/lib/DebugInfo/DWARFContext.cpp
+END
+DWARFDebugArangeSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/139712/llvm/trunk/lib/DebugInfo/DWARFDebugArangeSet.h
+END
+DWARFDebugAranges.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/163225/llvm/trunk/lib/DebugInfo/DWARFDebugAranges.cpp
+END
+DWARFCompileUnit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/163128/llvm/trunk/lib/DebugInfo/DWARFCompileUnit.cpp
+END
+DWARFContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/164090/llvm/trunk/lib/DebugInfo/DWARFContext.h
+END
+DWARFDebugInfoEntry.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/163128/llvm/trunk/lib/DebugInfo/DWARFDebugInfoEntry.h
+END
+DWARFDebugAranges.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/139732/llvm/trunk/lib/DebugInfo/DWARFDebugAranges.h
+END
+DWARFCompileUnit.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/163128/llvm/trunk/lib/DebugInfo/DWARFCompileUnit.h
+END
+DWARFDebugLine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/162895/llvm/trunk/lib/DebugInfo/DWARFDebugLine.cpp
+END

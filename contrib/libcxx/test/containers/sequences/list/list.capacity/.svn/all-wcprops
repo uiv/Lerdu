@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/list/list.capacity
+END
+resize_size_value.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/list/list.capacity/resize_size_value.pass.cpp
+END
+resize_size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/list/list.capacity/resize_size.pass.cpp
+END

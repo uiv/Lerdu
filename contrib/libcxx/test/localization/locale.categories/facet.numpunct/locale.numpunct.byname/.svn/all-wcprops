@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locale.categories/facet.numpunct/locale.numpunct.byname
+END
+grouping.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locale.categories/facet.numpunct/locale.numpunct.byname/grouping.pass.cpp
+END
+thousands_sep.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locale.categories/facet.numpunct/locale.numpunct.byname/thousands_sep.pass.cpp
+END
+decimal_point.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locale.categories/facet.numpunct/locale.numpunct.byname/decimal_point.pass.cpp
+END

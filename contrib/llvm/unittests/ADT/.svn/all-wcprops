@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/llvm-project/!svn/ver/166015/llvm/trunk/unittests/ADT
+END
+ImmutableSetTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/120070/llvm/trunk/unittests/ADT/ImmutableSetTest.cpp
+END
+SmallVectorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/161001/llvm/trunk/unittests/ADT/SmallVectorTest.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/114831/llvm/trunk/unittests/ADT/Makefile
+END
+DenseMapTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/158641/llvm/trunk/unittests/ADT/DenseMapTest.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/165908/llvm/trunk/unittests/ADT/CMakeLists.txt
+END
+TinyPtrVectorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/161104/llvm/trunk/unittests/ADT/TinyPtrVectorTest.cpp
+END
+IntEqClassesTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/122293/llvm/trunk/unittests/ADT/IntEqClassesTest.cpp
+END
+FoldingSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/119870/llvm/trunk/unittests/ADT/FoldingSet.cpp
+END
+SmallStringTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/148881/llvm/trunk/unittests/ADT/SmallStringTest.cpp
+END
+TripleTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/165792/llvm/trunk/unittests/ADT/TripleTest.cpp
+END
+DeltaAlgorithmTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/92144/llvm/trunk/unittests/ADT/DeltaAlgorithmTest.cpp
+END
+BitVectorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/166015/llvm/trunk/unittests/ADT/BitVectorTest.cpp
+END
+StringRefTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/165147/llvm/trunk/unittests/ADT/StringRefTest.cpp
+END
+StringMapTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/158725/llvm/trunk/unittests/ADT/StringMapTest.cpp
+END
+SparseSetTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/155227/llvm/trunk/unittests/ADT/SparseSetTest.cpp
+END
+DenseSetTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/163979/llvm/trunk/unittests/ADT/DenseSetTest.cpp
+END
+PackedVectorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/133081/llvm/trunk/unittests/ADT/PackedVectorTest.cpp
+END
+SmallPtrSetTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/152143/llvm/trunk/unittests/ADT/SmallPtrSetTest.cpp
+END
+APIntTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/157231/llvm/trunk/unittests/ADT/APIntTest.cpp
+END
+DAGDeltaAlgorithmTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/136213/llvm/trunk/unittests/ADT/DAGDeltaAlgorithmTest.cpp
+END
+ImmutableMapTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/165907/llvm/trunk/unittests/ADT/ImmutableMapTest.cpp
+END
+SparseBitVectorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/77025/llvm/trunk/unittests/ADT/SparseBitVectorTest.cpp
+END
+IntrusiveRefCntPtrTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/149411/llvm/trunk/unittests/ADT/IntrusiveRefCntPtrTest.cpp
+END
+HashingTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/157885/llvm/trunk/unittests/ADT/HashingTest.cpp
+END
+IntervalMapTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/122093/llvm/trunk/unittests/ADT/IntervalMapTest.cpp
+END
+SCCIteratorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/136460/llvm/trunk/unittests/ADT/SCCIteratorTest.cpp
+END
+ilistTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/103723/llvm/trunk/unittests/ADT/ilistTest.cpp
+END
+APFloatTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/164698/llvm/trunk/unittests/ADT/APFloatTest.cpp
+END
+TwineTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/135888/llvm/trunk/unittests/ADT/TwineTest.cpp
+END
+VariadicFunctionTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/146827/llvm/trunk/unittests/ADT/VariadicFunctionTest.cpp
+END

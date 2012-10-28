@@ -1,0 +1,33 @@
+EXPORTS
+	_GST_PLUGIN_DESC @ 1 NONAME
+	gst_app_buffer_get_type @ 2 NONAME
+	gst_app_buffer_new @ 3 NONAME
+	gst_app_sink_get_caps @ 4 NONAME
+	gst_app_sink_get_drop @ 5 NONAME
+	gst_app_sink_get_emit_signals @ 6 NONAME
+	gst_app_sink_get_max_buffers @ 7 NONAME
+	gst_app_sink_get_type @ 8 NONAME
+	gst_app_sink_is_eos @ 9 NONAME
+	gst_app_sink_pull_buffer @ 10 NONAME
+	gst_app_sink_pull_preroll @ 11 NONAME
+	gst_app_sink_set_caps @ 12 NONAME
+	gst_app_sink_set_drop @ 13 NONAME
+	gst_app_sink_set_emit_signals @ 14 NONAME
+	gst_app_sink_set_max_buffers @ 15 NONAME
+	gst_app_src_end_of_stream @ 16 NONAME
+	gst_app_src_get_caps @ 17 NONAME
+	gst_app_src_get_emit_signals @ 18 NONAME
+	gst_app_src_get_latency @ 19 NONAME
+	gst_app_src_get_max_bytes @ 20 NONAME
+	gst_app_src_get_size @ 21 NONAME
+	gst_app_src_get_stream_type @ 22 NONAME
+	gst_app_src_get_type @ 23 NONAME
+	gst_app_src_push_buffer @ 24 NONAME
+	gst_app_src_set_callbacks @ 25 NONAME
+	gst_app_src_set_caps @ 26 NONAME
+	gst_app_src_set_emit_signals @ 27 NONAME
+	gst_app_src_set_latency @ 28 NONAME
+	gst_app_src_set_max_bytes @ 29 NONAME
+	gst_app_src_set_size @ 30 NONAME
+	gst_app_src_set_stream_type @ 31 NONAME
+

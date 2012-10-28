@@ -1,0 +1,80 @@
+10
+
+dir
+166254
+http://llvm.org/svn/llvm-project/libcxx/trunk/test/localization
+http://llvm.org/svn/llvm-project
+
+
+
+2012-07-26T17:09:09.906886Z
+160786
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+locales
+dir
+
+c.locales
+dir
+
+locale.categories
+dir
+
+localization.general
+dir
+
+locale.stdcvt
+dir
+
+locale.syn
+dir
+
+version.pass.cpp
+file
+
+
+
+
+2012-10-19T01:22:11.832276Z
+a2c87ee8db3fce70c49ef6fed4a06767
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+471
+

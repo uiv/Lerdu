@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/strings/basic.string/string.cons
+END
+pointer_assignment.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.cons/pointer_assignment.pass.cpp
+END
+copy.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.cons/copy.pass.cpp
+END
+move_noexcept.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/132573/libcxx/trunk/test/strings/basic.string/string.cons/move_noexcept.pass.cpp
+END
+iter_alloc.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.cons/iter_alloc.pass.cpp
+END
+dtor_noexcept.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/132573/libcxx/trunk/test/strings/basic.string/string.cons/dtor_noexcept.pass.cpp
+END
+initializer_list.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/strings/basic.string/string.cons/initializer_list.pass.cpp
+END
+move_assign_noexcept.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/132573/libcxx/trunk/test/strings/basic.string/string.cons/move_assign_noexcept.pass.cpp
+END
+move_alloc.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.cons/move_alloc.pass.cpp
+END
+size_char_alloc.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.cons/size_char_alloc.pass.cpp
+END
+substr.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.cons/substr.pass.cpp
+END
+copy_alloc.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.cons/copy_alloc.pass.cpp
+END
+pointer_size_alloc.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.cons/pointer_size_alloc.pass.cpp
+END
+default_noexcept.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/132573/libcxx/trunk/test/strings/basic.string/string.cons/default_noexcept.pass.cpp
+END
+pointer_alloc.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.cons/pointer_alloc.pass.cpp
+END
+alloc.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.cons/alloc.pass.cpp
+END
+move_assignment.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.cons/move_assignment.pass.cpp
+END
+copy_assignment.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.cons/copy_assignment.pass.cpp
+END
+char_assignment.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.cons/char_assignment.pass.cpp
+END
+move.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.cons/move.pass.cpp
+END
+initializer_list_assignment.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/strings/basic.string/string.cons/initializer_list_assignment.pass.cpp
+END

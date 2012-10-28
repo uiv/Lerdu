@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/161188/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.formatted
+END
+nothing_to_do.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.formatted/nothing_to_do.pass.cpp
+END

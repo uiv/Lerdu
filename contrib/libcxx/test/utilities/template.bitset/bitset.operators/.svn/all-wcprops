@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.operators
+END
+op_not.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.operators/op_not.pass.cpp
+END
+op_or.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.operators/op_or.pass.cpp
+END
+op_and.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.operators/op_and.pass.cpp
+END
+stream_in.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/template.bitset/bitset.operators/stream_in.pass.cpp
+END
+stream_out.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/template.bitset/bitset.operators/stream_out.pass.cpp
+END

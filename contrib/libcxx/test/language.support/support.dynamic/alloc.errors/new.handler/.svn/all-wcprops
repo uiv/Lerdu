@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.dynamic/alloc.errors/new.handler
+END
+new_handler.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.dynamic/alloc.errors/new.handler/new_handler.pass.cpp
+END

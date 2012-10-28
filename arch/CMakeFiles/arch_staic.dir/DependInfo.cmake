@@ -1,0 +1,18 @@
+# The set of languages for which implicit dependencies are needed:
+SET(CMAKE_DEPENDS_LANGUAGES
+  "ASM"
+  "C"
+  )
+# The set of files for implicit dependencies of each language:
+SET(CMAKE_DEPENDS_CHECK_ASM
+  "/home/samuel/build/1.08/arch/x86/_systrap.S" "/home/samuel/build/1.08/arch/CMakeFiles/arch_staic.dir/x86/_systrap.S.o"
+  )
+SET(CMAKE_ASM_COMPILER_ID "LLVM")
+SET(CMAKE_DEPENDS_CHECK_C
+  "/home/samuel/build/1.08/arch/x86/elf_reloc.c" "/home/samuel/build/1.08/arch/CMakeFiles/arch_staic.dir/x86/elf_reloc.c.o"
+  )
+SET(CMAKE_C_COMPILER_ID "CLANG")
+
+# Targets to which this target links.
+SET(CMAKE_TARGET_LINKED_INFO_FILES
+  )

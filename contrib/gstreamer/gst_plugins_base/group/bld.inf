@@ -1,0 +1,204 @@
+PRJ_PLATFORMS
+DEFAULT
+
+PRJ_EXPORTS
+
+// interfaces
+../gst-libs/gst/interfaces/colorbalance.h			/sf/mw/gstreamer/include/gstreamer/gst/interfaces/colorbalance.h
+../gst-libs/gst/interfaces/colorbalancechannel.h		/sf/mw/gstreamer/include/gstreamer/gst/interfaces/colorbalancechannel.h
+../gst-libs/gst/interfaces/mixer.h				/sf/mw/gstreamer/include/gstreamer/gst/interfaces/mixer.h
+../gst-libs/gst/interfaces/mixeroptions.h			/sf/mw/gstreamer/include/gstreamer/gst/interfaces/mixeroptions.h
+../gst-libs/gst/interfaces/mixertrack.h				/sf/mw/gstreamer/include/gstreamer/gst/interfaces/mixertrack.h
+../gst-libs/gst/interfaces/navigation.h				/sf/mw/gstreamer/include/gstreamer/gst/interfaces/navigation.h
+../gst-libs/gst/interfaces/propertyprobe.h			/sf/mw/gstreamer/include/gstreamer/gst/interfaces/propertyprobe.h
+../gst-libs/gst/interfaces/tuner.h				/sf/mw/gstreamer/include/gstreamer/gst/interfaces/tuner.h
+../gst-libs/gst/interfaces/tunernorm.h				/sf/mw/gstreamer/include/gstreamer/gst/interfaces/tunernorm.h
+../gst-libs/gst/interfaces/tunerchannel.h			/sf/mw/gstreamer/include/gstreamer/gst/interfaces/tunerchannel.h
+../gst-libs/gst/interfaces/xoverlay.h				/sf/mw/gstreamer/include/gstreamer/gst/interfaces/xoverlay.h
+../gst-libs/gst/interfaces/interfaces-enumtypes.h		/sf/mw/gstreamer/include/gstreamer/gst/interfaces/interfaces-enumtypes.h
+
+//app
+../gst-libs/gst/app/gstappbuffer.h				/sf/mw/gstreamer/include/gstreamer/gst/app/gstappbuffer.h
+../gst-libs/gst/app/gstappsink.h				/sf/mw/gstreamer/include/gstreamer/gst/app/gstappsink.h
+../gst-libs/gst/app/gstappsrc.h					/sf/mw/gstreamer/include/gstreamer/gst/app/gstappsrc.h
+
+// audio
+../gst-libs/gst/audio/audio.h					/sf/mw/gstreamer/include/gstreamer/gst/audio/audio.h
+../gst-libs/gst/audio/gstaudioclock.h				/sf/mw/gstreamer/include/gstreamer/gst/audio/gstaudioclock.h
+../gst-libs/gst/audio/gstaudiofilter.h				/sf/mw/gstreamer/include/gstreamer/gst/audio/gstaudiofilter.h
+../gst-libs/gst/audio/gstaudiosink.h				/sf/mw/gstreamer/include/gstreamer/gst/audio/gstaudiosink.h
+../gst-libs/gst/audio/gstaudiosrc.h				/sf/mw/gstreamer/include/gstreamer/gst/audio/gstaudiosrc.h
+../gst-libs/gst/audio/gstbaseaudiosink.h			/sf/mw/gstreamer/include/gstreamer/gst/audio/gstbaseaudiosink.h
+../gst-libs/gst/audio/gstbaseaudiosrc.h				/sf/mw/gstreamer/include/gstreamer/gst/audio/gstbaseaudiosrc.h
+../gst-libs/gst/audio/gstringbuffer.h				/sf/mw/gstreamer/include/gstreamer/gst/audio/gstringbuffer.h
+../gst-libs/gst/audio/mixerutils.h				/sf/mw/gstreamer/include/gstreamer/gst/audio/mixerutils.h
+../gst-libs/gst/audio/multichannel.h				/sf/mw/gstreamer/include/gstreamer/gst/audio/multichannel.h
+../gst-libs/gst/audio/multichannel-enumtypes.h			/sf/mw/gstreamer/include/gstreamer/gst/audio/multichannel-enumtypes.h
+
+// cdda
+../gst-libs/gst/cdda/base64.h					/sf/mw/gstreamer/include/gstreamer/gst/cdda/base64.h
+../gst-libs/gst/cdda/sha1.h					/sf/mw/gstreamer/include/gstreamer/gst/cdda/sha1.h
+../gst-libs/gst/cdda/gstcddabasesrc.h				/sf/mw/gstreamer/include/gstreamer/gst/cdda/gstcddabasesrc.h
+
+// floatcast
+../gst-libs/gst/floatcast/floatcast.h				/sf/mw/gstreamer/include/gstreamer/gst/floatcast/floatcast.h
+
+// riff
+../gst-libs/gst/riff/riff-ids.h					/sf/mw/gstreamer/include/gstreamer/gst/riff/riff-ids.h
+../gst-libs/gst/riff/riff-media.h				/sf/mw/gstreamer/include/gstreamer/gst/riff/riff-media.h
+../gst-libs/gst/riff/riff-read.h				/sf/mw/gstreamer/include/gstreamer/gst/riff/riff-read.h
+
+// rtp
+../gst-libs/gst/rtp/gstbasertpdepayload.h			/sf/mw/gstreamer/include/gstreamer/gst/rtp/gstbasertpdepayload.h
+../gst-libs/gst/rtp/gstbasertppayload.h				/sf/mw/gstreamer/include/gstreamer/gst/rtp/gstbasertppayload.h
+../gst-libs/gst/rtp/gstrtpbuffer.h				/sf/mw/gstreamer/include/gstreamer/gst/rtp/gstrtpbuffer.h
+../gst-libs/gst/rtp/gstbasertpaudiopayload.h			/sf/mw/gstreamer/include/gstreamer/gst/rtp/gstbasertpaudiopayload.h
+../gst-libs/gst/rtp/gstrtcpbuffer.h				/sf/mw/gstreamer/include/gstreamer/gst/rtp/gstrtcpbuffer.h
+../gst-libs/gst/rtp/gstrtppayloads.h				/sf/mw/gstreamer/include/gstreamer/gst/rtp/gstrtppayloads.h
+
+// tag
+../gst-libs/gst/tag/gsttageditingprivate.h			/sf/mw/gstreamer/include/gstreamer/gst/tag/gsttageditingprivate.h
+../gst-libs/gst/tag/tag.h					/sf/mw/gstreamer/include/gstreamer/gst/tag/tag.h
+
+// netbuffer
+../gst-libs/gst/netbuffer/gstnetbuffer.h			/sf/mw/gstreamer/include/gstreamer/gst/netbuffer/gstnetbuffer.h
+
+// video
+../gst-libs/gst/video/gstvideofilter.h				/sf/mw/gstreamer/include/gstreamer/gst/video/gstvideofilter.h
+../gst-libs/gst/video/gstvideosink.h				/sf/mw/gstreamer/include/gstreamer/gst/video/gstvideosink.h
+../gst-libs/gst/video/video.h					/sf/mw/gstreamer/include/gstreamer/gst/video/video.h
+
+// adder
+../gst/adder/gstadder.h						/sf/mw/gstreamer/include/gstreamer/gst/adder/gstadder.h
+
+// audioconvert
+../gst/audioconvert/audioconvert.h				/sf/mw/gstreamer/include/gstreamer/gst/audioconvert/audioconvert.h
+../gst/audioconvert/gstaudioconvert.h				/sf/mw/gstreamer/include/gstreamer/gst/audioconvert/gstaudioconvert.h
+../gst/audioconvert/gstchannelmix.h				/sf/mw/gstreamer/include/gstreamer/gst/audioconvert/gstchannelmix.h
+../gst/audioconvert/plugin.h					/sf/mw/gstreamer/include/gstreamer/gst/audioconvert/plugin.h
+
+// audioresample
+../gst/audioresample/buffer.h					/sf/mw/gstreamer/include/gstreamer/gst/audioresample/buffer.h
+../gst/audioresample/debug.h					/sf/mw/gstreamer/include/gstreamer/gst/audioresample/debug.h
+../gst/audioresample/functable.h				/sf/mw/gstreamer/include/gstreamer/gst/audioresample/functable.h
+../gst/audioresample/gstaudioresample.h				/sf/mw/gstreamer/include/gstreamer/gst/audioresample/gstaudioresample.h
+../gst/audioresample/resample.h					/sf/mw/gstreamer/include/gstreamer/gst/audioresample/resample.h
+
+// audiotestsrc
+../gst/audiotestsrc/gstaudiotestsrc.h				/sf/mw/gstreamer/include/gstreamer/gst/audiotestsrc/gstaudiotestsrc.h
+
+// ffmpegcolorspace
+../gst/ffmpegcolorspace/avcodec.h				/sf/mw/gstreamer/include/gstreamer/gst/ffmpegcolorspace/avcodec.h
+../gst/ffmpegcolorspace/dsputil.h				/sf/mw/gstreamer/include/gstreamer/gst/ffmpegcolorspace/dsputil.h
+../gst/ffmpegcolorspace/gstffmpegcodecmap.h			/sf/mw/gstreamer/include/gstreamer/gst/ffmpegcolorspace/gstffmpegcodecmap.h
+../gst/ffmpegcolorspace/gstffmpegcolorspace.h			/sf/mw/gstreamer/include/gstreamer/gst/ffmpegcolorspace/gstffmpegcolorspace.h
+../gst/ffmpegcolorspace/imgconvert_template.h			/sf/mw/gstreamer/include/gstreamer/gst/ffmpegcolorspace/imgconvert_template.h
+
+// playback
+../gst/playback/gstplay-marshal.h				/sf/mw/gstreamer/include/gstreamer/gst/playback/gstplay-marshal.h
+../gst/playback/gstplaybasebin.h				/sf/mw/gstreamer/include/gstreamer/gst/playback/gstplaybasebin.h
+../gst/playback/gststreaminfo.h					/sf/mw/gstreamer/include/gstreamer/gst/playback/gststreaminfo.h
+../gst/playback/gststreamselector.h				/sf/mw/gstreamer/include/gstreamer/gst/playback/gststreamselector.h
+
+//pbutils
+../gst-libs/gst/pbutils/pbutils.h				/sf/mw/gstreamer/include/gstreamer/gst/pbutils/pbutils.h
+../gst-libs/gst/pbutils/descriptions.h				/sf/mw/gstreamer/include/gstreamer/gst/pbutils/descriptions.h
+../gst-libs/gst/pbutils/install-plugins.h			/sf/mw/gstreamer/include/gstreamer/gst/pbutils/install-plugins.h
+../gst-libs/gst/pbutils/missing-plugins.h			/sf/mw/gstreamer/include/gstreamer/gst/pbutils/missing-plugins.h
+../gst-libs/gst/pbutils/pbutils-enumtypes.h			/sf/mw/gstreamer/include/gstreamer/gst/pbutils/pbutils-enumtypes.h
+
+// subparse
+../gst/subparse/gstssaparse.h					/sf/mw/gstreamer/include/gstreamer/gst/subparse/gstssaparse.h
+../gst/subparse/gstsubparse.h					/sf/mw/gstreamer/include/gstreamer/gst/subparse/gstsubparse.h
+../gst/subparse/samiparse.h					/sf/mw/gstreamer/include/gstreamer/gst/subparse/samiparse.h
+
+// tcp
+../gst/tcp/gstmultifdsink.h					/sf/mw/gstreamer/include/gstreamer/gst/tcp/gstmultifdsink.h
+../gst/tcp/gsttcp-enumtypes.h					/sf/mw/gstreamer/include/gstreamer/gst/tcp/gsttcp-enumtypes.h
+../gst/tcp/gsttcp-marshal.h					/sf/mw/gstreamer/include/gstreamer/gst/tcp/gsttcp-marshal.h
+../gst/tcp/gsttcp.h						/sf/mw/gstreamer/include/gstreamer/gst/tcp/gsttcp.h
+../gst/tcp/gsttcpclientsink.h					/sf/mw/gstreamer/include/gstreamer/gst/tcp/gsttcpclientsink.h
+../gst/tcp/gsttcpclientsrc.h					/sf/mw/gstreamer/include/gstreamer/gst/tcp/gsttcpclientsrc.h
+../gst/tcp/gsttcpplugin.h					/sf/mw/gstreamer/include/gstreamer/gst/tcp/gsttcpplugin.h
+../gst/tcp/gsttcpserversink.h					/sf/mw/gstreamer/include/gstreamer/gst/tcp/gsttcpserversink.h
+../gst/tcp/gsttcpserversrc.h					/sf/mw/gstreamer/include/gstreamer/gst/tcp/gsttcpserversrc.h
+
+// videorate
+../gst/videorate/gstvideorate.h					/sf/mw/gstreamer/include/gstreamer/gst/videorate/gstvideorate.h
+
+// videoscale
+../gst/videoscale/gstvideoscale.h				/sf/mw/gstreamer/include/gstreamer/gst/videoscale/gstvideoscale.h
+../gst/videoscale/vs_image.h					/sf/mw/gstreamer/include/gstreamer/gst/videoscale/vs_image.h
+../gst/videoscale/vs_scanline.h					/sf/mw/gstreamer/include/gstreamer/gst/videoscale/vs_scanline.h
+
+// videotestsrc
+../gst/videotestsrc/gstvideotestsrc.h				/sf/mw/gstreamer/include/gstreamer/gst/videotestsrc/gstvideotestsrc.h
+../gst/videotestsrc/videotestsrc.h				/sf/mw/gstreamer/include/gstreamer/gst/videotestsrc/videotestsrc.h
+
+// volume
+../gst/volume/gstvolume.h					/sf/mw/gstreamer/include/gstreamer/gst/volume/gstvolume.h
+
+//liboil   - Since liboil port is available, No need to use liboil stub.
+../gst/oil/liboil.h       															/sf/mw/gstreamer/include/gstreamer/gst/liboil.h
+
+// fft
+../gst-libs/gst/fft/_kiss_fft_guts_f32.h			/sf/mw/gstreamer/include/gstreamer/gst/fft/_kiss_fft_guts_f32.h
+../gst-libs/gst/fft/_kiss_fft_guts_f64.h			/sf/mw/gstreamer/include/gstreamer/gst/fft/_kiss_fft_guts_f64.h
+../gst-libs/gst/fft/_kiss_fft_guts_s16.h			/sf/mw/gstreamer/include/gstreamer/gst/fft/_kiss_fft_guts_s16.h
+../gst-libs/gst/fft/_kiss_fft_guts_s32.h			/sf/mw/gstreamer/include/gstreamer/gst/fft/_kiss_fft_guts_s32.h
+../gst-libs/gst/fft/gstfft.h					/sf/mw/gstreamer/include/gstreamer/gst/fft/gstfft.h
+../gst-libs/gst/fft/gstfftf32.h					/sf/mw/gstreamer/include/gstreamer/gst/fft/gstfftf32.h
+../gst-libs/gst/fft/gstfftf64.h					/sf/mw/gstreamer/include/gstreamer/gst/fft/gstfftf64.h
+../gst-libs/gst/fft/gstffts16.h					/sf/mw/gstreamer/include/gstreamer/gst/fft/gstffts16.h
+../gst-libs/gst/fft/gstffts32.h					/sf/mw/gstreamer/include/gstreamer/gst/fft/gstffts32.h
+../gst-libs/gst/fft/kiss_fft_f32.h				/sf/mw/gstreamer/include/gstreamer/gst/fft/kiss_fft_f32.h
+../gst-libs/gst/fft/kiss_fft_f64.h				/sf/mw/gstreamer/include/gstreamer/gst/fft/kiss_fft_f64.h
+../gst-libs/gst/fft/kiss_fft_s16.h				/sf/mw/gstreamer/include/gstreamer/gst/fft/kiss_fft_s16.h
+../gst-libs/gst/fft/kiss_fft_s32.h				/sf/mw/gstreamer/include/gstreamer/gst/fft/kiss_fft_s32.h
+../gst-libs/gst/fft/kiss_fftr_f32.h				/sf/mw/gstreamer/include/gstreamer/gst/fft/kiss_fftr_f32.h
+../gst-libs/gst/fft/kiss_fftr_f64.h				/sf/mw/gstreamer/include/gstreamer/gst/fft/kiss_fftr_f64.h
+../gst-libs/gst/fft/kiss_fftr_s16.h													/sf/mw/gstreamer/include/gstreamer/gst/fft/kiss_fftr_s16.h
+../gst-libs/gst/fft/kiss_fftr_s32.h				/sf/mw/gstreamer/include/gstreamer/gst/fft/kiss_fftr_s32.h
+
+//internationalization macros
+../gst-libs/gst/gst-i18n-plugin.h  				/sf/mw/gstreamer/include/gstreamer/gst/gst-i18n-plugin.h
+
+//avcodec
+../gst/ffmpegcolorspace/avcodec.h  				/sf/mw/gstreamer/include/gstreamer/gst/avcodec.h
+
+
+PRJ_MMPFILES
+gstinterfaces.mmp
+gstaudio.mmp
+gsttag.mmp
+gstcdda.mmp
+gstriff.mmp
+gstrtp.mmp
+gstvolume.mmp
+gstnetbuffer.mmp
+gstadder.mmp
+gstaudioconvert.mmp
+gstaudiorate.mmp
+gstaudioresample.mmp
+gstaudiotestsrc.mmp
+gstpbutils.mmp
+gstplaybin.mmp
+gstqueue2.mmp
+gstdecodebin.mmp
+gstdecodebin2.mmp
+gstsubparse.mmp
+gsttcp.mmp
+gsttypefind.mmp
+gstapp.mmp
+gstgdp.mmp
+gstfft.mmp
+liboil.mmp
+
+
+// Video mmp
+gstvideo.mmp		//compiled
+gstvideorate.mmp		//compiled
+gstvideoscale.mmp 	// liboil  //not compiled
+gstvideotestsrc.mmp	//  liboil
+ffmpegcolorspace.mmp
+

@@ -1,0 +1,463 @@
+
+link_directories(
+${Lerdu_SOURCE_DIR}/alphagen
+${Lerdu_SOURCE_DIR}/art
+${Lerdu_SOURCE_DIR}/buildsystem
+${Lerdu_SOURCE_DIR}/json-c
+${Lerdu_SOURCE_DIR}/libcss
+${Lerdu_SOURCE_DIR}/libdom
+${Lerdu_SOURCE_DIR}/libhubbub
+${Lerdu_SOURCE_DIR}/libnsbmp
+${Lerdu_SOURCE_DIR}/libnsgif
+${Lerdu_SOURCE_DIR}/libparserutils
+#${Lerdu_SOURCE_DIR}/libpencil
+${Lerdu_SOURCE_DIR}/librosprite
+${Lerdu_SOURCE_DIR}/libsvgtiny
+${Lerdu_SOURCE_DIR}/libwapcaplet
+${Lerdu_SOURCE_DIR}/nsgenjsbind
+#${Lerdu_SOURCE_DIR}/rufl
+${Lerdu_SOURCE_DIR}/ttf2f
+#${Lerdu_SOURCE_DIR}/netsurf
+#${Lerdu_SOURCE_DIR}/libnsfb
+#${Lerdu_SOURCE_DIR}/iconv
+)
+
+SET(TEST_ITEMS
+#${Lerdu_SOURCE_DIR}/libhubbub/test/csdetect.c
+#${Lerdu_SOURCE_DIR}/libhubbub/test/entities.c
+${Lerdu_SOURCE_DIR}/libhubbub/test/parser.c
+#${Lerdu_SOURCE_DIR}/libhubbub/test/tokeniser.c
+#${Lerdu_SOURCE_DIR}/libhubbub/test/tokeniser2.c
+#${Lerdu_SOURCE_DIR}/libhubbub/test/tokeniser3.c
+#${Lerdu_SOURCE_DIR}/libhubbub/test/tree.c
+#${Lerdu_SOURCE_DIR}/libhubbub/test/tree2.c
+#${Lerdu_SOURCE_DIR}/libhubbub/test/tree-buf.c
+)
+
+add_executable(html5 ${TEST_ITEMS})
+
+target_link_libraries(html5 alphagen art json css dom hubbub nsbmp nsgif parserutils rosprite svgtiny wapcaplet nsgenjsbind ttf2f)
+-------------------
+CFLAGS := $(CFLAGS) -std=c99 -D_BSD_SOURCE -D_POSIX_C_SOURCE \
+	-I$(CURDIR)/include/ -I$(CURDIR)/src $(WARNFLAGS) -Dasm="__asm"
+
+# Freetype2
+ifneq ($(findstring clean,$(MAKECMDGOALS)),clean)
+  ifneq ($(PKGCONFIG),)
+    ifeq ($(TARGET),riscos)
+      CFLAGS := $(CFLAGS) $(shell $(PKGCONFIG) freetype2 --cflags --static)
+      LDFLAGS := $(LDFLAGS) $(shell $(PKGCONFIG) freetype2 --libs --static)
+    else
+      CFLAGS := $(CFLAGS) $(shell $(PKGCONFIG) freetype2 --cflags)
+      LDFLAGS := $(LDFLAGS) $(shell $(PKGCONFIG) freetype2 --libs)
+    endif
+  else
+    CFLAGS := $(CFLAGS) -I$(PREFIX)/include/freetype2
+    LDFLAGS := $(LDFLAGS) -lfreetype -lz
+  endif
+endif
+
+# OSLib (RISC OS target only)
+ifneq ($(findstring clean,$(MAKECMDGOALS)),clean)
+  ifeq ($(TARGET),riscos)
+    CFLAGS := $(CFLAGS) -I$(PREFIX)/include -static
+    LDFLAGS := $(LDFLAGS) -lOSLib32 -lOSLibSupport32 -static
+  endif
+endif
+----------------------
+# BeOS/Haiku/AmigaOS4 standard library headers create warnings
+ifneq ($(TARGET),beos)
+  ifneq ($(TARGET),AmigaOS)
+    WARNFLAGS := $(WARNFLAGS) -Werror
+  endif
+endif
+CFLAGS := -I$(CURDIR)/include/ -I$(CURDIR)/src $(WARNFLAGS) $(CFLAGS)
+ifneq ($(GCCVER),2)
+  CFLAGS := $(CFLAGS) -std=c99
+else
+  # __inline__ is a GCCism
+  CFLAGS := $(CFLAGS) -Dinline="__inline__"
+endif
+
+# OSLib
+ifneq ($(findstring clean,$(MAKECMDGOALS)),clean)
+  ifeq ($(TARGET),riscos)
+    CFLAGS := $(CFLAGS) -I$(PREFIX)/include
+    LDFLAGS := $(LDFLAGS) -lOSLib32
+  endif
+endif
+--------------------------
+# BeOS/Haiku/AmigaOS have standard library errors that issue warnings.
+ifneq ($(TARGET),beos)
+  ifneq ($(TARGET),amiga)
+#    WARNFLAGS := $(WARNFLAGS) -Werror
+  endif
+endif
+CFLAGS := -D_BSD_SOURCE -D_POSIX_C_SOURCE=200809L -I$(CURDIR)/include/ \
+	-I$(CURDIR)/src $(WARNFLAGS) $(CFLAGS)
+ifneq ($(GCCVER),2)
+  CFLAGS := $(CFLAGS) -std=c99
+else
+  # __inline__ is a GCCism
+  CFLAGS := $(CFLAGS) -Dinline="__inline__"
+endif
+-----------------------
+# BeOS/Haiku standard library headers issue warnings
+ifneq ($(TARGET),beos)
+  WARNFLAGS := $(WARNFLAGS) -Werror
+endif
+CFLAGS := -D_BSD_SOURCE -I$(CURDIR)/include/ \
+	-I$(CURDIR)/src $(WARNFLAGS) $(CFLAGS)
+ifneq ($(GCCVER),2)
+  CFLAGS := $(CFLAGS) -std=c99
+else
+  # __inline__ is a GCCism
+  CFLAGS := $(CFLAGS) -Dinline="__inline__"
+endif
+------------------------
+# BeOS/Haiku/AmigaOS standard library headers create warnings
+ifneq ($(TARGET),beos)
+  ifneq ($(TARGET),AmigaOS)
+    WARNFLAGS := $(WARNFLAGS) -Werror
+  endif
+endif
+
+CFLAGS := -D_BSD_SOURCE -I$(CURDIR)/include/ \
+	-I$(CURDIR)/src $(WARNFLAGS) $(CFLAGS)
+ifneq ($(GCCVER),2)
+  CFLAGS := $(CFLAGS) -std=c99
+else
+  # __inline__ is a GCCism
+  CFLAGS := $(CFLAGS) -Dinline="__inline__"
+endif
+
+# LibXML2
+ifneq ($(PKGCONFIG),)
+  CFLAGS := $(CFLAGS) \
+		$(shell $(PKGCONFIG) $(PKGCONFIGFLAGS) --cflags libxml-2.0)
+  LDFLAGS := $(LDFLAGS) \
+		$(shell $(PKGCONFIG) $(PKGCONFIGFLAGS) --libs libxml-2.0)
+else
+  ifeq ($(TARGET),beos)
+    CFLAGS := $(CFLAGS) -I/boot/home/config/include/libxml2
+  endif
+  CFLAGS := $(CFLAGS) -I$(PREFIX)/include/libxml2
+  LDFLAGS := $(CFLAGS) -lxml2
+endif
+-------------------------
+ARFLAGS = -cru
+CFLAGS = -g -Wall -Wextra -Wundef -Wpointer-arith -Wcast-align \
+	-Wwrite-strings -Wstrict-prototypes \
+	-Wnested-externs -Werror -pedantic -std=c99 \
+	-Wno-format-zero-length -Wformat-security -Wstrict-aliasing=2 \
+	-Wmissing-format-attribute -Wunused -Wunreachable-code \
+	-Wformat=2 -Werror-implicit-function-declaration \
+	-Wmissing-declarations -Wmissing-prototypes
+LDFLAGS = -g -L./
+------------------------
+# BeOS/Haiku/AmigaOS4 standard library headers create warnings
+ifneq ($(TARGET),beos)
+  ifneq ($(TARGET),AmigaOS)
+    WARNFLAGS := $(WARNFLAGS) -Werror
+  endif
+endif
+CFLAGS := -I$(CURDIR)/include/ -I$(CURDIR)/src $(WARNFLAGS) $(CFLAGS)
+ifneq ($(GCCVER),2)
+  CFLAGS := $(CFLAGS) -std=c99
+else
+  # __inline__ is a GCCism
+  CFLAGS := $(CFLAGS) -Dinline="__inline__"
+endif
+
+# OSLib
+ifneq ($(findstring clean,$(MAKECMDGOALS)),clean)
+  ifeq ($(TARGET),riscos)
+    CFLAGS := $(CFLAGS) -I$(PREFIX)/include
+    LDFLAGS := $(LDFLAGS) -lOSLib32
+  endif
+endif
+
+# RUfl
+ifneq ($(findstring clean,$(MAKECMDGOALS)),clean)
+  ifneq ($(PKGCONFIG),)
+    CFLAGS := $(CFLAGS) $(shell $(PKGCONFIG) librufl --cflags)
+    LDFLAGS := $(LDFLAGS) $(shell $(PKGCONFIG) librufl --libs)
+  else
+    CFLAGS := $(CFLAGS) -I$(PREFIX)/include
+    LDFLAGS := $(LDFLAGS) -lrufl
+  endif
+endif
+----------------------
+# BeOS/Haiku standard library headers create warnings.
+ifneq ($(TARGET),beos)
+  WARNFLAGS := $(WARNFLAGS) -Werror
+endif
+
+CFLAGS := -D_BSD_SOURCE -I$(CURDIR)/include/ \
+	-I$(CURDIR)/src $(WARNFLAGS) $(CFLAGS)
+ifneq ($(GCCVER),2)
+  CFLAGS := $(CFLAGS) -std=c99
+else
+  # __inline__ is a GCCism
+  CFLAGS := $(CFLAGS) -Dinline="__inline__"
+endif
+---------------------
+# BeOS/Haiku standard library headers create warnings
+ifneq ($(TARGET),beos)
+  WARNFLAGS := $(WARNFLAGS) -Werror
+endif
+CFLAGS := -D_BSD_SOURCE -I$(CURDIR)/include/ \
+	-I$(CURDIR)/src $(WARNFLAGS) $(CFLAGS)
+ifneq ($(GCCVER),2)
+  CFLAGS := $(CFLAGS) -std=c99
+else
+  # __inline__ is a GCCism
+  CFLAGS := $(CFLAGS) -Dinline="__inline__"
+endif
+--------------------
+# Toolchain flags
+
+CFLAGS := -g -std=c99 -D_BSD_SOURCE -D_POSIX_C_SOURCE=200112L \
+	-I$(CURDIR)/include/ -I$(CURDIR)/src $(WARNFLAGS) $(CFLAGS)
+
+NSFB_XCB_PKG_NAMES := xcb xcb-icccm xcb-image xcb-keysyms
+
+$(eval $(call pkg_config_package_available,NSFB_VNC_AVAILABLE,libvncserver))
+$(eval $(call pkg_config_package_available,NSFB_SDL_AVAILABLE,sdl))
+$(eval $(call pkg_config_package_available,NSFB_XCB_AVAILABLE,$(NSFB_XCB_PKG_NAMES)))
+
+ifeq ($(NSFB_SDL_AVAILABLE),yes)
+  $(eval $(call pkg_config_package_add_flags,sdl,CFLAGS))
+  $(eval $(call pkg_config_package_add_flags,sdl,TESTCFLAGS,TESTLDFLAGS))
+
+  REQUIRED_PKGS := $(REQUIRED_PKGS) sdl
+endif 
+
+ifeq ($(NSFB_XCB_AVAILABLE),yes)
+  # Size hint allocators were removed in xcb-icccm 0.3.0
+  $(eval $(call pkg_config_package_min_version,NSFB_XCB_ICCCM_SIZE_HINTS,xcb-icccm,0.3.0))
+  ifeq ($(NSFB_XCB_ICCCM_SIZE_HINTS),yes)
+    CFLAGS := $(CFLAGS) -DNSFB_NEED_HINTS_ALLOC
+  endif
+
+  # xcb-icccm 0.3.8 introduced an additional "icccm_" in function names
+  $(eval $(call pkg_config_package_min_version,NSFB_XCB_ICCCM_API_PREFIX,xcb-icccm,0.3.8))
+  ifeq ($(NSFB_XCB_ICCCM_API_PREFIX),yes)
+    CFLAGS := $(CFLAGS) -DNSFB_NEED_ICCCM_API_PREFIX
+  endif
+
+  # xcbproto 1.6 incorporated atoms previously found in xcb_atom
+  # However, libxcb <1.3 did not report xcbproto versions. Assume xcbproto 1.5 in this case.
+  $(eval $(call pkg_config_package_min_version,NSFB_HAVE_MODERN_XCB,xcb,1.3))
+  ifeq ($(NSFB_HAVE_MODERN_XCB),yes)
+    $(eval $(call pkg_config_get_variable,NSFB_XCBPROTO_VERSION,xcb,xcbproto_version))
+    NSFB_XCBPROTO_MAJOR_VERSION := $(word 1,$(subst ., ,$(NSFB_XCBPROTO_VERSION)))
+    NSFB_XCBPROTO_MINOR_VERSION := $(word 2,$(subst ., ,$(NSFB_XCBPROTO_VERSION)))
+    CFLAGS := $(CFLAGS) -DNSFB_XCBPROTO_MAJOR_VERSION=$(NSFB_XCBPROTO_MAJOR_VERSION)
+    CFLAGS := $(CFLAGS) -DNSFB_XCBPROTO_MINOR_VERSION=$(NSFB_XCBPROTO_MINOR_VERSION)
+  else
+    CFLAGS := $(CFLAGS) -DNSFB_XCBPROTO_MAJOR_VERSION=1
+    CFLAGS := $(CFLAGS) -DNSFB_XCBPROTO_MINOR_VERSION=5
+  endif
+
+  $(eval $(call pkg_config_package_add_flags,$(NSFB_XCB_PKG_NAMES),CFLAGS))
+  $(eval $(call pkg_config_package_add_flags,$(NSFB_XCB_PKG_NAMES),TESTCFLAGS,TESTLDFLAGS))
+
+  REQUIRED_PKGS := $(REQUIRED_PKGS) $(NSFB_XCB_PKG_NAMES)
+
+  $(eval $(call pkg_config_package_available,NSFB_XCB_UTIL_AVAILABLE,xcb-util))
+  ifeq ($(NSFB_XCB_UTIL_AVAILABLE),yes)
+    REQUIRED_PKGS := $(REQUIRED_PKGS) xcb-util
+  endif
+endif
+
+ifeq ($(NSFB_VNC_AVAILABLE),yes)
+  $(eval $(call pkg_config_package_add_flags,libvncserver,CFLAGS))
+  $(eval $(call pkg_config_package_add_flags,libvncserver,TESTCFLAGS,TESTLDFLAGS))
+
+  REQUIRED_PKGS := $(REQUIRED_PKGS) libvncserver
+endif 
+
+TESTLDFLAGS := -lm -Wl,--whole-archive -l$(COMPONENT) -Wl,--no-whole-archive $(TESTLDFLAGS)
+-----------------
+# BeOS/Haiku standard library headers create warnings
+ifneq ($(TARGET),beos)
+  WARNFLAGS := $(WARNFLAGS) -Werror
+endif
+CFLAGS := -D_BSD_SOURCE -I$(CURDIR)/include/ \
+	-I$(CURDIR)/src $(WARNFLAGS) $(CFLAGS)
+ifneq ($(GCCVER),2)
+  CFLAGS := $(CFLAGS) -std=c99
+else
+  # __inline__ is a GCCism
+  CFLAGS := $(CFLAGS) -Dinline="__inline__"
+endif
+------------------
+ifneq ($(TARGET),beos)
+  ifneq ($(TARGET),amiga)
+    WARNFLAGS := $(WARNFLAGS) -Werror
+  endif
+endif
+CFLAGS := -D_BSD_SOURCE -I$(CURDIR)/include/ \
+	-I$(CURDIR)/src $(WARNFLAGS) $(CFLAGS)
+ifneq ($(GCCVER),2)
+  CFLAGS := $(CFLAGS) -std=c99
+else
+  # __inline__ is a GCCism
+  CFLAGS := $(CFLAGS) -Dinline="__inline__"
+endif
+# Parserutils
+ifneq ($(findstring clean,$(MAKECMDGOALS)),clean)
+  ifneq ($(PKGCONFIG),)
+    CFLAGS := $(CFLAGS) $(shell $(PKGCONFIG) libparserutils --cflags)
+    LDFLAGS := $(LDFLAGS) $(shell $(PKGCONFIG) libparserutils --libs)
+  else
+    CFLAGS := $(CFLAGS) -I$(PREFIX)/include
+    LDFLAGS := $(LDFLAGS) -lparserutils
+  endif
+endif
+
+# libpng and libz
+ifneq ($(findstring clean,$(MAKECMDGOALS)),clean)
+  CFLAGS := $(CFLAGS) -I$(PREFIX)/include
+  LDFLAGS := $(LDFLAGS) -lpng -lz
+endif
+# Toolchain flags
+WARNFLAGS := -Wall -Wundef -Wpointer-arith -Wcast-align \
+	-Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes \
+	-Wmissing-declarations -Wnested-externs -Werror -pedantic
+	-Wno-overlength-strings # For nsglobe.c
+CFLAGS := -std=c99 -D_BSD_SOURCE -I$(CURDIR)/include/ \
+	-I$(CURDIR)/src $(WARNFLAGS) $(CFLAGS)
+
+ifeq ($(TARGET),riscos)
+  LDFLAGS := $(LDFLAGS) -L$(CURDIR)/unicode/libro -lunicode
+else
+  LDFLAGS := $(LDFLAGS) -L$(CURDIR)/unicode/lib -lunicode
+endif
+
+Libs: -L${libdir} -liconv -lunicode
+Cflags: -I${includedir}
+----------------------------------------
+# BeOS/Haiku/AmigaOS4 standard library headers create warnings
+ifneq ($(TARGET),beos)
+  ifneq ($(TARGET),amiga)
+    WARNFLAGS := $(WARNFLAGS) -Werror
+  endif
+endif
+CFLAGS := -D_BSD_SOURCE -I$(CURDIR)/include/ \
+	-I$(CURDIR)/src $(WARNFLAGS) $(CFLAGS)
+ifneq ($(GCCVER),2)
+  CFLAGS := $(CFLAGS) -std=c99
+else
+  # __inline__ is a GCCism
+  CFLAGS := $(CFLAGS) -Dinline="__inline__"
+endif
+# Parserutils & wapcaplet
+ifneq ($(findstring clean,$(MAKECMDGOALS)),clean)
+  ifneq ($(PKGCONFIG),)
+    CFLAGS := $(CFLAGS) $(shell $(PKGCONFIG) libparserutils libwapcaplet --cflags)
+    LDFLAGS := $(LDFLAGS) $(shell $(PKGCONFIG) libparserutils libwapcaplet --libs)
+  else
+    CFLAGS := $(CFLAGS) -I$(PREFIX)/include
+    LDFLAGS := $(LDFLAGS) -lparserutils -lwapcaplet
+  endif
+endif
+-------------------------
+# BeOS/Haiku standard library headers generate warnings
+ifneq ($(TARGET),beos)
+  WARNFLAGS := $(WARNFLAGS) -Werror
+endif
+# AmigaOS needs this to avoid warnings
+ifeq ($(TARGET),amiga)
+  CFLAGS := -U__STRICT_ANSI__ $(CFLAGS)
+endif
+CFLAGS := -D_BSD_SOURCE -I$(CURDIR)/include/ \
+	-I$(CURDIR)/src -I$(CURDIR)/binding $(WARNFLAGS) $(CFLAGS)
+# Some gcc2 versions choke on -std=c99, and it doesn't know about it anyway
+ifneq ($(GCCVER),2)
+  CFLAGS := -std=c99 $(CFLAGS)
+endif
+  # LibXML2
+  ifneq ($(PKGCONFIG),)
+    CFLAGS := $(CFLAGS) $(shell $(PKGCONFIG) libxml-2.0 --cflags)
+    LDFLAGS := $(LDFLAGS) $(shell $(PKGCONFIG) libxml-2.0 --libs)
+  else
+    CFLAGS := $(CFLAGS) -I$(PREFIX)/include/libxml2
+    LDFLAGS := $(LDFLAGS) -lxml2
+  endif
+CFLAGS := $(CFLAGS) -D_POSIX_C_SOURCE
+
+
+
+
+#/home/samuel/os/avr8-toolchain/bin/
+#/home/samuel/F/avr8-toolchain/bin/avr-ar  C:/Program Files/Atmel/AVR Tools/AVR Toolchain/bin/avr-
+#C:/Program Files/Atmel/AVR Tools/AVR Toolchain/bin/
+SET(CMAKE_AR_COMPILER "/home/samuel/os/avr8-toolchain/bin/avr-ar")
+SET(CMAKE_AR_COMPILER_ID GUN)#CLANG
+SET(CMAKE_AR_COMPILER_WORKS TRUE)
+
+SET(CMAKE_C_COMPILER "/home/samuel/os/avr8-toolchain/bin/avr-gcc")
+SET(CMAKE_C_COMPILER_ID_RUN TRUE)
+SET(CMAKE_C_COMPILER_ID GUN)#CLANG
+SET(CMAKE_C_COMPILER_WORKS TRUE)
+SET(CMAKE_C_COMPILER_FORCED TRUE)
+
+SET(CMAKE_CXX_COMPILER "/home/samuel/os/avr8-toolchain/bin/avr-c++")
+SET(CMAKE_CXX_COMPILER_COMPILER_ID_RUN TRUE)
+SET(CMAKE_CXX_COMPILER_ID GUN)
+SET(CMAKE_CXX_COMPILER_WORKS TRUE)
+SET(CMAKE_CXX_COMPILER_FORCED TRUE)
+
+SET(CMAKE_ASM_COMPILER "/home/samuel/os/avr8-toolchain/bin/avr-gcc")
+SET(CMAKE_ASM_COMPILER_COMPILER_ID_RUN TRUE)
+SET(CMAKE_ASM_COMPILER_ID GUN)
+SET(CMAKE_ASM_COMPILER_WORKS TRUE)
+SET(CMAKE_ASM_COMPILER_FORCED TRUE)
+
+SET(CMAKE_LINKER_COMPILER "/home/samuel/os/avr8-toolchain/bin/avr-ld")
+SET(CMAKE_LINKER_COMPILER_COMPILER_ID_RUN TRUE)
+SET(CMAKE_LINKER_COMPILER_ID GUN)
+SET(CMAKE_LINKER_COMPILER_WORKS TRUE)
+SET(CMAKE_LINKER_COMPILER_FORCED TRUE)
+
+SET(CMAKE_NM_COMPILER "/home/samuel/os/avr8-toolchain/bin/avr-nm")
+SET(CMAKE_NM_COMPILER_ID GUN)
+SET(CMAKE_NM_COMPILER_WORKS TRUE)
+
+SET(CMAKE_OBJCOPY_COMPILER "/home/samuel/os/avr8-toolchain/bin/avr-objcopy")
+SET(CMAKE_OBJCOPY_COMPILER_ID GUN)
+SET(CMAKE_OBJCOPY_COMPILER_WORKS TRUE)
+
+SET(CMAKE_OBJDUMP_COMPILER "/home/samuel/os/avr8-toolchain/bin/avr-objdump")
+SET(CMAKE_OBJDUMP_COMPILER_ID GUN)
+SET(CMAKE_OBJDUMP_COMPILER_WORKS TRUE)
+
+SET(CMAKE_STRIP_COMPILER "/home/samuel/os/avr8-toolchain/bin/avr-strip")
+SET(CMAKE_STRIP_COMPILER_ID GUN)
+SET(CMAKE_STRIP_COMPILER_WORKS TRUE)
+
+
+
+SET(CMAKE_MAKE_PROGRAM "make")
+
+enable_language(ASM)
+
+include_directories(
+${CMAKE_CURRENT_SOURCE_DIR}/include
+${CMAKE_CURRENT_SOURCE_DIR}/include/std
+${CMAKE_CURRENT_SOURCE_DIR}/include/stl
+${CMAKE_CURRENT_SOURCE_DIR}/arch/x86/include
+${CMAKE_CURRENT_SOURCE_DIR}/bsp/hal/x86/include/
+${CMAKE_CURRENT_SOURCE_DIR}
+${CMAKE_CURRENT_SOURCE_DIR}/lib
+${CMAKE_CURRENT_SOURCE_DIR}/fs
+${CMAKE_CURRENT_SOURCE_DIR}/net
+
+${CMAKE_CURRENT_SOURCE_DIR}/include/sys
+
+
+
+${CMAKE_CURRENT_SOURCE_DIR}
+)

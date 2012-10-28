@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/meta/meta.trans/meta.trans.ref
+END
+add_lvalue_ref.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/meta/meta.trans/meta.trans.ref/add_lvalue_ref.pass.cpp
+END
+add_rvalue_ref.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/meta/meta.trans/meta.trans.ref/add_rvalue_ref.pass.cpp
+END
+remove_ref.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/meta/meta.trans/meta.trans.ref/remove_ref.pass.cpp
+END

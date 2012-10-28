@@ -1,0 +1,16 @@
+/home/samuel/build/1.07/netsurf/alphagen/CMakeFiles/alphagen.dir
+/home/samuel/build/1.07/netsurf/art/CMakeFiles/art.dir
+/home/samuel/build/1.07/netsurf/libcss/CMakeFiles/css.dir
+/home/samuel/build/1.07/netsurf/libdom/CMakeFiles/dom.dir
+/home/samuel/build/1.07/netsurf/libhubbub/CMakeFiles/hubbub.dir
+/home/samuel/build/1.07/netsurf/json-c/CMakeFiles/json.dir
+/home/samuel/build/1.07/netsurf/netsurf/CMakeFiles/netsurf.dir
+/home/samuel/build/1.07/netsurf/libnsbmp/CMakeFiles/nsbmp.dir
+/home/samuel/build/1.07/netsurf/libnsfb/CMakeFiles/nsfb.dir
+/home/samuel/build/1.07/netsurf/nsgenjsbind/CMakeFiles/nsgenjsbind.dir
+/home/samuel/build/1.07/netsurf/libnsgif/CMakeFiles/nsgif.dir
+/home/samuel/build/1.07/netsurf/libparserutils/CMakeFiles/parserutils.dir
+/home/samuel/build/1.07/netsurf/librosprite/CMakeFiles/rosprite.dir
+/home/samuel/build/1.07/netsurf/libsvgtiny/CMakeFiles/svgtiny.dir
+/home/samuel/build/1.07/netsurf/ttf2f/CMakeFiles/ttf2f.dir
+/home/samuel/build/1.07/netsurf/libwapcaplet/CMakeFiles/wapcaplet.dir

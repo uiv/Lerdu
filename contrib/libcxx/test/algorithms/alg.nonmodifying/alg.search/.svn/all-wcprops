@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.nonmodifying/alg.search
+END
+search.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.nonmodifying/alg.search/search.pass.cpp
+END
+search_pred.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.nonmodifying/alg.search/search_pred.pass.cpp
+END

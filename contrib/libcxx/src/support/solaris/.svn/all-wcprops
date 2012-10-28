@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/151721/libcxx/trunk/src/support/solaris
+END
+xlocale.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/151721/libcxx/trunk/src/support/solaris/xlocale.c
+END
+mbsnrtowcs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/151721/libcxx/trunk/src/support/solaris/mbsnrtowcs.inc
+END
+wcsnrtombs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/151721/libcxx/trunk/src/support/solaris/wcsnrtombs.inc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/151721/libcxx/trunk/src/support/solaris/README
+END

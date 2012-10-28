@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locales/locale.convenience/conversions/conversions.character
+END
+tolower.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locales/locale.convenience/conversions/conversions.character/tolower.pass.cpp
+END
+toupper.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locales/locale.convenience/conversions/conversions.character/toupper.pass.cpp
+END

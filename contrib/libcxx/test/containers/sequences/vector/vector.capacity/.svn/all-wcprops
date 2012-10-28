@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/vector/vector.capacity
+END
+resize_size_value.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/vector/vector.capacity/resize_size_value.pass.cpp
+END
+swap.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/vector/vector.capacity/swap.pass.cpp
+END
+reserve.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/vector/vector.capacity/reserve.pass.cpp
+END
+resize_size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/vector/vector.capacity/resize_size.pass.cpp
+END
+capacity.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/vector/vector.capacity/capacity.pass.cpp
+END
+shrink_to_fit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/vector/vector.capacity/shrink_to_fit.pass.cpp
+END

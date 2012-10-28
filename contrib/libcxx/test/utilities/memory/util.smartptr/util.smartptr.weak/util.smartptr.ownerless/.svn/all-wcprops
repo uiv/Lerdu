@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/util.smartptr/util.smartptr.weak/util.smartptr.ownerless
+END
+owner_less.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/util.smartptr/util.smartptr.weak/util.smartptr.ownerless/owner_less.pass.cpp
+END

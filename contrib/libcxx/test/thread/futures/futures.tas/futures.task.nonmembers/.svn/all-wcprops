@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/120458/libcxx/trunk/test/thread/futures/futures.tas/futures.task.nonmembers
+END
+swap.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/120458/libcxx/trunk/test/thread/futures/futures.tas/futures.task.nonmembers/swap.pass.cpp
+END
+uses_allocator.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.tas/futures.task.nonmembers/uses_allocator.pass.cpp
+END

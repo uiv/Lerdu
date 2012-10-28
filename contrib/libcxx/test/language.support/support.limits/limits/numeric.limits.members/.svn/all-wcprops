@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members
+END
+is_integer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/is_integer.pass.cpp
+END
+traps.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/traps.pass.cpp
+END
+infinity.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/infinity.pass.cpp
+END
+is_modulo.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/is_modulo.pass.cpp
+END
+tinyness_before.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/tinyness_before.pass.cpp
+END
+is_iec559.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/is_iec559.pass.cpp
+END
+round_error.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/round_error.pass.cpp
+END
+has_signaling_NaN.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/has_signaling_NaN.pass.cpp
+END
+min_exponent.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/min_exponent.pass.cpp
+END
+max_exponent.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/max_exponent.pass.cpp
+END
+signaling_NaN.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/signaling_NaN.pass.cpp
+END
+round_style.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/round_style.pass.cpp
+END
+epsilon.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/epsilon.pass.cpp
+END
+is_bounded.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/is_bounded.pass.cpp
+END
+lowest.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/lowest.pass.cpp
+END
+has_quiet_NaN.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/has_quiet_NaN.pass.cpp
+END
+has_denorm_loss.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/has_denorm_loss.pass.cpp
+END
+quiet_NaN.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/quiet_NaN.pass.cpp
+END
+digits.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/digits.pass.cpp
+END
+has_infinity.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/has_infinity.pass.cpp
+END
+denorm_min.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/denorm_min.pass.cpp
+END
+max_digits10.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/max_digits10.pass.cpp
+END
+is_exact.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/is_exact.pass.cpp
+END
+min_exponent10.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/min_exponent10.pass.cpp
+END
+is_signed.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/is_signed.pass.cpp
+END
+max_exponent10.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/max_exponent10.pass.cpp
+END
+radix.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/radix.pass.cpp
+END
+has_denorm.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/has_denorm.pass.cpp
+END
+min.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/min.pass.cpp
+END
+digits10.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/digits10.pass.cpp
+END
+max.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits.members/max.pass.cpp
+END

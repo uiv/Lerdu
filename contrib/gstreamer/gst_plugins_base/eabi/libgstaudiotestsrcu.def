@@ -1,0 +1,4 @@
+EXPORTS
+	_GST_PLUGIN_DESC @ 1 NONAME
+	gst_audio_test_src_get_type @ 2 NONAME
+

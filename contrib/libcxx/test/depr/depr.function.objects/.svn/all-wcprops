@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/121275/libcxx/trunk/test/depr/depr.function.objects
+END
+nothing_to_do.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/121275/libcxx/trunk/test/depr/depr.function.objects/nothing_to_do.pass.cpp
+END

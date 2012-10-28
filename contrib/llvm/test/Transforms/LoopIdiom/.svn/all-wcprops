@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/164383/llvm/trunk/test/Transforms/LoopIdiom
+END
+basic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/140634/llvm/trunk/test/Transforms/LoopIdiom/basic.ll
+END
+non-canonical-loop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/164383/llvm/trunk/test/Transforms/LoopIdiom/non-canonical-loop.ll
+END
+memset_noidiom.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/135299/llvm/trunk/test/Transforms/LoopIdiom/memset_noidiom.ll
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/150664/llvm/trunk/test/Transforms/LoopIdiom/lit.local.cfg
+END
+debug-line.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/127182/llvm/trunk/test/Transforms/LoopIdiom/debug-line.ll
+END

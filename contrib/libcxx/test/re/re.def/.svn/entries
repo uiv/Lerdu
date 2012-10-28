@@ -1,0 +1,83 @@
+10
+
+dir
+166254
+http://llvm.org/svn/llvm-project/libcxx/trunk/test/re/re.def
+http://llvm.org/svn/llvm-project
+
+
+
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+defns.regex.primary.equivalence.class
+dir
+
+defns.regex.subexpression
+dir
+
+nothing_to_do.pass.cpp
+file
+
+
+
+
+2012-10-19T01:22:24.424276Z
+b7ee39c6cb3824f0fbad63f4060a034d
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+387
+
+defns.regex.regular.expression
+dir
+
+defns.regex.finite.state.machine
+dir
+
+defns.regex.format.specifier
+dir
+
+defns.regex.collating.element
+dir
+
+defns.regex.matched
+dir
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/llvm-project/!svn/ver/152501/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.money.put/locale.money.put.members
+END
+put_long_double_fr_FR.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/llvm-project/!svn/ver/152501/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.money.put/locale.money.put.members/put_long_double_fr_FR.pass.cpp
+END
+put_long_double_zh_CN.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.money.put/locale.money.put.members/put_long_double_zh_CN.pass.cpp
+END
+put_string_en_US.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.money.put/locale.money.put.members/put_string_en_US.pass.cpp
+END
+put_long_double_en_US.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.money.put/locale.money.put.members/put_long_double_en_US.pass.cpp
+END
+iterators.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/llvm-project/!svn/ver/111761/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.money.put/locale.money.put.members/iterators.h
+END
+put_long_double_ru_RU.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.money.put/locale.money.put.members/put_long_double_ru_RU.pass.cpp
+END

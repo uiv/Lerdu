@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/input.output/stream.buffers
+END
+version.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/stream.buffers/version.pass.cpp
+END

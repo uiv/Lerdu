@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/diagnostics/syserr/syserr.errcondition/syserr.errcondition.nonmembers
+END
+make_error_condition.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/diagnostics/syserr/syserr.errcondition/syserr.errcondition.nonmembers/make_error_condition.pass.cpp
+END
+lt.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/diagnostics/syserr/syserr.errcondition/syserr.errcondition.nonmembers/lt.pass.cpp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.nonmembers/string_operator==
+END
+string_string.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.nonmembers/string_operator==/string_string.pass.cpp
+END
+pointer_string.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.nonmembers/string_operator==/pointer_string.pass.cpp
+END
+string_pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.nonmembers/string_operator==/string_pointer.pass.cpp
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/class.slice/cons.slice
+END
+start_size_stride.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/class.slice/cons.slice/start_size_stride.pass.cpp
+END
+default.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/class.slice/cons.slice/default.pass.cpp
+END

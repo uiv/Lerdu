@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/131509/libcxx/trunk/test/thread/futures/futures.tas/futures.task.members
+END
+ctor_func.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/thread/futures/futures.tas/futures.task.members/ctor_func.pass.cpp
+END
+reset.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.tas/futures.task.members/reset.pass.cpp
+END
+assign_copy.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/120458/libcxx/trunk/test/thread/futures/futures.tas/futures.task.members/assign_copy.fail.cpp
+END
+make_ready_at_thread_exit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/llvm-project/!svn/ver/131509/libcxx/trunk/test/thread/futures/futures.tas/futures.task.members/make_ready_at_thread_exit.pass.cpp
+END
+ctor_copy.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/120458/libcxx/trunk/test/thread/futures/futures.tas/futures.task.members/ctor_copy.fail.cpp
+END
+dtor.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/131509/libcxx/trunk/test/thread/futures/futures.tas/futures.task.members/dtor.pass.cpp
+END
+get_future.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.tas/futures.task.members/get_future.pass.cpp
+END
+assign_move.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/120458/libcxx/trunk/test/thread/futures/futures.tas/futures.task.members/assign_move.pass.cpp
+END
+swap.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/120458/libcxx/trunk/test/thread/futures/futures.tas/futures.task.members/swap.pass.cpp
+END
+ctor_default.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/120458/libcxx/trunk/test/thread/futures/futures.tas/futures.task.members/ctor_default.pass.cpp
+END
+operator.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/131509/libcxx/trunk/test/thread/futures/futures.tas/futures.task.members/operator.pass.cpp
+END
+ctor_func_alloc.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/thread/futures/futures.tas/futures.task.members/ctor_func_alloc.pass.cpp
+END
+ctor_move.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/120458/libcxx/trunk/test/thread/futures/futures.tas/futures.task.members/ctor_move.pass.cpp
+END

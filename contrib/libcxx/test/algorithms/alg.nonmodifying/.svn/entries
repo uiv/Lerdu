@@ -1,0 +1,101 @@
+10
+
+dir
+166254
+http://llvm.org/svn/llvm-project/libcxx/trunk/test/algorithms/alg.nonmodifying
+http://llvm.org/svn/llvm-project
+
+
+
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+alg.find.end
+dir
+
+alg.search
+dir
+
+alg.equal
+dir
+
+alg.foreach
+dir
+
+alg.adjacent.find
+dir
+
+alg.count
+dir
+
+alg.find.first.of
+dir
+
+alg.any_of
+dir
+
+alg.all_of
+dir
+
+nothing_to_do.pass.cpp
+file
+
+
+
+
+2012-10-19T01:22:26.000276Z
+de8ffdb592ab304b14832467aef77cb3
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+372
+
+alg.find
+dir
+
+alg.is_permutation
+dir
+
+alg.none_of
+dir
+
+mismatch
+dir
+

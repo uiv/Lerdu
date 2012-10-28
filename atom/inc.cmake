@@ -1,0 +1,16 @@
+SET(OS_ATOM_SRC
+./boot/boot.c
+./proc/proc_tty.c
+./proc/proc_hash.c
+./proc/proc_fork.c
+./proc/proc_pid.c
+./proc/proc_exit.c
+#./proc/main.c
+./proc/proc_sig.c
+./exec/exec_elf.c
+./exec/exec_execve.c
+./exec/exec_script.c
+./exec/exec_conf.c
+./exec/exec_cap.c
+#./exec/main.c
+)

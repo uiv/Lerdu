@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/119699/libcxx/trunk/test/utilities/memory/specialized.algorithms
+END
+nothing_to_do.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/specialized.algorithms/nothing_to_do.pass.cpp
+END

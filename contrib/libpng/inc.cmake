@@ -1,0 +1,19 @@
+SET(OS_CONTRIB_LIBPNG_SRC
+./pngwtran.c
+./pngset.c
+./pngrutil.c
+./pngrio.c
+./pngwutil.c
+./pngmem.c
+./pngerror.c
+./pngtrans.c
+./png.c
+./pngrtran.c
+./pngread.c
+./pngget.c
+./pngwio.c
+./pngtest.c
+./pngpread.c
+./pngwrite.c
+#more see list.txt
+)

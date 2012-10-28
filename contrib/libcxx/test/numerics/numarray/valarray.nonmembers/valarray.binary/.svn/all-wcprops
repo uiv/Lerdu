@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary
+END
+shift_left_valarray_valarray.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/shift_left_valarray_valarray.pass.cpp
+END
+modulo_value_valarray.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/modulo_value_valarray.pass.cpp
+END
+modulo_valarray_value.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/modulo_valarray_value.pass.cpp
+END
+minus_valarray_valarray.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/minus_valarray_valarray.pass.cpp
+END
+and_value_valarray.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/and_value_valarray.pass.cpp
+END
+and_valarray_value.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/and_valarray_value.pass.cpp
+END
+modulo_valarray_valarray.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/modulo_valarray_valarray.pass.cpp
+END
+divide_value_valarray.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/divide_value_valarray.pass.cpp
+END
+divide_valarray_value.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/divide_valarray_value.pass.cpp
+END
+and_valarray_valarray.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/and_valarray_valarray.pass.cpp
+END
+xor_valarray_value.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/xor_valarray_value.pass.cpp
+END
+xor_value_valarray.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/xor_value_valarray.pass.cpp
+END
+divide_valarray_valarray.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/divide_valarray_valarray.pass.cpp
+END
+shift_right_valarray_value.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/shift_right_valarray_value.pass.cpp
+END
+shift_right_value_valarray.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/shift_right_value_valarray.pass.cpp
+END
+xor_valarray_valarray.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/xor_valarray_valarray.pass.cpp
+END
+shift_right_valarray_valarray.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/shift_right_valarray_valarray.pass.cpp
+END
+or_value_valarray.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/or_value_valarray.pass.cpp
+END
+or_valarray_value.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/or_valarray_value.pass.cpp
+END
+times_valarray_value.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/times_valarray_value.pass.cpp
+END
+times_value_valarray.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/times_value_valarray.pass.cpp
+END
+plus_valarray_value.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/plus_valarray_value.pass.cpp
+END
+plus_value_valarray.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/plus_value_valarray.pass.cpp
+END
+or_valarray_valarray.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/or_valarray_valarray.pass.cpp
+END
+times_valarray_valarray.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/times_valarray_valarray.pass.cpp
+END
+shift_left_valarray_value.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/shift_left_valarray_value.pass.cpp
+END
+shift_left_value_valarray.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/shift_left_value_valarray.pass.cpp
+END
+plus_valarray_valarray.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/plus_valarray_valarray.pass.cpp
+END
+minus_value_valarray.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/minus_value_valarray.pass.cpp
+END
+minus_valarray_value.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.nonmembers/valarray.binary/minus_valarray_value.pass.cpp
+END

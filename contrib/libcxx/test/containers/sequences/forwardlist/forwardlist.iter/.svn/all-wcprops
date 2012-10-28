@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/124508/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.iter
+END
+before_begin.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.iter/before_begin.pass.cpp
+END
+iterators.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/124508/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.iter/iterators.pass.cpp
+END

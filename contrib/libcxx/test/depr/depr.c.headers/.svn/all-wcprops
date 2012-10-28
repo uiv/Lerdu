@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/151451/libcxx/trunk/test/depr/depr.c.headers
+END
+iso646_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/iso646_h.pass.cpp
+END
+fenv_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/fenv_h.pass.cpp
+END
+time_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/time_h.pass.cpp
+END
+locale_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/locale_h.pass.cpp
+END
+limits_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/limits_h.pass.cpp
+END
+assert_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/assert_h.pass.cpp
+END
+setjmp_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/setjmp_h.pass.cpp
+END
+uchar_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/uchar_h.pass.cpp
+END
+wchar_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/135247/libcxx/trunk/test/depr/depr.c.headers/wchar_h.pass.cpp
+END
+float_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/float_h.pass.cpp
+END
+stdint_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/stdint_h.pass.cpp
+END
+stdbool_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/stdbool_h.pass.cpp
+END
+string_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/string_h.pass.cpp
+END
+stddef_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/stddef_h.pass.cpp
+END
+wctype_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/wctype_h.pass.cpp
+END
+signal_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/signal_h.pass.cpp
+END
+inttypes_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/134531/libcxx/trunk/test/depr/depr.c.headers/inttypes_h.pass.cpp
+END
+stdlib_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/stdlib_h.pass.cpp
+END
+stdio_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/151451/libcxx/trunk/test/depr/depr.c.headers/stdio_h.pass.cpp
+END
+stdarg_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/stdarg_h.pass.cpp
+END
+ctype_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/ctype_h.pass.cpp
+END
+tgmath_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/tgmath_h.pass.cpp
+END
+errno_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/errno_h.pass.cpp
+END
+complex.h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/complex.h.pass.cpp
+END
+ciso646.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.c.headers/ciso646.pass.cpp
+END
+math_h.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/131318/libcxx/trunk/test/depr/depr.c.headers/math_h.pass.cpp
+END

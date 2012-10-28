@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/xmlwf.dir/xmlwf/xmlwf.c.o CMakeFiles/xmlwf.dir/xmlwf/xmlfile.c.o CMakeFiles/xmlwf.dir/xmlwf/codepage.c.o CMakeFiles/xmlwf.dir/xmlwf/readfilemap.c.o  -o xmlwf -rdynamic libexpat.so -Wl,-rpath,/home/samuel/build/1.08/contrib/expat: 

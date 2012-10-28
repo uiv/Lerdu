@@ -1,0 +1,9 @@
+---- dom_hubbub_parser_get_document Æ¥Åä (2 ÔÚ 2 ÎÄ¼ş ) ----
+Dom-structure-dump.c (libdom\examples):118
+	doc = dom_hubbub_parser_get_document(parser);
+
+	/* Finished with parser */
+Parser.c (libdom\bindings\hubbub):949
+dom_document *dom_hubbub_parser_get_document(dom_hubbub_parser *parser)
+{
+       dom_document *doc = NULL;

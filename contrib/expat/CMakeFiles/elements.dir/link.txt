@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/elements.dir/examples/elements.c.o  -o elements -rdynamic libexpat.so -Wl,-rpath,/home/samuel/build/1.08/contrib/expat 

@@ -1,0 +1,335 @@
+/*
+* Copyright (c) 2009 Nokia Corporation and/or its subsidiary(-ies). All rights reserved.
+*
+* This library is free software; you can redistribute it and/or
+* modify it under the terms of the GNU Lesser General Public
+* License as published by the Free Software Foundation; either
+* version 2 of the License, or (at your option) any later version.
+*
+* This library is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+* Lesser General Public License for more details.
+*
+* You should have received a copy of the GNU Lesser General Public
+* License along with this library; if not, write to the
+* Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+* Boston, MA 02111-1307, USA.
+*
+* Description:
+*
+*/
+/*
+* ==============================================================================
+*  Name        : GSTPlayer.rss
+*  Part of     : GSTPlayer
+*  Interface   : 
+*  Description : 
+*  Version     : 
+*
+
+* ==============================================================================
+*/
+
+//  RESOURCE IDENTIFIER
+NAME HEWB    // 4 letter ID
+
+
+//  INCLUDES
+#include <eikon.rh>
+#include <eikon.rsg>
+#include <Avkon.rsg>
+#include <Avkon.hrh>
+#include <Avkon.rh>
+//#include <avkon.loc>
+#include <avkon.mbg>
+//#include <avkonsct.loc>
+#include <avkon.rsg>
+#include <appinfo.rh>
+
+#include <CommonDialogs.hrh> 
+#include <CommonDialogs.rh> 
+#include <PathConfiguration.hrh>
+
+#include "GSTPlayer.hrh"
+#include "GSTPlayer.rls"
+
+#define KWidth 176
+#define KHeight 100
+#define KMaxLength 256
+
+//  RESOURCE DEFINITIONS
+// -----------------------------------------------------------------------------
+//
+//    Define the resource file signature
+//    This resource should be empty.
+//
+// -----------------------------------------------------------------------------
+//
+RESOURCE RSS_SIGNATURE
+    {
+    }
+
+// -----------------------------------------------------------------------------
+//
+//    Default Document Name
+//
+// -----------------------------------------------------------------------------
+//
+RESOURCE TBUF r_default_document_name
+    {
+    buf="HEWB";
+    }
+
+// -----------------------------------------------------------------------------
+//
+//    Define default menu and CBA key.
+//
+// -----------------------------------------------------------------------------
+//
+RESOURCE EIK_APP_INFO
+    {
+    menubar = r_gstplayer_menubar;
+    cba = R_AVKON_SOFTKEYS_OPTIONS_EXIT;
+    }
+
+
+// -----------------------------------------------------------------------------
+//
+//   r_helloworldbasic_menubar
+//   Menubar for HelloWorldBasic example
+//
+// -----------------------------------------------------------------------------
+//
+RESOURCE MENU_BAR r_gstplayer_menubar
+    {
+    titles =
+        {
+        MENU_TITLE { menu_pane = r_gstplayer_menu; }
+        };
+    }
+
+RESOURCE MENU_PANE r_play_cmd
+    {
+    items=
+        {
+        MENU_ITEM{command = EGSTPlayerNewSong;txt = "New Song";},
+        MENU_ITEM{command = EGSTPlayerPlay;txt = "Play";},
+        MENU_ITEM{command = EGSTPlayerSamplesPlayed; txt = "Samples Played"; },
+        MENU_ITEM{command = EGSTPlayerSkPadCaps;txt = "Sink Pad Caps";cascade=r_sinkpad_caps;},
+        MENU_ITEM{command = EGSTPlayerVolume;txt = "Volume"; cascade=r_volume_cmds;}
+        };
+    }
+
+RESOURCE MENU_PANE r_record_cmd
+    {
+    items=
+        {
+        MENU_ITEM{command = EGSTPlayerRecordWav;txt = "Record WAV";},        
+        MENU_ITEM{command = EGSTPlayerRecordRaw;txt = "Record RAW";},
+        MENU_ITEM{command = EGSTPlayerRecordAmr;txt = "Record AMR";},        
+        MENU_ITEM{command = EGSTPlayerRecordG711;txt = "Record G711";},
+        MENU_ITEM{command = EGSTPlayerRecordG729;txt = "Record G729";},        
+        MENU_ITEM{command = EGSTPlayerRecordIlbc;txt = "Record ILBC";},
+        MENU_ITEM { command = EGSTPlayerSamplesRecorded; txt = "Samples Recorded"; },
+        MENU_ITEM{command = EGSTPlayerSourcePadCaps;txt = "Source Pad Caps";cascade=r_srcpad_caps;},
+        MENU_ITEM{command = EGSTPlayerGain;txt = "Gain"; cascade=r_gain_cmds;}
+        };
+    }
+
+RESOURCE MENU_PANE r_volume_cmds
+    {
+    items=
+        {
+        MENU_ITEM { command = EGSTPlayerCurrentVolume; txt = "Current Volume"; },
+        MENU_ITEM { command = EGSTPlayerMaxVolume; txt = "Max Volume"; },
+        MENU_ITEM { command = EGSTPlayerVolumeUp; txt = "Volume up"; },
+        MENU_ITEM { command = EGSTPlayerVolumeDown; txt = "Volume down"; },
+        MENU_ITEM { command = EGSTPlayerRightBalance; txt = "Right Balance"; },
+        MENU_ITEM { command = EGSTPlayerLeftBalance; txt = "Left Balance"; }
+        };
+    }
+
+RESOURCE MENU_PANE r_gain_cmds
+    {
+    items=
+        {
+        MENU_ITEM { command = EGSTPlayerCurrentGain; txt = "Current Gain"; },
+        MENU_ITEM { command = EGSTPlayerMaxGain; txt = "Max Gain"; },
+        MENU_ITEM { command = EGSTPlayerGainUp; txt = "Gain up"; },
+        MENU_ITEM { command = EGSTPlayerGainDown; txt = "Gain down"; }
+       // MENU_ITEM { command = EGSTPlayerRightBalance; txt = "Right Balance"; },
+       // MENU_ITEM { command = EGSTPlayerLeftBalance; txt = "Left Balance"; }
+        };
+    }
+RESOURCE MENU_PANE r_sinkpad_caps
+    {
+    items=
+        {
+        MENU_ITEM { command = EGSTPlayerSinkPadCaps; txt = "DevSound sinkpad caps"; },
+        MENU_ITEM { command = EGSTPlayerNegotiatedSinkCaps; txt = "Negotiated Sink Caps"; }
+        };
+    }
+
+RESOURCE MENU_PANE r_srcpad_caps
+    {
+    items=
+        {
+        MENU_ITEM { command = EGSTPlayerSrcPadCaps; txt = "DevSound srcpad caps"; },
+        MENU_ITEM { command = EGSTPlayerNegotiatedSrcCaps; txt = "Negotiated Src Caps"; }
+        };
+    }
+
+RESOURCE MENU_PANE r_sample_info
+    {
+    items=
+        {
+        MENU_ITEM { command = EGSTPlayerSamplesPlayed; txt = "Samples Played"; },
+        MENU_ITEM { command = EGSTPlayerSamplesRecorded; txt = "Samples Recorded"; }//,
+        //MENU_ITEM { command = EGSTPlayerTimePlayed; txt = "Time Played"; }
+        };
+    }
+
+// -----------------------------------------------------------------------------
+//
+//   r_helloworldbasic_menu
+//   Menu for "Options"
+//
+// -----------------------------------------------------------------------------
+//
+RESOURCE MENU_PANE r_gstplayer_menu
+    {
+    items =
+        {
+        // added the new Options menu command here
+        MENU_ITEM
+            {
+            command = EGSTPlayerPlayerTest;
+            txt = "Play";
+            cascade=r_play_cmd;
+            },
+        MENU_ITEM
+            {
+            command = EGSTPlayerRecordTest;
+            txt = "Record";
+            cascade=r_record_cmd;
+            },          
+                                     
+        MENU_ITEM
+            {
+            command = EGSTPlayerStop;
+            txt = "Stop";
+            },     
+     /*   MENU_ITEM
+               {
+               command = EGSTPlayerVolume;
+               txt = "Volume";
+               cascade=r_volume_cmds;
+               },
+               */  
+       /*  MENU_ITEM
+               {
+               command = EGSTPlayerSamplesInfo;
+               txt = "Sample info";
+               cascade=r_sample_info;
+               },
+               */       
+     /*    MENU_ITEM
+               {
+               command = EGSTPlayerPadCaps;
+               txt = "Pad Caps";
+               cascade=r_pad_caps;
+               },
+      */
+        MENU_ITEM
+                {
+                command = EAknSoftkeyExit;
+                txt = "Exit";
+                }
+        };
+    }
+
+// -----------------------------------------------------------------------------
+//
+// Resources for messages.
+//
+// -----------------------------------------------------------------------------
+//
+RESOURCE TBUF32 r_hewb_command1_text { buf="Select au/aac/wav/raw file."; }
+RESOURCE TBUF32 r_hewb_command2_text { buf="Select au/aac/wav/raw New Song!"; }
+RESOURCE TBUF32 r_hewb_caption_string { buf="GSTPlayer"; }
+
+
+// ---------------------------------------------------------------------------- 
+//
+// r_helloworldbasic_localisable_app_info
+//
+// ---------------------------------------------------------------------------- 
+//
+RESOURCE LOCALISABLE_APP_INFO r_gstplayer_localisable_app_info
+    {    
+    short_caption = "GSTPlayer";
+    caption_and_icon = 
+    CAPTION_AND_ICON_INFO
+        {
+        caption = "GSTPlayer";
+
+        number_of_icons = 1;
+	   	icon_file = "\\resource\\apps\\gstplayer_aif.mif";
+	    };
+    }
+
+/* RESOURCE DIALOG r_res_id_for_a_dialog 
+{ 
+ flags = EAknDialogSelectionList; 
+ buttons = R_AVKON_SOFTKEYS_OK_CANCEL; 
+ items = 
+ { 
+  DLG_LINE 
+  { 
+   type = EAknCtSingleListBox; 
+   id = ESelectionListControl; 
+   control = LISTBOX 
+   { 
+    flags = EAknListBoxSelectionList; 
+   }; 
+  }
+ };
+}
+
+ 
+
+RESOURCE MENU_BAR r_res_id_for_a_menubar
+{
+ titles =
+ {
+  MENU_TITLE { menu_pane = R_AVKON_MENUPANE_SETTING_LIST ; }
+ };
+}*/
+
+RESOURCE RTXTED r_richtexteditor_rich_text_editor
+    {
+    width = KWidth;
+    height = KHeight;
+    textlimit = KMaxLength;
+    flags = EEikEdwinReadOnly | EEikEdwinAvkonDisableCursor;
+    avkon_flags = EAknEditorFlagEnableScrollBars;
+    }
+// ---------------------------------------------------------
+//   
+//   r_musicshop_memory_selection_dialog
+//
+// ---------------------------------------------------------
+//
+RESOURCE MEMORYSELECTIONDIALOG r_musicshop_memory_selection_dialog
+    {
+    softkey_1 = text_softkey_select;
+    locations =
+        {
+        LOCATION { root_path = text_phone_memory_root_path; },
+        LOCATION { root_path = text_memory_card_root_path; }
+        };
+    }    
+
+// End of File
+

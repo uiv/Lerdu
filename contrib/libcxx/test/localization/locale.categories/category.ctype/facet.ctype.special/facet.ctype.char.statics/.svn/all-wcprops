@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.ctype/facet.ctype.special/facet.ctype.char.statics
+END
+classic_table.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.ctype/facet.ctype.special/facet.ctype.char.statics/classic_table.pass.cpp
+END

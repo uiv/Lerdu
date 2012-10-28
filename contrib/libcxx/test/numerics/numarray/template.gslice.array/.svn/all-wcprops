@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.gslice.array
+END
+default.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.gslice.array/default.fail.cpp
+END
+types.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.gslice.array/types.pass.cpp
+END

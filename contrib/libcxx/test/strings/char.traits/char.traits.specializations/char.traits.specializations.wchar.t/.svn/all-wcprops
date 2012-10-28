@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/char.traits/char.traits.specializations/char.traits.specializations.wchar.t
+END
+lt.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/char.traits/char.traits.specializations/char.traits.specializations.wchar.t/lt.pass.cpp
+END
+to_char_type.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/char.traits/char.traits.specializations/char.traits.specializations.wchar.t/to_char_type.pass.cpp
+END
+find.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/char.traits/char.traits.specializations/char.traits.specializations.wchar.t/find.pass.cpp
+END
+eq_int_type.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/char.traits/char.traits.specializations/char.traits.specializations.wchar.t/eq_int_type.pass.cpp
+END
+length.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/char.traits/char.traits.specializations/char.traits.specializations.wchar.t/length.pass.cpp
+END
+compare.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/char.traits/char.traits.specializations/char.traits.specializations.wchar.t/compare.pass.cpp
+END
+not_eof.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/char.traits/char.traits.specializations/char.traits.specializations.wchar.t/not_eof.pass.cpp
+END
+to_int_type.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/char.traits/char.traits.specializations/char.traits.specializations.wchar.t/to_int_type.pass.cpp
+END
+types.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/char.traits/char.traits.specializations/char.traits.specializations.wchar.t/types.pass.cpp
+END
+eq.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/char.traits/char.traits.specializations/char.traits.specializations.wchar.t/eq.pass.cpp
+END
+move.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/char.traits/char.traits.specializations/char.traits.specializations.wchar.t/move.pass.cpp
+END
+assign2.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/char.traits/char.traits.specializations/char.traits.specializations.wchar.t/assign2.pass.cpp
+END
+assign3.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/char.traits/char.traits.specializations/char.traits.specializations.wchar.t/assign3.pass.cpp
+END
+eof.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/char.traits/char.traits.specializations/char.traits.specializations.wchar.t/eof.pass.cpp
+END
+copy.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/char.traits/char.traits.specializations/char.traits.specializations.wchar.t/copy.pass.cpp
+END

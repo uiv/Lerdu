@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/iostate.flags
+END
+bad.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/iostate.flags/bad.pass.cpp
+END
+clear.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/iostate.flags/clear.pass.cpp
+END
+rdstate.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/iostate.flags/rdstate.pass.cpp
+END
+good.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/iostate.flags/good.pass.cpp
+END
+eof.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/iostate.flags/eof.pass.cpp
+END
+exceptions_iostate.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/iostate.flags/exceptions_iostate.pass.cpp
+END
+bool.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/iostate.flags/bool.pass.cpp
+END
+fail.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/iostate.flags/fail.pass.cpp
+END
+setstate.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/iostate.flags/setstate.pass.cpp
+END
+not.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/iostate.flags/not.pass.cpp
+END
+exceptions.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/iostate.flags/exceptions.pass.cpp
+END

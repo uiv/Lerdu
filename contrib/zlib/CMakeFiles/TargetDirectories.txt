@@ -1,0 +1,2 @@
+/home/samuel/build/1.08/contrib/zlib/CMakeFiles/test.dir
+/home/samuel/build/1.08/contrib/zlib/CMakeFiles/zlib.dir

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.asgn
+END
+null.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.asgn/null.pass.cpp
+END
+move_convert01.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.asgn/move_convert01.fail.cpp
+END
+move01.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.asgn/move01.fail.cpp
+END
+move_convert02.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.asgn/move_convert02.fail.cpp
+END
+move02.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.asgn/move02.fail.cpp
+END
+move_convert03.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.asgn/move_convert03.fail.cpp
+END
+move03.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.asgn/move03.fail.cpp
+END
+move_convert13.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.asgn/move_convert13.fail.cpp
+END
+move_convert04.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.asgn/move_convert04.fail.cpp
+END
+move04.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.asgn/move04.fail.cpp
+END
+move_convert05.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.asgn/move_convert05.fail.cpp
+END
+move_convert06.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.asgn/move_convert06.fail.cpp
+END
+nullptr.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.asgn/nullptr.pass.cpp
+END
+move_convert01.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.asgn/move_convert01.pass.cpp
+END
+move01.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.asgn/move01.pass.cpp
+END
+move_convert02.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.asgn/move_convert02.pass.cpp
+END
+move_convert03.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.asgn/move_convert03.pass.cpp
+END

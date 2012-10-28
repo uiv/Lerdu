@@ -1,0 +1,12 @@
+EXPORTS
+	oil_class_optimize @ 1 NONAME
+	oil_cpu_get_flags @ 2 NONAME
+	oil_impl_is_runnable @ 3 NONAME
+	oil_merge_linear_argb @ 4 NONAME
+	oil_merge_linear_u8 @ 5 NONAME
+	oil_resample_linear_argb @ 6 NONAME
+	oil_resample_linear_u8 @ 7 NONAME
+	oil_scalarmultiply_f32_ns @ 8 NONAME
+	oil_splat_u8 @ 9 NONAME
+	oil_splat_u8_ns @ 10 NONAME
+

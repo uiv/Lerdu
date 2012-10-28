@@ -1,0 +1,2 @@
+/home/samuel/build/1.08/contrib/bzip/CMakeFiles/bzip.dir
+/home/samuel/build/1.08/contrib/bzip/CMakeFiles/bzip_static.dir

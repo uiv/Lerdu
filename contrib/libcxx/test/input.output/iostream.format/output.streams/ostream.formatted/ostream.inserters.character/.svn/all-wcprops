@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.formatted/ostream.inserters.character
+END
+signed_char.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.formatted/ostream.inserters.character/signed_char.pass.cpp
+END
+signed_char_pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.formatted/ostream.inserters.character/signed_char_pointer.pass.cpp
+END
+char_to_wide.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.formatted/ostream.inserters.character/char_to_wide.pass.cpp
+END
+char_to_wide_pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.formatted/ostream.inserters.character/char_to_wide_pointer.pass.cpp
+END
+unsigned_char.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.formatted/ostream.inserters.character/unsigned_char.pass.cpp
+END
+unsigned_char_pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.formatted/ostream.inserters.character/unsigned_char_pointer.pass.cpp
+END
+char.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.formatted/ostream.inserters.character/char.pass.cpp
+END
+char_pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.formatted/ostream.inserters.character/char_pointer.pass.cpp
+END
+CharT.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.formatted/ostream.inserters.character/CharT.pass.cpp
+END
+CharT_pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.formatted/ostream.inserters.character/CharT_pointer.pass.cpp
+END

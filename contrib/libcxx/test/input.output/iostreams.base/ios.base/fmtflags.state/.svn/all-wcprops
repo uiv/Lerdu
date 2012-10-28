@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios.base/fmtflags.state
+END
+setf_fmtflags.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios.base/fmtflags.state/setf_fmtflags.pass.cpp
+END
+width_streamsize.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios.base/fmtflags.state/width_streamsize.pass.cpp
+END
+precision.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios.base/fmtflags.state/precision.pass.cpp
+END
+flags.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios.base/fmtflags.state/flags.pass.cpp
+END
+flags_fmtflags.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios.base/fmtflags.state/flags_fmtflags.pass.cpp
+END
+setf_fmtflags_mask.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios.base/fmtflags.state/setf_fmtflags_mask.pass.cpp
+END
+unsetf_mask.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios.base/fmtflags.state/unsetf_mask.pass.cpp
+END
+width.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios.base/fmtflags.state/width.pass.cpp
+END
+precision_streamsize.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios.base/fmtflags.state/precision_streamsize.pass.cpp
+END

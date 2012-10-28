@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/160604/libcxx/trunk/test/thread/thread.mutex/thread.once/thread.once.onceflag
+END
+default.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/160604/libcxx/trunk/test/thread/thread.mutex/thread.once/thread.once.onceflag/default.pass.cpp
+END
+assign.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/thread.mutex/thread.once/thread.once.onceflag/assign.fail.cpp
+END
+copy.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/thread.mutex/thread.once/thread.once.onceflag/copy.fail.cpp
+END

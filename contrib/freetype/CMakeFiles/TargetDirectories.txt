@@ -1,0 +1,2 @@
+/home/samuel/build/1.08/contrib/freetype/CMakeFiles/freetype.dir
+/home/samuel/build/1.08/contrib/freetype/CMakeFiles/freetype_static.dir

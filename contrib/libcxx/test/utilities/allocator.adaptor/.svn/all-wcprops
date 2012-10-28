@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/121503/libcxx/trunk/test/utilities/allocator.adaptor
+END
+allocators.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/113100/libcxx/trunk/test/utilities/allocator.adaptor/allocators.h
+END
+types.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/121503/libcxx/trunk/test/utilities/allocator.adaptor/types.pass.cpp
+END

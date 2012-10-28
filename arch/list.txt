@@ -1,0 +1,11 @@
+
+
+./ppc/setjmp.S
+./ppc/_crt0.S
+./ppc/_systrap.S
+./ppc/elf_reloc.c
+
+./arm/setjmp.S
+./arm/_crt0.S
+./arm/_systrap.S
+./arm/elf_reloc.c

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.tag
+END
+allocator_arg.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.tag/allocator_arg.pass.cpp
+END

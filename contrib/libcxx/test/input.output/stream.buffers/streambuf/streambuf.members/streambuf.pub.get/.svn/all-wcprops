@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.members/streambuf.pub.get
+END
+sgetn.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.members/streambuf.pub.get/sgetn.pass.cpp
+END
+in_avail.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.members/streambuf.pub.get/in_avail.pass.cpp
+END
+snextc.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.members/streambuf.pub.get/snextc.pass.cpp
+END
+sgetc.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.members/streambuf.pub.get/sgetc.pass.cpp
+END
+sbumpc.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.members/streambuf.pub.get/sbumpc.pass.cpp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.auto.ptr/auto.ptr
+END
+element_type.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.auto.ptr/auto.ptr/element_type.pass.cpp
+END
+A.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.auto.ptr/auto.ptr/A.h
+END
+AB.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.auto.ptr/auto.ptr/AB.h
+END

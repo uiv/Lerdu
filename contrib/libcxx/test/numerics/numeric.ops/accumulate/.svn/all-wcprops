@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numeric.ops/accumulate
+END
+accumulate_op.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numeric.ops/accumulate/accumulate_op.pass.cpp
+END
+accumulate.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numeric.ops/accumulate/accumulate.pass.cpp
+END

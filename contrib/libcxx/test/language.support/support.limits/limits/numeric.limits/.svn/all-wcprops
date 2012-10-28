@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits
+END
+default.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/numeric.limits/default.pass.cpp
+END

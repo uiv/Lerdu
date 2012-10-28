@@ -1,0 +1,7 @@
+EXPORTS
+	_GST_PLUGIN_DESC @ 1 NONAME
+	gst_gdp_depay_get_type @ 2 NONAME
+	gst_gdp_depay_plugin_init @ 3 NONAME
+	gst_gdp_pay_get_type @ 4 NONAME
+	gst_gdp_pay_plugin_init @ 5 NONAME
+

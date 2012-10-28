@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/166224/llvm/trunk/utils/lit/lit/ExampleTests
+END
+xfail.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/92168/llvm/trunk/utils/lit/lit/ExampleTests/xfail.c
+END
+lit.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/109062/llvm/trunk/utils/lit/lit/ExampleTests/lit.cfg
+END
+pass.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/92168/llvm/trunk/utils/lit/lit/ExampleTests/pass.c
+END
+required-and-missing.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/109071/llvm/trunk/utils/lit/lit/ExampleTests/required-and-missing.c
+END
+fail.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/92168/llvm/trunk/utils/lit/lit/ExampleTests/fail.c
+END
+xfail-feature.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/166224/llvm/trunk/utils/lit/lit/ExampleTests/xfail-feature.c
+END
+required-and-present.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/109071/llvm/trunk/utils/lit/lit/ExampleTests/required-and-present.c
+END
+xpass.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/92168/llvm/trunk/utils/lit/lit/ExampleTests/xpass.c
+END

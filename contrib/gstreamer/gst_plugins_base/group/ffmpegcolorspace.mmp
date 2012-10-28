@@ -1,0 +1,78 @@
+/*
+* Copyright (c) 2009 Nokia Corporation and/or its subsidiary(-ies). All rights reserved.
+*
+* This library is free software; you can redistribute it and/or
+* modify it under the terms of the GNU Lesser General Public
+* License as published by the Free Software Foundation; either
+* version 2 of the License, or (at your option) any later version.
+*
+* This library is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+* Lesser General Public License for more details.
+*
+* You should have received a copy of the GNU Lesser General Public
+* License along with this library; if not, write to the
+* Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+* Boston, MA 02111-1307, USA.
+*
+* Description:
+*
+*/
+
+
+#include <gstreamer/gstreamer_path.hrh>                    
+
+TARGET          libgstffmpegcolorspace.dll
+TARGETTYPE      DLL
+UID             0x20004c45 0x2001F43D
+
+#ifdef EKA2
+LANG            SC
+CAPABILITY      All -Tcb
+//VENDORID        VID_DEFAULT
+#endif
+
+#if !defined(__WINSCW__) && !defined(__WINS__)
+EpocAllowDllData
+#endif
+
+USERINCLUDE         ../gst/ffmpegcolorspace
+USERINCLUDE         ../gst-libs
+USERINCLUDE         ../gst-libs/gst
+USERINCLUDE         ../
+
+
+GST_ALL_DEPENDENT_INCLUDE
+
+USERINCLUDE		../../include/gstreamer
+USERINCLUDE		../../include/gstreamer/gst
+USERINCLUDE		../../include/gstreamer/gst/base
+USERINCLUDE		../../include/gstreamer/gst/controller
+USERINCLUDE		../../include/gstreamer/gst/dataprotocol
+USERINCLUDE		../../include/gstreamer/gst/net
+
+SOURCEPATH      ../gst/ffmpegcolorspace
+SOURCE          dsputil.c
+SOURCE          gstffmpeg.c
+SOURCE          gstffmpegcodecmap.c
+SOURCE          gstffmpegcolorspace.c
+SOURCE          imgconvert.c
+SOURCE          mem.c
+SOURCE          utils.c
+
+LIBRARY         euser.lib
+LIBRARY		libglib.lib
+LIBRARY		libgobject.lib
+LIBRARY		libgstreamer.lib
+LIBRARY		libgstbase.lib
+LIBRARY         libm.lib
+LIBRARY         libc.lib
+
+
+MACRO           HAVE_CONFIG_H
+
+
+
+
+SMPSAFE

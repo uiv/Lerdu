@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/llvm-project/!svn/ver/165588/llvm/trunk/lib/Object
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/145420/llvm/trunk/lib/Object/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/119110/llvm/trunk/lib/Object/Makefile
+END
+ELFObjectFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/154868/llvm/trunk/lib/Object/ELFObjectFile.cpp
+END
+MachOObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/160525/llvm/trunk/lib/Object/MachOObject.cpp
+END
+MachOObjectFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/165588/llvm/trunk/lib/Object/MachOObjectFile.cpp
+END
+Archive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/158248/llvm/trunk/lib/Object/Archive.cpp
+END
+Binary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/141449/llvm/trunk/lib/Object/Binary.cpp
+END
+COFFObjectFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/165588/llvm/trunk/lib/Object/COFFObjectFile.cpp
+END
+Object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/145408/llvm/trunk/lib/Object/Object.cpp
+END
+ObjectFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/147261/llvm/trunk/lib/Object/ObjectFile.cpp
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/153956/llvm/trunk/lib/Object/LLVMBuild.txt
+END
+Error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/133872/llvm/trunk/lib/Object/Error.cpp
+END

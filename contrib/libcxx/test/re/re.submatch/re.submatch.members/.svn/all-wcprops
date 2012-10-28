@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/121282/libcxx/trunk/test/re/re.submatch/re.submatch.members
+END
+compare_value_type_ptr.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.submatch/re.submatch.members/compare_value_type_ptr.pass.cpp
+END
+str.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.submatch/re.submatch.members/str.pass.cpp
+END
+compare_sub_match.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.submatch/re.submatch.members/compare_sub_match.pass.cpp
+END
+compare_string_type.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.submatch/re.submatch.members/compare_string_type.pass.cpp
+END
+length.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.submatch/re.submatch.members/length.pass.cpp
+END
+operator_string.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.submatch/re.submatch.members/operator_string.pass.cpp
+END
+default.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/121282/libcxx/trunk/test/re/re.submatch/re.submatch.members/default.pass.cpp
+END

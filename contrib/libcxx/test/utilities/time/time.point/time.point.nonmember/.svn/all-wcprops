@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.point/time.point.nonmember
+END
+op_-duration.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.point/time.point.nonmember/op_-duration.pass.cpp
+END
+op_-time_point.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.point/time.point.nonmember/op_-time_point.pass.cpp
+END
+op_+.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.point/time.point.nonmember/op_+.pass.cpp
+END

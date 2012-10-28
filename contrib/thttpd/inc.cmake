@@ -1,0 +1,15 @@
+SET(OS_CONTRIB_THTTPD_SRC
+./strerror.c
+./tdate_parse.c
+./extras/htpasswd.c
+./extras/makeweb.c
+./libhttpd.c
+./mmc.c
+./match.c
+#./thttpd.c
+./cgi-src/phf.c
+./cgi-src/redirect.c
+./cgi-src/ssi.c
+./timers.c
+./fdwatch.c
+)

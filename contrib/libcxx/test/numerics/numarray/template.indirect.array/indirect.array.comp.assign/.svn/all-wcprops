@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.indirect.array/indirect.array.comp.assign
+END
+xor.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.indirect.array/indirect.array.comp.assign/xor.pass.cpp
+END
+shift_right.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.indirect.array/indirect.array.comp.assign/shift_right.pass.cpp
+END
+addition.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.indirect.array/indirect.array.comp.assign/addition.pass.cpp
+END
+subtraction.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.indirect.array/indirect.array.comp.assign/subtraction.pass.cpp
+END
+modulo.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.indirect.array/indirect.array.comp.assign/modulo.pass.cpp
+END
+multiply.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.indirect.array/indirect.array.comp.assign/multiply.pass.cpp
+END
+or.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.indirect.array/indirect.array.comp.assign/or.pass.cpp
+END
+and.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.indirect.array/indirect.array.comp.assign/and.pass.cpp
+END
+divide.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.indirect.array/indirect.array.comp.assign/divide.pass.cpp
+END
+shift_left.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.indirect.array/indirect.array.comp.assign/shift_left.pass.cpp
+END

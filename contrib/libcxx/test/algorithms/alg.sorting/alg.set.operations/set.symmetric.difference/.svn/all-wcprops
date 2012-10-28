@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.set.operations/set.symmetric.difference
+END
+set_symmetric_difference_comp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.set.operations/set.symmetric.difference/set_symmetric_difference_comp.pass.cpp
+END
+set_symmetric_difference.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.set.operations/set.symmetric.difference/set_symmetric_difference.pass.cpp
+END

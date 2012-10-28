@@ -1,0 +1,62 @@
+CMakeFiles\std.dir\prex\malloc\realloc.c.obj: \
+ E:\AI\HopeStar\UIV\1\0.1\lib\prex\malloc\realloc.c \
+ E:\AI\HopeStar\UIV\1\0.1\include/stdlib.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/cdefs.h \
+ E:\AI\HopeStar\UIV\1\0.1\arch\avr\include/machine/_types.h \
+ E:\AI\HopeStar\UIV\1\0.1\arch\avr\include/avr/types.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/types.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/_types.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/select.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/time.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/time.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/string.h \
+ E:\AI\HopeStar\UIV\1\0.1\lib\prex\malloc\/malloc.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/param.h \
+ E:\AI\HopeStar\UIV\1\0.1\arch\avr\include/machine/limits.h \
+ E:\AI\HopeStar\UIV\1\0.1\arch\avr\include/machine/memory.h \
+ E:\AI\HopeStar\UIV\1\0.1/conf/config.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/syslimits.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/signal.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/siginfo.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/limits.h \
+ E:\AI\HopeStar\UIV\1\0.1\arch\avr\include/machine/param.h
+
+E:\AI\HopeStar\UIV\1\0.1\include/stdlib.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/cdefs.h:
+
+E:\AI\HopeStar\UIV\1\0.1\arch\avr\include/machine/_types.h:
+
+E:\AI\HopeStar\UIV\1\0.1\arch\avr\include/avr/types.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/types.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/_types.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/select.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/time.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/time.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/string.h:
+
+E:\AI\HopeStar\UIV\1\0.1\lib\prex\malloc\/malloc.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/param.h:
+
+E:\AI\HopeStar\UIV\1\0.1\arch\avr\include/machine/limits.h:
+
+E:\AI\HopeStar\UIV\1\0.1\arch\avr\include/machine/memory.h:
+
+E:\AI\HopeStar\UIV\1\0.1/conf/config.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/syslimits.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/signal.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/siginfo.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/limits.h:
+
+E:\AI\HopeStar\UIV\1\0.1\arch\avr\include/machine/param.h:

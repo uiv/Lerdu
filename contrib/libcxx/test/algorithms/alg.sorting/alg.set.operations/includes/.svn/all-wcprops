@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.set.operations/includes
+END
+includes_comp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.set.operations/includes/includes_comp.pass.cpp
+END
+includes.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.set.operations/includes/includes.pass.cpp
+END

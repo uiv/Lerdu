@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/119710/libcxx/trunk/test/numerics/complex.number/cmplx.over
+END
+real.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/cmplx.over/real.pass.cpp
+END
+pow.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/cmplx.over/pow.pass.cpp
+END
+arg.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/cmplx.over/arg.pass.cpp
+END
+conj.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/119710/libcxx/trunk/test/numerics/complex.number/cmplx.over/conj.pass.cpp
+END
+proj.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/119710/libcxx/trunk/test/numerics/complex.number/cmplx.over/proj.pass.cpp
+END
+norm.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/cmplx.over/norm.pass.cpp
+END
+imag.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/cmplx.over/imag.pass.cpp
+END

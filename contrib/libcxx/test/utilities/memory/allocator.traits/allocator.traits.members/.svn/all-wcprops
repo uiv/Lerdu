@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.traits/allocator.traits.members
+END
+allocate_hint.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.traits/allocator.traits.members/allocate_hint.pass.cpp
+END
+destroy.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.traits/allocator.traits.members/destroy.pass.cpp
+END
+deallocate.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.traits/allocator.traits.members/deallocate.pass.cpp
+END
+max_size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.traits/allocator.traits.members/max_size.pass.cpp
+END
+select_on_container_copy_construction.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.traits/allocator.traits.members/select_on_container_copy_construction.pass.cpp
+END
+allocate.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.traits/allocator.traits.members/allocate.pass.cpp
+END
+construct.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.traits/allocator.traits.members/construct.pass.cpp
+END

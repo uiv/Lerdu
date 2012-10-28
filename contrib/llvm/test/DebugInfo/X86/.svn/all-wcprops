@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/165288/llvm/trunk/test/DebugInfo/X86
+END
+low-pc-cu.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/161121/llvm/trunk/test/DebugInfo/X86/low-pc-cu.ll
+END
+rvalue-ref.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/157094/llvm/trunk/test/DebugInfo/X86/rvalue-ref.ll
+END
+2010-04-13-PubType.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/164129/llvm/trunk/test/DebugInfo/X86/2010-04-13-PubType.ll
+END
+DW_AT_byte_size.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/165019/llvm/trunk/test/DebugInfo/X86/DW_AT_byte_size.ll
+END
+DW_AT_object_pointer.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/164326/llvm/trunk/test/DebugInfo/X86/DW_AT_object_pointer.ll
+END
+concrete_out_of_line.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/162526/llvm/trunk/test/DebugInfo/X86/concrete_out_of_line.ll
+END
+linkage-name.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/164129/llvm/trunk/test/DebugInfo/X86/linkage-name.ll
+END
+block-capture.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/161121/llvm/trunk/test/DebugInfo/X86/block-capture.ll
+END
+stringpool.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/162526/llvm/trunk/test/DebugInfo/X86/stringpool.ll
+END
+aligned_stack_var.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/155917/llvm/trunk/test/DebugInfo/X86/aligned_stack_var.ll
+END
+debug_frame.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/131315/llvm/trunk/test/DebugInfo/X86/debug_frame.ll
+END
+ending-run.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/154120/llvm/trunk/test/DebugInfo/X86/ending-run.ll
+END
+pr11300.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/161121/llvm/trunk/test/DebugInfo/X86/pr11300.ll
+END
+enum-class.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/161121/llvm/trunk/test/DebugInfo/X86/enum-class.ll
+END
+pointer-type-size.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/147897/llvm/trunk/test/DebugInfo/X86/pointer-type-size.ll
+END
+pr9951.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/133176/llvm/trunk/test/DebugInfo/X86/pr9951.ll
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/153408/llvm/trunk/test/DebugInfo/X86/lit.local.cfg
+END
+2011-09-26-GlobalVarContext.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/143420/llvm/trunk/test/DebugInfo/X86/2011-09-26-GlobalVarContext.ll
+END
+2011-12-16-BadStructRef.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/146785/llvm/trunk/test/DebugInfo/X86/2011-12-16-BadStructRef.ll
+END
+pr12831.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/157541/llvm/trunk/test/DebugInfo/X86/pr12831.ll
+END
+eh_symbol.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/131314/llvm/trunk/test/DebugInfo/X86/eh_symbol.ll
+END
+DW_AT_location-reference.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/158957/llvm/trunk/test/DebugInfo/X86/DW_AT_location-reference.ll
+END
+op_deref.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/156405/llvm/trunk/test/DebugInfo/X86/op_deref.ll
+END
+earlydup-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/133256/llvm/trunk/test/DebugInfo/X86/earlydup-crash.ll
+END
+enum-fwd-decl.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/165288/llvm/trunk/test/DebugInfo/X86/enum-fwd-decl.ll
+END
+subreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/132224/llvm/trunk/test/DebugInfo/X86/subreg.ll
+END
+DW_TAG_friend.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/161121/llvm/trunk/test/DebugInfo/X86/DW_TAG_friend.ll
+END
+DW_AT_specification.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/161121/llvm/trunk/test/DebugInfo/X86/DW_AT_specification.ll
+END
+struct-loc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/153038/llvm/trunk/test/DebugInfo/X86/struct-loc.ll
+END
+prologue-stack.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/165250/llvm/trunk/test/DebugInfo/X86/prologue-stack.ll
+END
+stmt-list.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/131002/llvm/trunk/test/DebugInfo/X86/stmt-list.ll
+END
+objc-fwd-decl.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/161121/llvm/trunk/test/DebugInfo/X86/objc-fwd-decl.ll
+END

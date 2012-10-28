@@ -1,0 +1,58 @@
+CMakeFiles\fs.dir\sync.c.obj: E:\AI\HopeStar\UIV\1\0.1\fs\sync.c \
+ E:\AI\HopeStar\UIV\1\0.1\include/ipc/fs.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/types.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/cdefs.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/_types.h \
+ E:\AI\HopeStar\UIV\1\0.1\arch\avr\include/machine/_types.h \
+ E:\AI\HopeStar\UIV\1\0.1\arch\avr\include/avr/types.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/select.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/time.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/time.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/dirent.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/stat.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/fcntl.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/ioctl.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/ipc/ipc.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/limits.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/limits.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/syslimits.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/errno.h \
+ E:\AI\HopeStar\UIV\1\0.1\include/sys/errno.h
+
+E:\AI\HopeStar\UIV\1\0.1\include/ipc/fs.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/types.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/cdefs.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/_types.h:
+
+E:\AI\HopeStar\UIV\1\0.1\arch\avr\include/machine/_types.h:
+
+E:\AI\HopeStar\UIV\1\0.1\arch\avr\include/avr/types.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/select.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/time.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/time.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/dirent.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/stat.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/fcntl.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/ioctl.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/ipc/ipc.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/limits.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/limits.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/syslimits.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/errno.h:
+
+E:\AI\HopeStar\UIV\1\0.1\include/sys/errno.h:

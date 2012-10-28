@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/164266/libcxx/trunk/test/numerics/complex.number/complex.transcendentals
+END
+pow_scalar_complex.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.transcendentals/pow_scalar_complex.pass.cpp
+END
+pow_complex_scalar.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.transcendentals/pow_complex_scalar.pass.cpp
+END
+log.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.transcendentals/log.pass.cpp
+END
+log10.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.transcendentals/log10.pass.cpp
+END
+tan.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/164266/libcxx/trunk/test/numerics/complex.number/complex.transcendentals/tan.pass.cpp
+END
+pow_complex_complex.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.transcendentals/pow_complex_complex.pass.cpp
+END
+atan.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.transcendentals/atan.pass.cpp
+END
+cos.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.transcendentals/cos.pass.cpp
+END
+acos.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.transcendentals/acos.pass.cpp
+END
+sin.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.transcendentals/sin.pass.cpp
+END
+sqrt.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.transcendentals/sqrt.pass.cpp
+END
+asin.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.transcendentals/asin.pass.cpp
+END
+tanh.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.transcendentals/tanh.pass.cpp
+END
+atanh.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.transcendentals/atanh.pass.cpp
+END
+exp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.transcendentals/exp.pass.cpp
+END
+cosh.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.transcendentals/cosh.pass.cpp
+END
+acosh.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.transcendentals/acosh.pass.cpp
+END
+sinh.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.transcendentals/sinh.pass.cpp
+END
+asinh.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.transcendentals/asinh.pass.cpp
+END

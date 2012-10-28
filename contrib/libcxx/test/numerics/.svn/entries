@@ -1,0 +1,86 @@
+10
+
+dir
+166254
+http://llvm.org/svn/llvm-project/libcxx/trunk/test/numerics
+http://llvm.org/svn/llvm-project
+
+
+
+2012-09-19T23:51:47.880278Z
+164266
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+complex.number
+dir
+
+numarray
+dir
+
+nothing_to_do.pass.cpp
+file
+
+
+
+
+2012-10-19T01:22:08.216276Z
+de8ffdb592ab304b14832467aef77cb3
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+372
+
+cfenv
+dir
+
+numerics.general
+dir
+
+numeric.ops
+dir
+
+numeric.requirements
+dir
+
+rand
+dir
+
+c.math
+dir
+

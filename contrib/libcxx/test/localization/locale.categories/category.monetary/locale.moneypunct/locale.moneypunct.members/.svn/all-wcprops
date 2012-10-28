@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.moneypunct/locale.moneypunct.members
+END
+decimal_point.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.moneypunct/locale.moneypunct.members/decimal_point.pass.cpp
+END
+pos_format.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.moneypunct/locale.moneypunct.members/pos_format.pass.cpp
+END
+grouping.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.moneypunct/locale.moneypunct.members/grouping.pass.cpp
+END
+frac_digits.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.moneypunct/locale.moneypunct.members/frac_digits.pass.cpp
+END
+thousands_sep.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.moneypunct/locale.moneypunct.members/thousands_sep.pass.cpp
+END
+curr_symbol.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.moneypunct/locale.moneypunct.members/curr_symbol.pass.cpp
+END
+neg_format.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.moneypunct/locale.moneypunct.members/neg_format.pass.cpp
+END
+negative_sign.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.moneypunct/locale.moneypunct.members/negative_sign.pass.cpp
+END
+positive_sign.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.moneypunct/locale.moneypunct.members/positive_sign.pass.cpp
+END

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libiconv.a  CMakeFiles/iconv_static.dir/lib/relocatable.c.o CMakeFiles/iconv_static.dir/libcharset/lib/relocatable.c.o CMakeFiles/iconv_static.dir/lib/iconv.c.o
+/usr/bin/ranlib libiconv.a

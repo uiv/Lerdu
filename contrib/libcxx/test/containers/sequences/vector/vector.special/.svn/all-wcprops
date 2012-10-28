@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/139930/libcxx/trunk/test/containers/sequences/vector/vector.special
+END
+swap.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/139930/libcxx/trunk/test/containers/sequences/vector/vector.special/swap.pass.cpp
+END
+swap_noexcept.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/132577/libcxx/trunk/test/containers/sequences/vector/vector.special/swap_noexcept.pass.cpp
+END

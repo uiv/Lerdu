@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.exception/bad.exception
+END
+bad_exception.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.exception/bad.exception/bad_exception.pass.cpp
+END

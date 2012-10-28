@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.slice.array/slice.arr.comp.assign
+END
+and.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.slice.array/slice.arr.comp.assign/and.pass.cpp
+END
+divide.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.slice.array/slice.arr.comp.assign/divide.pass.cpp
+END
+shift_left.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.slice.array/slice.arr.comp.assign/shift_left.pass.cpp
+END
+xor.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.slice.array/slice.arr.comp.assign/xor.pass.cpp
+END
+shift_right.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.slice.array/slice.arr.comp.assign/shift_right.pass.cpp
+END
+addition.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.slice.array/slice.arr.comp.assign/addition.pass.cpp
+END
+subtraction.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.slice.array/slice.arr.comp.assign/subtraction.pass.cpp
+END
+modulo.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.slice.array/slice.arr.comp.assign/modulo.pass.cpp
+END
+multiply.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.slice.array/slice.arr.comp.assign/multiply.pass.cpp
+END
+or.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/template.slice.array/slice.arr.comp.assign/or.pass.cpp
+END

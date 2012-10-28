@@ -1,0 +1,2 @@
+/home/samuel/build/1.08/contrib/lighttpd/CMakeFiles/lighttpd.dir
+/home/samuel/build/1.08/contrib/lighttpd/CMakeFiles/lighttpd_static.dir

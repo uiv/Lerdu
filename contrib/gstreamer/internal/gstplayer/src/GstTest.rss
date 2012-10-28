@@ -1,0 +1,807 @@
+
+
+//  RESOURCE IDENTIFIER
+NAME GST
+
+//  INCLUDES
+
+#include <eikon.rh>
+#include <avkon.rsg>
+#include <avkon.rh>
+#include <avkon.mbg>
+//#include "VoIPTest.hrh"
+
+#define KWidth 176
+#define KHeight 100
+#define KMaxLength 256
+
+
+// ---------------------------------------------------------
+//
+//    Define the resource file signature
+//    This resource should be empty.
+//
+// ---------------------------------------------------------
+//
+RESOURCE RSS_SIGNATURE
+    {
+    }
+
+// ---------------------------------------------------------
+//
+//    Default Document Name
+//
+// ---------------------------------------------------------
+//
+RESOURCE TBUF r_default_document_name
+    {
+    buf="";
+    }
+
+// ---------------------------------------------------------
+//
+//    Define default menu and CBA key.
+//
+// ---------------------------------------------------------
+//
+RESOURCE EIK_APP_INFO
+    {
+    menubar = r_voiptestapp_menubar;
+    hotkeys = r_voiptestapp_hotkeys;
+    cba = R_AVKON_SOFTKEYS_OPTIONS_EXIT;
+    status_pane = r_my_status_pane;
+    }
+
+//----------------------------------------------------
+//
+//    r_voiptestapp_hotkeys
+//
+//----------------------------------------------------
+//
+RESOURCE HOTKEYS r_voiptestapp_hotkeys
+    {
+    control =
+        {
+        HOTKEY
+            {
+            command = EAknCmdExit;
+            key = 'x';
+            }
+        };
+    }
+
+// ---------------------------------------------------------
+//
+//   r_voiptestapp_menubar
+//   Menubar for the VoIPTestApp
+//
+// ---------------------------------------------------------
+//
+RESOURCE MENU_BAR r_voiptestapp_menubar
+    {
+    titles =
+        {
+        MENU_TITLE
+            {
+            menu_pane = r_voiptestapp_menu;
+            }
+        };
+    }
+
+// ---------------------------------------------------------
+//
+//   r_voiptestapp_dnlink_codec_menu
+//
+// ---------------------------------------------------------
+//
+RESOURCE MENU_PANE r_voiptestapp_dnlink_codec_menu
+    {
+    items =
+        {
+        MENU_ITEM
+            {
+            command = EVoIPTestDnlinkCodecG711;
+            txt = "G.711";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestDnlinkCodecG729;
+            txt = "G.729";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestDnlinkCodecILBC;
+            txt = "iLBC";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestDnlinkCodecAMRNB;
+            txt = "AMR-NB";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestDnlinkCodecPCM16;
+            txt = "PCM16";
+            }
+        };
+    }
+
+// ---------------------------------------------------------
+//
+//   r_voiptestapp_uplink_codec_menu
+//
+// ---------------------------------------------------------
+//
+RESOURCE MENU_PANE r_voiptestapp_uplink_codec_menu
+    {
+    items =
+        {
+        MENU_ITEM
+            {
+            command = EVoIPTestUplinkCodecG711;
+            txt = "G.711";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestUplinkCodecG729;
+            txt = "G.729";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestUplinkCodecILBC;
+            txt = "iLBC";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestUplinkCodecAMRNB;
+            txt = "AMR-NB";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestUplinkCodecPCM16;
+            txt = "PCM16";
+            }
+        };
+    }
+
+// ---------------------------------------------------------
+//
+//   r_voiptestapp_dnlink_speaker_menu
+//
+// ---------------------------------------------------------
+//
+RESOURCE MENU_PANE r_voiptestapp_dnlink_speaker_menu
+    {
+    items =
+        {
+        MENU_ITEM
+            {
+            command = EVoIPTestGetMaxVolume;
+            txt = "Get Max Volume";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestSetMaxVolume;
+            txt = "Set Max Volume";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestMuteSpeaker;
+            txt = "Mute Speaker";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestGetVolume;
+            txt = "Get Volume";
+            }
+        };
+    }
+
+// ---------------------------------------------------------
+//
+//   r_voiptestapp_uplink_mic_menu
+//
+// ---------------------------------------------------------
+//
+RESOURCE MENU_PANE r_voiptestapp_uplink_mic_menu
+    {
+    items =
+        {
+        MENU_ITEM
+            {
+            command = EVoIPTestGetMaxGain;
+            txt = "Get Max Gain";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestSetMaxGain;
+            txt = "Set Max Gain";
+            },
+        MENU_ITEM
+            { command = EVoIPTestMuteMic;
+            txt = "Mute Mic";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestGetGain;
+            txt = "Get Gain";
+            }
+        };
+    }
+
+// ---------------------------------------------------------
+//
+//   r_voiptestapp_dnlink_codec_settings_menu
+//
+// ---------------------------------------------------------
+//
+RESOURCE MENU_PANE r_voiptestapp_dnlink_codec_settings_menu
+    {
+    items =
+        {
+        MENU_ITEM
+            {
+            command = EVoIPTestSetFrameMode;
+            txt = "Toggle frame mode";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestGetFrameMode;
+            txt = "Get frame mode";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestGetFrameModeRqrdForEC;
+            txt = "Frame mode req for EC";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestConcealErrForNextBuf;
+            txt = "Conceal Err Next Buf";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestSetCng;
+            txt = "Toggle CNG (G.711/iLBC)";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestGetCng;
+            txt = "Get CNG (G.711/iLBC)";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestSetPlc;
+            txt = "Toggle PLC (G.711)";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestGetPlc;
+            txt = "Get PLC  (G.711)";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestG711ALAW;
+            txt = "Set ALaw (G.711)";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestG711ULAW;
+            txt = "Set uLaw (G.711)";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestGetG711Mode;
+            txt = "Get Codec Mode (G.711)";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestILBC20MS;
+            txt = "Set 20ms frame (iLBC)";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestILBC30MS;
+            txt = "Set 30ms frame (iLBC)";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestGetILBCMode;
+            txt = "Get Codec Mode (iLBC)";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestBadLsfNextBuffer;
+            txt = "Bad lsf next buf (G.729)";
+            }
+        };
+    }
+
+// ---------------------------------------------------------
+//
+//   r_voiptestapp_uplink_codec_settings_menu
+//
+// ---------------------------------------------------------
+//
+RESOURCE MENU_PANE r_voiptestapp_uplink_codec_settings_menu
+    {
+    items =
+        {
+        MENU_ITEM
+            {
+            command = EVoIPTestGetSupportedBitrates;
+            txt = "Get supported bitrates";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestSetMinBitrate;
+            txt = "Set MIN bitrate";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestSetMaxBitrate;
+            txt = "Set MAX bitrate";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestGetBitrate;
+            txt = "Get bitrate";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestSetVad;
+            txt = "Toggle VAD";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestGetVad;
+            txt = "Get VAD";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestUplinkG711ALAW;
+            txt = "Set ALaw (G.711)";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestUplinkG711ULAW;
+            txt = "Set uLaw (G.711)";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestGetUplinkG711Mode;
+            txt = "Get Codec Mode (G.711)";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestUplinkILBC20MS;
+            txt = "Set 20ms frame (iLBC)";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestUplinkILBC30MS;
+            txt = "Set 30ms frame (iLBC)";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestGetUplinkILBCMode;
+            txt = "Get Codec Mode (iLBC)";
+            }
+        };
+    }
+
+// ---------------------------------------------------------
+//
+//   r_voiptestapp_dnlink_output_dev_menu
+//
+// ---------------------------------------------------------
+//
+RESOURCE MENU_PANE r_voiptestapp_dnlink_output_dev_menu
+    {
+    items =
+        {
+        MENU_ITEM
+            {
+            command = EVoIPTestDnlinkHandset;
+            txt = "Select Handset";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestDnlinkLoudSpeaker;
+            txt = "Select Loudspeaker";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestDnlinkGetAudioDevice;
+            txt = "Get Audio Device";
+            }
+        };
+    }
+
+// ---------------------------------------------------------
+//
+//   r_voiptestapp_dnlink_jitter_buf_menu
+//
+// ---------------------------------------------------------
+//
+RESOURCE MENU_PANE r_voiptestapp_dnlink_jitter_buf_menu
+    {
+    items =
+        {
+        MENU_ITEM
+            {
+            command = EVoIPTestDnlinkJBConfig;
+            txt = "Configure JB";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestDnlinkJBReset;
+            txt = "Reset JB";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestDnlinkJBDelayDown;
+            txt = "Delay Down";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestDnlinkJBDelayUp;
+            txt = "Delay Up";
+            }
+        };
+    }
+
+// ---------------------------------------------------------
+//
+//   r_voiptestapp_downlink_submenu
+//
+// ---------------------------------------------------------
+//
+RESOURCE MENU_PANE r_voiptestapp_downlink_submenu
+    {
+    items =
+        {
+        MENU_ITEM
+            {
+            command = EVoIPTestDnlinkFormats;
+            txt = "Get Downlink Formats";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestDownlinkFormat;
+            txt = "Init decoder...";
+            cascade = r_voiptestapp_dnlink_codec_menu;
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestStartDownlink;
+            txt = "Start";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestStopDownlink;
+            txt = "Stop";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestCloseDownlink;
+            txt = "Close";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestDnlinkSpeakerSettings;
+            txt = "Speaker settings...";
+            cascade = r_voiptestapp_dnlink_speaker_menu;
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestDnlinkCodecSettings;
+            txt = "Decoder settings...";
+            cascade = r_voiptestapp_dnlink_codec_settings_menu;
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestSetAudioDevice;
+            txt = "Select output device...";
+            cascade = r_voiptestapp_dnlink_output_dev_menu;
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestJitterBuffer;
+            txt = "Jitter Buffer...";
+            cascade = r_voiptestapp_dnlink_jitter_buf_menu;
+            }
+        };
+    }
+
+// ---------------------------------------------------------
+//
+//   r_voiptestapp_uplink_submenu
+//
+// ---------------------------------------------------------
+//
+RESOURCE MENU_PANE r_voiptestapp_uplink_submenu
+    {
+    items =
+        {
+        MENU_ITEM
+            {
+            command = EVoIPTestUplinkFormats;
+            txt = "Get Uplink Formats";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestUplinkFormat;
+            txt = "Init encoder...";
+            cascade = r_voiptestapp_uplink_codec_menu;
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestStartUplink;
+            txt = "Start";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestStopUplink;
+            txt = "Stop";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestCloseUplink;
+            txt = "Close";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestUplinkFormat;
+            txt = "Mic Settings...";
+            cascade = r_voiptestapp_uplink_mic_menu;
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestUplinkCodecSettings;
+            txt = "Encoder settings...";
+            cascade = r_voiptestapp_uplink_codec_settings_menu;
+            }
+        };
+    }
+
+// ---------------------------------------------------------
+//
+// r_voiptestapp_dtmf_submenu
+//
+// ---------------------------------------------------------
+//
+RESOURCE MENU_PANE r_voiptestapp_dtmf_submenu
+    {
+    items =
+        {
+        MENU_ITEM
+            {
+            command = EVoIPTestDTMFInitDnlink;
+            txt = "Init DTMF player (DNL)";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestDTMFPlayDnlink;
+            txt = "Play (DNL)";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestDTMFCloseDnlink;
+            txt = "Close DTMF player (DNL)";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestDTMFInitUplink;
+            txt = "Init DTMF player (UPL)";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestDTMFPlayUplink;
+            txt = "Play (UPL)";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestDTMFCloseUplink;
+            txt = "Close DTMF player (UPL)";
+            }
+        };
+    }
+
+// ---------------------------------------------------------
+//
+// r_voiptestapp_ringtone_init_submenu
+//
+// ---------------------------------------------------------
+//
+RESOURCE MENU_PANE r_voiptestapp_ringtone_init_submenu
+    {
+    items =
+        {
+        MENU_ITEM
+            {
+            command = EVoIPTestRTInitPlayerFromFile;
+            txt = "Open File";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestRTInitPlayerFromRFile;
+            txt = "Open RFile";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestRTInitPlayerFromProfiles;
+            txt = "Use Profiles";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestRTInitPlayerFromDes;
+            txt = "Open Des";
+            }
+        };
+    }
+
+// ---------------------------------------------------------
+//
+// r_voiptestapp_ringtone_submenu
+//
+// ---------------------------------------------------------
+//
+RESOURCE MENU_PANE r_voiptestapp_ringtone_submenu
+    {
+    items =
+        {
+        MENU_ITEM
+            {
+            command = EVoIPTestRTInitPlayer;
+            txt = "Init Ring Tone player...";
+            cascade = r_voiptestapp_ringtone_init_submenu;
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestRTPlay;
+            txt = "Play";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestRTPause;
+            txt = "Pause";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestRTResume;
+            txt = "Resume";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestRTStop;
+            txt = "Stop";
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestRTClose;
+            txt = "Close";
+            }
+        };
+    }
+
+// ---------------------------------------------------------
+//
+//   r_voiptestapp_menu
+//   Menu for "Options"
+//
+// ---------------------------------------------------------
+//
+RESOURCE MENU_PANE r_voiptestapp_menu
+    {
+    items =
+        {
+        MENU_ITEM
+            {
+            command = EVoIPTestDnLink;
+            txt = "Downlink Stream...";
+            cascade = r_voiptestapp_downlink_submenu;
+            },
+         MENU_ITEM
+            {
+            command = EVoIPTestUpLink;
+            txt = "Uplink Stream...";
+            cascade = r_voiptestapp_uplink_submenu;
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestDTMFPlayer;
+            txt = "DTMF Tone Player...";
+            cascade = r_voiptestapp_dtmf_submenu;
+            },
+        MENU_ITEM
+            {
+            command = EVoIPTestRingTonePlayer;
+            txt = "Ring Tone Player...";
+            cascade = r_voiptestapp_ringtone_submenu;
+            },
+        MENU_ITEM
+            {
+            command = EAknCmdOneTouchLoopback;
+            txt = "One touch loopback";
+            },
+        MENU_ITEM
+            {
+            command = EAknCmdExit;
+            txt = "Exit";
+            }
+        };
+    }
+
+// ---------------------------------------------------------
+//
+//   r_richtexteditor_rich_text_editor
+//   RichTextEditor resources
+//
+// ---------------------------------------------------------
+//
+RESOURCE RTXTED r_richtexteditor_rich_text_editor
+    {
+    width = KWidth;
+    height = KHeight;
+    textlimit = KMaxLength;
+    flags = EEikEdwinReadOnly | EEikEdwinAvkonDisableCursor;
+    avkon_flags = EAknEditorFlagEnableScrollBars;
+    }
+
+// ---------------------------------------------------------
+//
+//   Status pane
+//
+// ---------------------------------------------------------
+//
+RESOURCE STATUS_PANE_APP_MODEL r_my_status_pane
+    {
+    panes =
+        {
+        SPANE_PANE
+            {
+            id = EEikStatusPaneUidTitle;
+            type = EAknCtTitlePane;
+            resource = r_my_title_pane;
+            }
+        };
+    }
+
+// ---------------------------------------------------------
+//
+//   General Query dialog
+//
+// ---------------------------------------------------------
+//
+RESOURCE DIALOG r_voiptestapp_confirmation_query
+    {
+    flags = EGeneralQueryFlags;
+    buttons = R_AVKON_SOFTKEYS_YES_NO;
+    // r_vr_softkeys_ok_cancel;
+    items =
+        {
+        DLG_LINE
+            {
+            type = EAknCtQuery;
+            id = EGeneralQuery;
+            control = AVKON_CONFIRMATION_QUERY 
+                { 
+                layout = EConfirmationLayout;
+                };
+            }
+        };
+    }
+
+// ---------------------------------------------------------
+//
+//   Title pane text
+//
+// ---------------------------------------------------------
+//
+RESOURCE TITLE_PANE r_my_title_pane
+    {
+    txt = "VoIPTestApp";
+    }
+
+// End of file

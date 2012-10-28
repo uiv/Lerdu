@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/diagnostics/syserr/syserr.errcode/syserr.errcode.observers
+END
+category.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/diagnostics/syserr/syserr.errcode/syserr.errcode.observers/category.pass.cpp
+END
+default_error_condition.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/diagnostics/syserr/syserr.errcode/syserr.errcode.observers/default_error_condition.pass.cpp
+END
+message.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/diagnostics/syserr/syserr.errcode/syserr.errcode.observers/message.pass.cpp
+END
+bool.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/diagnostics/syserr/syserr.errcode/syserr.errcode.observers/bool.pass.cpp
+END
+value.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/diagnostics/syserr/syserr.errcode/syserr.errcode.observers/value.pass.cpp
+END

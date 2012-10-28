@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/llvm-project/!svn/ver/165288/llvm/trunk/test/DebugInfo
+END
+2010-01-05-DbgScope.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/141729/llvm/trunk/test/DebugInfo/2010-01-05-DbgScope.ll
+END
+dwarfdump-inlining.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/163128/llvm/trunk/test/DebugInfo/dwarfdump-inlining.test
+END
+printdbginfo2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/159544/llvm/trunk/test/DebugInfo/printdbginfo2.ll
+END
+2010-04-19-FramePtr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/101913/llvm/trunk/test/DebugInfo/2010-04-19-FramePtr.ll
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/160365/llvm/trunk/test/DebugInfo/lit.local.cfg
+END
+2009-10-16-Phi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/100705/llvm/trunk/test/DebugInfo/2009-10-16-Phi.ll
+END
+2010-01-19-DbgScope.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/93967/llvm/trunk/test/DebugInfo/2010-01-19-DbgScope.ll
+END
+2010-10-01-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/115323/llvm/trunk/test/DebugInfo/2010-10-01-crash.ll
+END
+2009-11-05-DeadGlobalVariable.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/139658/llvm/trunk/test/DebugInfo/2009-11-05-DeadGlobalVariable.ll
+END
+2010-03-24-MemberFn.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/99410/llvm/trunk/test/DebugInfo/2010-03-24-MemberFn.ll
+END
+array.ll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/129172/llvm/trunk/test/DebugInfo/array.ll
+END
+dwarfdump-test.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/162657/llvm/trunk/test/DebugInfo/dwarfdump-test.test
+END
+2010-03-30-InvalidDbgInfoCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/99938/llvm/trunk/test/DebugInfo/2010-03-30-InvalidDbgInfoCrash.ll
+END
+2010-04-06-NestedFnDbgInfo.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/100586/llvm/trunk/test/DebugInfo/2010-04-06-NestedFnDbgInfo.ll
+END
+2009-11-03-InsertExtractValue.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/100085/llvm/trunk/test/DebugInfo/2009-11-03-InsertExtractValue.ll
+END
+2010-06-29-InlinedFnLocalVar.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/148795/llvm/trunk/test/DebugInfo/2010-06-29-InlinedFnLocalVar.ll
+END
+2010-05-03-DisableFramePtr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/103001/llvm/trunk/test/DebugInfo/2010-05-03-DisableFramePtr.ll
+END
+2009-11-06-NamelessGlobalVariable.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/139658/llvm/trunk/test/DebugInfo/2009-11-06-NamelessGlobalVariable.ll
+END
+2010-03-12-llc-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/98369/llvm/trunk/test/DebugInfo/2010-03-12-llc-crash.ll
+END
+bug_null_debuginfo.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/164686/llvm/trunk/test/DebugInfo/bug_null_debuginfo.ll
+END
+inheritance.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/97473/llvm/trunk/test/DebugInfo/inheritance.ll
+END
+2010-05-03-OriginDIE.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/145171/llvm/trunk/test/DebugInfo/2010-05-03-OriginDIE.ll
+END
+2009-11-10-CurrentFn.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/139658/llvm/trunk/test/DebugInfo/2009-11-10-CurrentFn.ll
+END
+2010-07-19-Crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/108731/llvm/trunk/test/DebugInfo/2010-07-19-Crash.ll
+END
+inlined-vars.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/159811/llvm/trunk/test/DebugInfo/inlined-vars.ll
+END
+2010-05-10-MultipleCU.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/116581/llvm/trunk/test/DebugInfo/2010-05-10-MultipleCU.ll
+END
+2010-03-19-DbgDeclare.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/98986/llvm/trunk/test/DebugInfo/2010-03-19-DbgDeclare.ll
+END

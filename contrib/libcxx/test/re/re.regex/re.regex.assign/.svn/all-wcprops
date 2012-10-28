@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/re/re.regex/re.regex.assign
+END
+assign_ptr_flag.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.regex/re.regex.assign/assign_ptr_flag.pass.cpp
+END
+assign_iter_iter_flag.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.regex/re.regex.assign/assign_iter_iter_flag.pass.cpp
+END
+assign_string_flag.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.regex/re.regex.assign/assign_string_flag.pass.cpp
+END
+assign.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.regex/re.regex.assign/assign.pass.cpp
+END
+il.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/re/re.regex/re.regex.assign/il.pass.cpp
+END
+ptr.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.regex/re.regex.assign/ptr.pass.cpp
+END
+string.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.regex/re.regex.assign/string.pass.cpp
+END
+assign.il.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/re/re.regex/re.regex.assign/assign.il.pass.cpp
+END
+copy.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.regex/re.regex.assign/copy.pass.cpp
+END
+assign_ptr_size_flag.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.regex/re.regex.assign/assign_ptr_size_flag.pass.cpp
+END

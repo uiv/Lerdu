@@ -1,0 +1,89 @@
+/*
+* ==============================================================================
+*  Name        : gstreamer.iby
+*  Part of     : gstreamer
+*  Description : Contains all DLLs that must be included in image
+*
+* Copyright (c) 2009 Nokia Corporation and/or its subsidiary(-ies). All rights reserved.
+*
+* This library is free software; you can redistribute it and/or
+* modify it under the terms of the GNU Lesser General Public
+* License as published by the Free Software Foundation; either
+* version 2 of the License, or (at your option) any later version.
+*
+* This library is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+* Lesser General Public License for more details.
+*
+* You should have received a copy of the GNU Lesser General Public
+* License along with this library; if not, write to the
+* Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+* Boston, MA 02111-1307, USA.
+*
+* Description:
+*
+*/
+
+#ifndef GSTREAMER_IBY
+#define GSTREAMER_IBY
+
+#include <bldvariant.hrh>
+
+#ifdef FF_GSTREAMER
+
+file=ABI_DIR\BUILD_DIR\libgstaudio.dll              SHARED_LIB_DIR\libgstaudio.dll
+file=ABI_DIR\BUILD_DIR\libgstbase.dll               SHARED_LIB_DIR\libgstbase.dll
+file=ABI_DIR\BUILD_DIR\libgstcdda.dll               SHARED_LIB_DIR\libgstcdda.dll
+file=ABI_DIR\BUILD_DIR\libgstcontroller.dll         SHARED_LIB_DIR\libgstcontroller.dll
+file=ABI_DIR\BUILD_DIR\libgstdataprotocol.dll       SHARED_LIB_DIR\libgstdataprotocol.dll
+//file=ABI_DIR\BUILD_DIR\libgstffmpegcolorspace.dll   SHARED_LIB_DIR\libgstffmpegcolorspace.dll
+file=ABI_DIR\BUILD_DIR\libgstfft.dll                SHARED_LIB_DIR\libgstfft.dll
+file=ABI_DIR\BUILD_DIR\libgstinterfaces.dll         SHARED_LIB_DIR\libgstinterfaces.dll
+file=ABI_DIR\BUILD_DIR\libgstnet.dll                SHARED_LIB_DIR\libgstnet.dll
+file=ABI_DIR\BUILD_DIR\libgstnetbuffer.dll          SHARED_LIB_DIR\libgstnetbuffer.dll
+file=ABI_DIR\BUILD_DIR\libgstpbutils.dll            SHARED_LIB_DIR\libgstpbutils.dll
+file=ABI_DIR\BUILD_DIR\libgstreamer.dll             SHARED_LIB_DIR\libgstreamer.dll
+file=ABI_DIR\BUILD_DIR\libgstriff.dll               SHARED_LIB_DIR\libgstriff.dll
+file=ABI_DIR\BUILD_DIR\libgsttag.dll                SHARED_LIB_DIR\libgsttag.dll
+file=ABI_DIR\BUILD_DIR\libgstvideo.dll              SHARED_LIB_DIR\libgstvideo.dll
+file=ABI_DIR\BUILD_DIR\libgstvideorate.dll          SHARED_LIB_DIR\libgstvideorate.dll
+//file=ABI_DIR\BUILD_DIR\libgstvideoscale.dll       SHARED_LIB_DIR\libgstvideoscale.dll
+//file=ABI_DIR\BUILD_DIR\libgstvideotestsrc.dll     SHARED_LIB_DIR\libgstvideotestsrc.dll
+file=ABI_DIR\BUILD_DIR\libgstdevsoundext.dll        SHARED_LIB_DIR\libgstdevsoundext.dll
+
+// Plugins go to z:\sys\bin\plugins
+file=ABI_DIR\BUILD_DIR\libgstaudiorate.dll          SHARED_LIB_DIR\libgstaudiorate.dll
+file=ABI_DIR\BUILD_DIR\libgstaudioresample.dll      SHARED_LIB_DIR\libgstaudioresample.dll
+file=ABI_DIR\BUILD_DIR\libgstaudiotestsrc.dll       SHARED_LIB_DIR\libgstaudiotestsrc.dll
+file=ABI_DIR\BUILD_DIR\libgstcoreelements.dll       SHARED_LIB_DIR\libgstcoreelements.dll
+file=ABI_DIR\BUILD_DIR\libgstcoreindexers.dll       SHARED_LIB_DIR\libgstcoreindexers.dll
+file=ABI_DIR\BUILD_DIR\libgstdecodebin.dll          SHARED_LIB_DIR\libgstdecodebin.dll
+file=ABI_DIR\BUILD_DIR\libgstdecodebin2.dll         SHARED_LIB_DIR\libgstdecodebin2.dll
+file=ABI_DIR\BUILD_DIR\libgstdevsoundsink.dll       SHARED_LIB_DIR\libgstdevsoundsink.dll
+file=ABI_DIR\BUILD_DIR\libgstdevsoundsrc.dll        SHARED_LIB_DIR\libgstdevsoundsrc.dll
+file=ABI_DIR\BUILD_DIR\libgstplaybin.dll            SHARED_LIB_DIR\libgstplaybin.dll
+file=ABI_DIR\BUILD_DIR\libgsttypefindfunctions.dll  SHARED_LIB_DIR\libgsttypefindfunctions.dll
+file=ABI_DIR\BUILD_DIR\libgstwavparse.dll           SHARED_LIB_DIR\libgstwavparse.dll
+file=ABI_DIR\BUILD_DIR\libgstwavenc.dll             SHARED_LIB_DIR\libgstwavenc.dll
+file=ABI_DIR\BUILD_DIR\libgstaudioconvert.dll       SHARED_LIB_DIR\libgstaudioconvert.dll
+file=ABI_DIR\BUILD_DIR\libgstqueue2.dll             SHARED_LIB_DIR\libgstqueue2.dll
+file=ABI_DIR\BUILD_DIR\libgstautodetect.dll         SHARED_LIB_DIR\libgstautodetect.dll
+file=ABI_DIR\BUILD_DIR\libgstapp.dll                SHARED_LIB_DIR\libgstapp.dll
+file=ABI_DIR\BUILD_DIR\libgstadder.dll              SHARED_LIB_DIR\libgstadder.dll
+file=ABI_DIR\BUILD_DIR\libgsttcp.dll                SHARED_LIB_DIR\libgsttcp.dll
+file=ABI_DIR\BUILD_DIR\libgstsubparse.dll           SHARED_LIB_DIR\libgstsubparse.dll
+file=ABI_DIR\BUILD_DIR\libgstrtp.dll                SHARED_LIB_DIR\libgstrtp.dll
+file=ABI_DIR\BUILD_DIR\libgstgdp.dll                SHARED_LIB_DIR\libgstgdp.dll
+file=ABI_DIR\BUILD_DIR\libgstvolume.dll             SHARED_LIB_DIR\libgstvolume.dll
+
+//GStreamer_Stub
+data=ZSYSTEM\install\gstreamer_stub.sis             System\Install\gstreamer_stub.sis
+data=\epoc32\winscw\c\gstreamer\plugins_list\gst_dll_2001F41F.txt             gstreamer\plugins_list\gst_dll_2001F41F.txt
+data=\epoc32\winscw\c\gstreamer\.gstreamer-0.10\registry.i686.bin           gstreamer\.gstreamer-0.10\registry.i686.bin
+
+#endif // end of FF_GSTREAMER
+
+#endif // GSTREAMER_IBY
+
+//  End of File

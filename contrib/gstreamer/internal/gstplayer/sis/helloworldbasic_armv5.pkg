@@ -1,0 +1,27 @@
+; gstplayer_armv5.pkg
+;
+;Language - standard language definitions
+&EN
+
+; standard SIS file header
+#{"GSTPlayer"},(0xA000017F),1,0,0
+
+;Localised Vendor name
+%{"Vendor-EN"}
+
+;Unique Vendor name
+:"Vendor"
+
+;Supports Series 60 v 3.0
+[0x101F7961], 0, 0, 0, {"Series60ProductID"}
+
+;Files to install
+"..\..\..\epoc32\release\armv5\udeb\GSTPlayer.exe"                -"!:\sys\bin\GSTPlayer.exe"
+"..\..\..\epoc32\data\z\resource\apps\GSTPlayer.rsc"              -"!:\resource\apps\GSTPlayer.rsc"
+"..\..\..\epoc32\data\z\private\10003a3f\import\apps\GSTPlayer_reg.rsc"  -"!:\private\10003a3f\import\apps\GSTPlayer_reg.rsc"
+"..\..\..\epoc32\data\z\resource\apps\gstplayer_aif.mif"		-"!:\resource\apps\gstplayer_aif.mif"
+"..\..\..\epoc32\winscw\c\private\A000017F\hello.txt"        		-"!:\private\A000017F\hello.txt"
+
+;required for application to be covered by backup/restore facility 
+;"backup_registration.xml"						-"!:\private\A000017F\backup_registration.xml"
+

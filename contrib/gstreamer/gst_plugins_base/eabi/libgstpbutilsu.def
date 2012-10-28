@@ -1,0 +1,33 @@
+EXPORTS
+	gst_install_plugins_async @ 1 NONAME
+	gst_install_plugins_context_free @ 2 NONAME
+	gst_install_plugins_context_get_type @ 3 NONAME
+	gst_install_plugins_context_new @ 4 NONAME
+	gst_install_plugins_context_set_xid @ 5 NONAME
+	gst_install_plugins_installation_in_progress @ 6 NONAME
+	gst_install_plugins_return_get_name @ 7 NONAME
+	gst_install_plugins_return_get_type @ 8 NONAME
+	gst_install_plugins_supported @ 9 NONAME
+	gst_install_plugins_sync @ 10 NONAME
+	gst_is_missing_plugin_message @ 11 NONAME
+	gst_missing_decoder_installer_detail_new @ 12 NONAME
+	gst_missing_decoder_message_new @ 13 NONAME
+	gst_missing_element_installer_detail_new @ 14 NONAME
+	gst_missing_element_message_new @ 15 NONAME
+	gst_missing_encoder_installer_detail_new @ 16 NONAME
+	gst_missing_encoder_message_new @ 17 NONAME
+	gst_missing_plugin_message_get_description @ 18 NONAME
+	gst_missing_plugin_message_get_installer_detail @ 19 NONAME
+	gst_missing_uri_sink_installer_detail_new @ 20 NONAME
+	gst_missing_uri_sink_message_new @ 21 NONAME
+	gst_missing_uri_source_installer_detail_new @ 22 NONAME
+	gst_missing_uri_source_message_new @ 23 NONAME
+	gst_pb_utils_add_codec_description_to_tag_list @ 24 NONAME
+	gst_pb_utils_get_codec_description @ 25 NONAME
+	gst_pb_utils_get_decoder_description @ 26 NONAME
+	gst_pb_utils_get_element_description @ 27 NONAME
+	gst_pb_utils_get_encoder_description @ 28 NONAME
+	gst_pb_utils_get_sink_description @ 29 NONAME
+	gst_pb_utils_get_source_description @ 30 NONAME
+	gst_pb_utils_init @ 31 NONAME
+

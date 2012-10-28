@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/input.output/iostreams.base/ios/basic.ios.members
+END
+rdbuf_streambuf.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/basic.ios.members/rdbuf_streambuf.pass.cpp
+END
+swap.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/input.output/iostreams.base/ios/basic.ios.members/swap.pass.cpp
+END
+tie_ostream.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/basic.ios.members/tie_ostream.pass.cpp
+END
+set_rdbuf.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/basic.ios.members/set_rdbuf.pass.cpp
+END
+copyfmt.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/input.output/iostreams.base/ios/basic.ios.members/copyfmt.pass.cpp
+END
+imbue.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/input.output/iostreams.base/ios/basic.ios.members/imbue.pass.cpp
+END
+tie.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/basic.ios.members/tie.pass.cpp
+END
+rdbuf.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/basic.ios.members/rdbuf.pass.cpp
+END
+fill_char_type.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/basic.ios.members/fill_char_type.pass.cpp
+END
+fill.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/basic.ios.members/fill.pass.cpp
+END
+move.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/input.output/iostreams.base/ios/basic.ios.members/move.pass.cpp
+END
+narow.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/basic.ios.members/narow.pass.cpp
+END
+widen.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios/basic.ios.members/widen.pass.cpp
+END

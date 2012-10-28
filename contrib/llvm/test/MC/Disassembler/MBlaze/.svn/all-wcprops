@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/153408/llvm/trunk/test/MC/Disassembler/MBlaze
+END
+mblaze_branch.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/119580/llvm/trunk/test/MC/Disassembler/MBlaze/mblaze_branch.txt
+END
+mblaze_pattern.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/145161/llvm/trunk/test/MC/Disassembler/MBlaze/mblaze_pattern.txt
+END
+mblaze_shift.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119580/llvm/trunk/test/MC/Disassembler/MBlaze/mblaze_shift.txt
+END
+mblaze_special.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/122269/llvm/trunk/test/MC/Disassembler/MBlaze/mblaze_special.txt
+END
+mblaze_mbar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/145161/llvm/trunk/test/MC/Disassembler/MBlaze/mblaze_mbar.txt
+END
+mblaze_imm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/119580/llvm/trunk/test/MC/Disassembler/MBlaze/mblaze_imm.txt
+END
+mblaze_typea.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119580/llvm/trunk/test/MC/Disassembler/MBlaze/mblaze_typea.txt
+END
+mblaze_typeb.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119580/llvm/trunk/test/MC/Disassembler/MBlaze/mblaze_typeb.txt
+END
+mblaze_fsl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/119580/llvm/trunk/test/MC/Disassembler/MBlaze/mblaze_fsl.txt
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/153408/llvm/trunk/test/MC/Disassembler/MBlaze/lit.local.cfg
+END
+mblaze_memory.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/119580/llvm/trunk/test/MC/Disassembler/MBlaze/mblaze_memory.txt
+END
+mblaze_fpu.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/119580/llvm/trunk/test/MC/Disassembler/MBlaze/mblaze_fpu.txt
+END
+mblaze_operands.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/119580/llvm/trunk/test/MC/Disassembler/MBlaze/mblaze_operands.txt
+END

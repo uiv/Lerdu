@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/160184/libcxx/trunk/test/utilities/time/time.duration/time.duration.cons
+END
+rep02.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/160184/libcxx/trunk/test/utilities/time/time.duration/time.duration.cons/rep02.pass.cpp
+END
+convert_inexact.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/llvm-project/!svn/ver/160184/libcxx/trunk/test/utilities/time/time.duration/time.duration.cons/convert_inexact.pass.cpp
+END
+rep01.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/time.duration.cons/rep01.fail.cpp
+END
+rep02.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/time.duration.cons/rep02.fail.cpp
+END
+rep03.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/time.duration.cons/rep03.fail.cpp
+END
+convert_inexact.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/time.duration.cons/convert_inexact.fail.cpp
+END
+convert_int_to_float.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/160184/libcxx/trunk/test/utilities/time/time.duration/time.duration.cons/convert_int_to_float.pass.cpp
+END
+convert_exact.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/160184/libcxx/trunk/test/utilities/time/time.duration/time.duration.cons/convert_exact.pass.cpp
+END
+default.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/160184/libcxx/trunk/test/utilities/time/time.duration/time.duration.cons/default.pass.cpp
+END
+convert_float_to_int.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/time.duration.cons/convert_float_to_int.fail.cpp
+END
+rep.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/160184/libcxx/trunk/test/utilities/time/time.duration/time.duration.cons/rep.pass.cpp
+END

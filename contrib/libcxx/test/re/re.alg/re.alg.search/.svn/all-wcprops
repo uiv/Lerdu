@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.alg/re.alg.search
+END
+ecma.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.alg/re.alg.search/ecma.pass.cpp
+END
+grep.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.alg/re.alg.search/grep.pass.cpp
+END
+extended.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.alg/re.alg.search/extended.pass.cpp
+END
+basic.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.alg/re.alg.search/basic.pass.cpp
+END
+awk.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.alg/re.alg.search/awk.pass.cpp
+END
+egrep.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.alg/re.alg.search/egrep.pass.cpp
+END

@@ -1,0 +1,24 @@
+EXPORTS
+	gst_video_calculate_display_ratio @ 1 NONAME
+	gst_video_filter_get_type @ 2 NONAME
+	gst_video_format_convert @ 3 NONAME
+	gst_video_format_from_fourcc @ 4 NONAME
+	gst_video_format_get_component_height @ 5 NONAME
+	gst_video_format_get_component_offset @ 6 NONAME
+	gst_video_format_get_component_width @ 7 NONAME
+	gst_video_format_get_pixel_stride @ 8 NONAME
+	gst_video_format_get_row_stride @ 9 NONAME
+	gst_video_format_get_size @ 10 NONAME
+	gst_video_format_has_alpha @ 11 NONAME
+	gst_video_format_is_rgb @ 12 NONAME
+	gst_video_format_is_yuv @ 13 NONAME
+	gst_video_format_new_caps @ 14 NONAME
+	gst_video_format_parse_caps @ 15 NONAME
+	gst_video_format_to_fourcc @ 16 NONAME
+	gst_video_frame_rate @ 17 NONAME
+	gst_video_get_size @ 18 NONAME
+	gst_video_parse_caps_framerate @ 19 NONAME
+	gst_video_parse_caps_pixel_aspect_ratio @ 20 NONAME
+	gst_video_sink_center_rect @ 21 NONAME
+	gst_video_sink_get_type @ 22 NONAME
+

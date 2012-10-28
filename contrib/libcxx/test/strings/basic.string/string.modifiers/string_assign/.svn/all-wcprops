@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/strings/basic.string/string.modifiers/string_assign
+END
+rv_string.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.modifiers/string_assign/rv_string.pass.cpp
+END
+initializer_list.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/strings/basic.string/string.modifiers/string_assign/initializer_list.pass.cpp
+END
+pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.modifiers/string_assign/pointer.pass.cpp
+END
+string.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.modifiers/string_assign/string.pass.cpp
+END
+size_char.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.modifiers/string_assign/size_char.pass.cpp
+END
+iterator.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.modifiers/string_assign/iterator.pass.cpp
+END
+pointer_size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.modifiers/string_assign/pointer_size.pass.cpp
+END
+string_size_size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.modifiers/string_assign/string_size_size.pass.cpp
+END

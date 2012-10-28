@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/120712/libcxx/trunk/test/language.support/support.exception/exception.terminate/set.terminate
+END
+set_terminate.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.exception/exception.terminate/set.terminate/set_terminate.pass.cpp
+END
+get_terminate.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/llvm-project/!svn/ver/120712/libcxx/trunk/test/language.support/support.exception/exception.terminate/set.terminate/get_terminate.pass.cpp
+END

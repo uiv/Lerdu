@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.regex/re.regex.operations
+END
+tested_elsewhere.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.regex/re.regex.operations/tested_elsewhere.pass.cpp
+END

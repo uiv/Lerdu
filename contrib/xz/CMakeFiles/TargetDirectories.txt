@@ -1,0 +1,2 @@
+/home/samuel/build/1.08/contrib/xz/CMakeFiles/xz.dir
+/home/samuel/build/1.08/contrib/xz/CMakeFiles/xz_static.dir

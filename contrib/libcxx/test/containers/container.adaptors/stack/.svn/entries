@@ -1,0 +1,77 @@
+10
+
+dir
+166254
+http://llvm.org/svn/llvm-project/libcxx/trunk/test/containers/container.adaptors/stack
+http://llvm.org/svn/llvm-project
+
+
+
+2011-06-04T22:09:19.795923Z
+132652
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+stack.cons.alloc
+dir
+
+stack.defn
+dir
+
+stack.special
+dir
+
+stack.ops
+dir
+
+stack.cons
+dir
+
+version.pass.cpp
+file
+
+
+
+
+2012-10-19T01:22:23.904276Z
+22dc90b5b69efdc186580e1ce3a26502
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+469
+

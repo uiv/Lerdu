@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.value.ops
+END
+arg.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.value.ops/arg.pass.cpp
+END
+conj.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.value.ops/conj.pass.cpp
+END
+proj.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.value.ops/proj.pass.cpp
+END
+norm.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.value.ops/norm.pass.cpp
+END
+imag.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.value.ops/imag.pass.cpp
+END
+polar.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.value.ops/polar.pass.cpp
+END
+real.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.value.ops/real.pass.cpp
+END
+abs.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.value.ops/abs.pass.cpp
+END

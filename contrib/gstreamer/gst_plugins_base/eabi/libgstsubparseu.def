@@ -1,0 +1,11 @@
+EXPORTS
+	_GST_PLUGIN_DESC @ 1 NONAME
+	gst_ssa_parse_get_type @ 2 NONAME
+	gst_sub_parse_get_type @ 3 NONAME
+	parse_mpl2 @ 4 NONAME
+	parse_sami @ 5 NONAME
+	parse_tmplayer @ 6 NONAME
+	sami_context_deinit @ 7 NONAME
+	sami_context_init @ 8 NONAME
+	sami_context_reset @ 9 NONAME
+

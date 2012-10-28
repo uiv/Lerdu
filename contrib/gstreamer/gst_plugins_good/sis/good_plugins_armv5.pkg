@@ -1,0 +1,46 @@
+;
+; Copyright (c) 2009 Nokia Corporation and/or its subsidiary(-ies).
+; All rights reserved.
+; This component and the accompanying materials are made available
+; under the terms of the License "Symbian Foundation License v1.0"
+; which accompanies this distribution, and is available
+; at the URL "http://www.symbianfoundation.org/legal/sfl-v10.html".
+;
+; Initial Contributors:
+; Nokia Corporation - initial contribution.
+;
+; Contributors:
+;
+; Description: GStreamer multimedia framework
+;
+;File: gstreamer.pkg
+
+;Languages
+&EN
+
+;Header
+#{"GStreamer Good Plugins"},(0x2002F43D),1,0,0, TYPE=SA
+
+;Supports S60 5.x
+[0x101F7961], 0, 0, 0, {"S60ProductID"}
+
+;Localised Vendor name
+%{"Nokia"}
+
+;Unique Vendor name
+:"Nokia"
+
+
+@"good_plugins_dlls.sisx", (0xA000027F)
+
+IF EXISTS("c:\sys\bin\GSTRegistryGenerator.exe")
+; Transfer GSTRegistryGenerator_update
+@"GSTRegistryGenerator_update.sis", (0xEE84F17B)
+ELSE
+@"GSTRegistryGenerator.sis", (0xEE84F17B)
+ENDIF
+
+
+
+
+

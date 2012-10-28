@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locales/locale.global.templates
+END
+has_facet.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locales/locale.global.templates/has_facet.pass.cpp
+END
+use_facet.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locales/locale.global.templates/use_facet.pass.cpp
+END

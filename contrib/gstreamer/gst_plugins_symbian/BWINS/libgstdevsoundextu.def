@@ -1,0 +1,10 @@
+EXPORTS
+	gst_error_concealment_get_type @ 1 NONAME
+	gst_g711_decoder_get_type @ 2 NONAME
+	gst_g711_encoder_get_type @ 3 NONAME
+	gst_g729_decoder_get_type @ 4 NONAME
+	gst_g729_encoder_get_type @ 5 NONAME
+	gst_ilbc_decoder_get_type @ 6 NONAME
+	gst_ilbc_encoder_get_type @ 7 NONAME
+	gst_speech_encoder_config_get_type @ 8 NONAME
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.range
+END
+begin_non_const.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.range/begin_non_const.pass.cpp
+END
+end_non_const.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.range/end_non_const.pass.cpp
+END
+begin_const.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.range/begin_const.pass.cpp
+END
+end_const.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numarray/valarray.range/end_const.pass.cpp
+END

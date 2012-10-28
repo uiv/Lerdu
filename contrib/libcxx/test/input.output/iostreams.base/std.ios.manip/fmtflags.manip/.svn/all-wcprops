@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/std.ios.manip/fmtflags.manip
+END
+nouppercase.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/std.ios.manip/fmtflags.manip/nouppercase.pass.cpp
+END
+noshowpoint.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/std.ios.manip/fmtflags.manip/noshowpoint.pass.cpp
+END
+uppercase.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/std.ios.manip/fmtflags.manip/uppercase.pass.cpp
+END
+noshowbase.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/std.ios.manip/fmtflags.manip/noshowbase.pass.cpp
+END
+nounitbuf.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/std.ios.manip/fmtflags.manip/nounitbuf.pass.cpp
+END
+showpoint.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/std.ios.manip/fmtflags.manip/showpoint.pass.cpp
+END
+showbase.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/std.ios.manip/fmtflags.manip/showbase.pass.cpp
+END
+unitbuf.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/std.ios.manip/fmtflags.manip/unitbuf.pass.cpp
+END
+noskipws.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/std.ios.manip/fmtflags.manip/noskipws.pass.cpp
+END
+noboolalpha.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/std.ios.manip/fmtflags.manip/noboolalpha.pass.cpp
+END
+noshowpos.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/std.ios.manip/fmtflags.manip/noshowpos.pass.cpp
+END
+skipws.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/std.ios.manip/fmtflags.manip/skipws.pass.cpp
+END
+boolalpha.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/std.ios.manip/fmtflags.manip/boolalpha.pass.cpp
+END
+showpos.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/std.ios.manip/fmtflags.manip/showpos.pass.cpp
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/131509/libcxx/trunk/test/thread/futures/futures.promise
+END
+set_lvalue_at_thread_exit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/131509/libcxx/trunk/test/thread/futures/futures.promise/set_lvalue_at_thread_exit.pass.cpp
+END
+dtor.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.promise/dtor.pass.cpp
+END
+set_value_void.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.promise/set_value_void.pass.cpp
+END
+set_rvalue.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.promise/set_rvalue.pass.cpp
+END
+set_exception.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.promise/set_exception.pass.cpp
+END
+get_future.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.promise/get_future.pass.cpp
+END
+move_assign.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.promise/move_assign.pass.cpp
+END
+swap.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.promise/swap.pass.cpp
+END
+set_value_at_thread_exit_void.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/131509/libcxx/trunk/test/thread/futures/futures.promise/set_value_at_thread_exit_void.pass.cpp
+END
+set_rvalue_at_thread_exit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/131509/libcxx/trunk/test/thread/futures/futures.promise/set_rvalue_at_thread_exit.pass.cpp
+END
+set_exception_at_thread_exit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/131509/libcxx/trunk/test/thread/futures/futures.promise/set_exception_at_thread_exit.pass.cpp
+END
+uses_allocator.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.promise/uses_allocator.pass.cpp
+END
+alloc_ctor.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.promise/alloc_ctor.pass.cpp
+END
+copy_assign.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.promise/copy_assign.fail.cpp
+END
+default.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.promise/default.pass.cpp
+END
+move_ctor.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.promise/move_ctor.pass.cpp
+END
+set_value_const.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.promise/set_value_const.pass.cpp
+END
+set_value_at_thread_exit_const.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/131509/libcxx/trunk/test/thread/futures/futures.promise/set_value_at_thread_exit_const.pass.cpp
+END
+set_lvalue.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.promise/set_lvalue.pass.cpp
+END
+copy_ctor.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.promise/copy_ctor.fail.cpp
+END

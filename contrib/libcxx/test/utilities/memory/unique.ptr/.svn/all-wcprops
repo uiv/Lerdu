@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/161195/libcxx/trunk/test/utilities/memory/unique.ptr
+END
+deleter.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/deleter.h
+END
+nothing_to_do.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/nothing_to_do.pass.cpp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/164211/llvm/trunk/test/Transforms/CodeGenPrepare
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/150664/llvm/trunk/test/Transforms/CodeGenPrepare/lit.local.cfg
+END
+2008-11-24-RAUW-Self.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/CodeGenPrepare/2008-11-24-RAUW-Self.ll
+END
+basic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/161852/llvm/trunk/test/Transforms/CodeGenPrepare/basic.ll
+END

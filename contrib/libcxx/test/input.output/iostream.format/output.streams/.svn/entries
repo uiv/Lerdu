@@ -1,0 +1,89 @@
+10
+
+dir
+166254
+http://llvm.org/svn/llvm-project/libcxx/trunk/test/input.output/iostream.format/output.streams
+http://llvm.org/svn/llvm-project
+
+
+
+2012-08-02T18:12:06.373394Z
+161188
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+ostream.rvalue
+dir
+
+ostream
+dir
+
+ostream.cons
+dir
+
+version.pass.cpp
+file
+
+
+
+
+2012-10-19T01:22:19.064276Z
+0a9a59ce06711433e69c82b007835786
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+473
+
+ostream.assign
+dir
+
+ostream.manip
+dir
+
+ostream.formatted
+dir
+
+ostream_sentry
+dir
+
+ostream.unformatted
+dir
+
+ostream.seeks
+dir
+

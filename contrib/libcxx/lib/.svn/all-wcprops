@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/llvm-project/!svn/ver/153036/libcxx/trunk/lib
+END
+libc++abi.exp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/120810/libcxx/trunk/lib/libc++abi.exp
+END
+libc++sjlj-abi.exp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/131995/libcxx/trunk/lib/libc++sjlj-abi.exp
+END
+libc++abi2.exp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/151459/libcxx/trunk/lib/libc++abi2.exp
+END
+libc++unexp.exp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/122057/libcxx/trunk/lib/libc++unexp.exp
+END
+buildit
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/llvm-project/!svn/ver/145624/libcxx/trunk/lib/buildit
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/153036/libcxx/trunk/lib/CMakeLists.txt
+END
+weak.exp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/llvm-project/!svn/ver/141132/libcxx/trunk/lib/weak.exp
+END
+notweak.exp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/113616/libcxx/trunk/lib/notweak.exp
+END

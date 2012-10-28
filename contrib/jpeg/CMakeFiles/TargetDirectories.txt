@@ -1,0 +1,2 @@
+/home/samuel/build/1.08/contrib/jpeg/CMakeFiles/jpeg.dir
+/home/samuel/build/1.08/contrib/jpeg/CMakeFiles/jpeg_static.dir

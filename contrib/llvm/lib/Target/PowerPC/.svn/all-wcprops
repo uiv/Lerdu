@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/166248/llvm/trunk/lib/Target/PowerPC
+END
+PPCScheduleE500mc.td
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/162764/llvm/trunk/lib/Target/PowerPC/PPCScheduleE500mc.td
+END
+PPCInstrAltivec.td
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/165409/llvm/trunk/lib/Target/PowerPC/PPCInstrAltivec.td
+END
+PPCInstr64Bit.td
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/165237/llvm/trunk/lib/Target/PowerPC/PPCInstr64Bit.td
+END
+PPCSubtarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/165233/llvm/trunk/lib/Target/PowerPC/PPCSubtarget.cpp
+END
+PPCInstrInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/165315/llvm/trunk/lib/Target/PowerPC/PPCInstrInfo.td
+END
+PPCRegisterInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/165941/llvm/trunk/lib/Target/PowerPC/PPCRegisterInfo.cpp
+END
+PPCFrameLowering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/165656/llvm/trunk/lib/Target/PowerPC/PPCFrameLowering.cpp
+END
+PPCJITInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/156494/llvm/trunk/lib/Target/PowerPC/PPCJITInfo.cpp
+END
+PPCISelLowering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/166178/llvm/trunk/lib/Target/PowerPC/PPCISelLowering.cpp
+END
+PPCScheduleA2.td
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/162729/llvm/trunk/lib/Target/PowerPC/PPCScheduleA2.td
+END
+PPCPerfectShuffle.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/150878/llvm/trunk/lib/Target/PowerPC/PPCPerfectShuffle.h
+END
+PPCInstrInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/165658/llvm/trunk/lib/Target/PowerPC/PPCInstrInfo.cpp
+END
+PPCTargetMachine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/166248/llvm/trunk/lib/Target/PowerPC/PPCTargetMachine.cpp
+END
+PPCScheduleG4.td
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/162729/llvm/trunk/lib/Target/PowerPC/PPCScheduleG4.td
+END
+PPCSelectionDAGInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/103481/llvm/trunk/lib/Target/PowerPC/PPCSelectionDAGInfo.cpp
+END
+PPCInstrFormats.td
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/158204/llvm/trunk/lib/Target/PowerPC/PPCInstrFormats.td
+END
+PPCScheduleG4Plus.td
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/162729/llvm/trunk/lib/Target/PowerPC/PPCScheduleG4Plus.td
+END
+PPCSchedule.td
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/162764/llvm/trunk/lib/Target/PowerPC/PPCSchedule.td
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/146436/llvm/trunk/lib/Target/PowerPC/LLVMBuild.txt
+END
+PPC.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/158204/llvm/trunk/lib/Target/PowerPC/PPC.h
+END
+PPCAsmPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/165941/llvm/trunk/lib/Target/PowerPC/PPCAsmPrinter.cpp
+END
+PPCCallingConv.td
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/154921/llvm/trunk/lib/Target/PowerPC/PPCCallingConv.td
+END
+PPCRegisterInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/158221/llvm/trunk/lib/Target/PowerPC/PPCRegisterInfo.td
+END
+PPCISelDAGToDAG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/165656/llvm/trunk/lib/Target/PowerPC/PPCISelDAGToDAG.cpp
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/158224/llvm/trunk/lib/Target/PowerPC/README.txt
+END
+PPCHazardRecognizers.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/153816/llvm/trunk/lib/Target/PowerPC/PPCHazardRecognizers.h
+END
+PPCMachineFunctionInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/146960/llvm/trunk/lib/Target/PowerPC/PPCMachineFunctionInfo.h
+END
+PPCBranchSelector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/158204/llvm/trunk/lib/Target/PowerPC/PPCBranchSelector.cpp
+END
+README_ALTIVEC.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/lib/Target/PowerPC/README_ALTIVEC.txt
+END
+PPCScheduleE5500.td
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/162764/llvm/trunk/lib/Target/PowerPC/PPCScheduleE5500.td
+END
+PPC.td
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/162764/llvm/trunk/lib/Target/PowerPC/PPC.td
+END
+PPCCodeEmitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/150878/llvm/trunk/lib/Target/PowerPC/PPCCodeEmitter.cpp
+END
+PPCCTRLoops.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/161542/llvm/trunk/lib/Target/PowerPC/PPCCTRLoops.cpp
+END
+PPCRegisterInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/164001/llvm/trunk/lib/Target/PowerPC/PPCRegisterInfo.h
+END
+PPCSubtarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/165402/llvm/trunk/lib/Target/PowerPC/PPCSubtarget.h
+END
+PPCMCInstLower.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/157935/llvm/trunk/lib/Target/PowerPC/PPCMCInstLower.cpp
+END
+PPCFrameLowering.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/163713/llvm/trunk/lib/Target/PowerPC/PPCFrameLowering.h
+END
+PPCJITInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/150878/llvm/trunk/lib/Target/PowerPC/PPCJITInfo.h
+END
+PPCISelLowering.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/165336/llvm/trunk/lib/Target/PowerPC/PPCISelLowering.h
+END
+PPCSchedule440.td
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/162729/llvm/trunk/lib/Target/PowerPC/PPCSchedule440.td
+END
+PPCInstrBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/75971/llvm/trunk/lib/Target/PowerPC/PPCInstrBuilder.h
+END
+PPCScheduleG3.td
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/162729/llvm/trunk/lib/Target/PowerPC/PPCScheduleG3.td
+END
+PPCScheduleG5.td
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/162729/llvm/trunk/lib/Target/PowerPC/PPCScheduleG5.td
+END
+PPCInstrInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/158743/llvm/trunk/lib/Target/PowerPC/PPCInstrInfo.h
+END
+PPCTargetMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/166248/llvm/trunk/lib/Target/PowerPC/PPCTargetMachine.h
+END
+PPCSelectionDAGInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/103481/llvm/trunk/lib/Target/PowerPC/PPCSelectionDAGInfo.h
+END
+PPCHazardRecognizers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/153816/llvm/trunk/lib/Target/PowerPC/PPCHazardRecognizers.cpp
+END
+PPCMachineFunctionInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/150878/llvm/trunk/lib/Target/PowerPC/PPCMachineFunctionInfo.cpp
+END
+PPCRelocations.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/150878/llvm/trunk/lib/Target/PowerPC/PPCRelocations.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/159112/llvm/trunk/lib/Target/PowerPC/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/135184/llvm/trunk/lib/Target/PowerPC/Makefile
+END

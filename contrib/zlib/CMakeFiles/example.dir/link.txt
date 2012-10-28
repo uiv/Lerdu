@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/example.dir/test/example.obj  -o example  libzlib.a 

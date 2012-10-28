@@ -1,0 +1,80 @@
+10
+
+dir
+166254
+http://llvm.org/svn/llvm-project/libcxx/trunk/test/input.output/string.streams
+http://llvm.org/svn/llvm-project
+
+
+
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+istringstream
+dir
+
+stringstream.members
+dir
+
+version.pass.cpp
+file
+
+
+
+
+2012-10-19T01:22:17.332276Z
+db0f7127c085b97f9e98e83b3baf58df
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+473
+
+ostringstream
+dir
+
+stringstream
+dir
+
+stringbuf
+dir
+
+stringstream.cons
+dir
+

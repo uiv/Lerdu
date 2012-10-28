@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/163272/llvm/trunk/test/Object/Inputs
+END
+trivial-object-test.macho-i386
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/143400/llvm/trunk/test/Object/Inputs/trivial-object-test.macho-i386
+END
+trivial-object-test.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/143400/llvm/trunk/test/Object/Inputs/trivial-object-test.elf-x86-64
+END
+dext-test.elf-mips64r2
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/162808/llvm/trunk/test/Object/Inputs/dext-test.elf-mips64r2
+END
+shared.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/151785/llvm/trunk/test/Object/Inputs/shared.ll
+END
+archive-test.a-coff-i386
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/143400/llvm/trunk/test/Object/Inputs/archive-test.a-coff-i386
+END
+trivial.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/143400/llvm/trunk/test/Object/Inputs/trivial.ll
+END
+trivial-object-test.coff-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/143400/llvm/trunk/test/Object/Inputs/trivial-object-test.coff-x86-64
+END
+shared-object-test.elf-i386
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/151785/llvm/trunk/test/Object/Inputs/shared-object-test.elf-i386
+END
+elfver.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/152436/llvm/trunk/test/Object/Inputs/elfver.S
+END
+elfver.script
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/152436/llvm/trunk/test/Object/Inputs/elfver.script
+END
+trivial-object-test.elf-i386
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/143400/llvm/trunk/test/Object/Inputs/trivial-object-test.elf-i386
+END
+trivial-object-test.elf-hexagon
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/159081/llvm/trunk/test/Object/Inputs/trivial-object-test.elf-hexagon
+END
+trivial-object-test.macho-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/143400/llvm/trunk/test/Object/Inputs/trivial-object-test.macho-x86-64
+END
+elf-versioning-test.i386
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/152436/llvm/trunk/test/Object/Inputs/elf-versioning-test.i386
+END
+trivial-object-test.coff-i386
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/161205/llvm/trunk/test/Object/Inputs/trivial-object-test.coff-i386
+END
+relocations.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/163272/llvm/trunk/test/Object/Inputs/relocations.elf-x86-64
+END
+elf-versioning-test.x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/152436/llvm/trunk/test/Object/Inputs/elf-versioning-test.x86_64
+END
+shared-object-test.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/151785/llvm/trunk/test/Object/Inputs/shared-object-test.elf-x86-64
+END

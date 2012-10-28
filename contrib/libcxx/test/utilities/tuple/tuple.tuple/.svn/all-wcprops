@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/159857/libcxx/trunk/test/utilities/tuple/tuple.tuple
+END
+alloc_last.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/111767/libcxx/trunk/test/utilities/tuple/tuple.tuple/alloc_last.h
+END
+alloc_first.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/111767/libcxx/trunk/test/utilities/tuple/tuple.tuple/alloc_first.h
+END
+allocators.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/113086/libcxx/trunk/test/utilities/tuple/tuple.tuple/allocators.h
+END
+empty_member.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/tuple/tuple.tuple/empty_member.pass.cpp
+END
+DefaultOnly.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/111767/libcxx/trunk/test/utilities/tuple/tuple.tuple/DefaultOnly.h
+END
+MoveOnly.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/113086/libcxx/trunk/test/utilities/tuple/tuple.tuple/MoveOnly.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/131199/libcxx/trunk/test/utilities/memory/default.allocator/allocator.members
+END
+allocate.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/default.allocator/allocator.members/allocate.pass.cpp
+END
+construct.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/131199/libcxx/trunk/test/utilities/memory/default.allocator/allocator.members/construct.pass.cpp
+END
+address.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/default.allocator/allocator.members/address.pass.cpp
+END
+max_size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/default.allocator/allocator.members/max_size.pass.cpp
+END

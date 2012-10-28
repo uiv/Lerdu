@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.cons
+END
+copy.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.cons/copy.fail.cpp
+END
+default.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.cons/default.pass.cpp
+END
+default.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.cons/default.fail.cpp
+END
+copy.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.cons/copy.pass.cpp
+END

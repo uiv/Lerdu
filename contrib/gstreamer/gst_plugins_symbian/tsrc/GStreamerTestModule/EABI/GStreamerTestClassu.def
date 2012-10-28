@@ -1,0 +1,9 @@
+EXPORTS
+	_Z9LibEntryLR13CTestModuleIf @ 1 NONAME
+	_ZTI11CGstObjects @ 2 NONAME ; #<TI>#
+	_ZTI14CSimpleTimeout @ 3 NONAME ; #<TI>#
+	_ZTV11CGstObjects @ 4 NONAME ; #<VT>#
+	_ZTV14CSimpleTimeout @ 5 NONAME ; #<VT>#
+	_ZTI17CGlibEventHandler @ 6 NONAME ; #<TI>#
+	_ZTV17CGlibEventHandler @ 7 NONAME ; #<VT>#
+

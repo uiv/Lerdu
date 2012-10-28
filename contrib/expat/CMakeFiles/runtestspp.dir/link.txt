@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/runtestspp.dir/tests/runtestspp.cpp.o CMakeFiles/runtestspp.dir/tests/chardata.c.o CMakeFiles/runtestspp.dir/tests/minicheck.c.o  -o runtestspp -rdynamic libexpat.so -Wl,-rpath,/home/samuel/build/1.08/contrib/expat 

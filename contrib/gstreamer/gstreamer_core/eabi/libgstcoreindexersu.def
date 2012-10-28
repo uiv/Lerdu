@@ -1,0 +1,4 @@
+EXPORTS
+	_GST_PLUGIN_DESC @ 1 NONAME
+	gst_mem_index_plugin_init @ 2 NONAME
+

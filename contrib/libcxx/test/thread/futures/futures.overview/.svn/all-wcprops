@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/145698/libcxx/trunk/test/thread/futures/futures.overview
+END
+future_errc.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/145698/libcxx/trunk/test/thread/futures/futures.overview/future_errc.pass.cpp
+END
+is_error_code_enum_future_errc.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.overview/is_error_code_enum_future_errc.pass.cpp
+END
+launch.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/145698/libcxx/trunk/test/thread/futures/futures.overview/launch.pass.cpp
+END
+future_status.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/145698/libcxx/trunk/test/thread/futures/futures.overview/future_status.pass.cpp
+END

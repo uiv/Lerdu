@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/minigzip.dir/test/minigzip.obj  -o minigzip  libzlib.a 

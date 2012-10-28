@@ -1,0 +1,85 @@
+/*
+* Copyright (c) 2009 Nokia Corporation and/or its subsidiary(-ies). All rights reserved.
+*
+* This library is free software; you can redistribute it and/or
+* modify it under the terms of the GNU Lesser General Public
+* License as published by the Free Software Foundation; either
+* version 2 of the License, or (at your option) any later version.
+*
+* This library is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+* Lesser General Public License for more details.
+*
+* You should have received a copy of the GNU Lesser General Public
+* License along with this library; if not, write to the
+* Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+* Boston, MA 02111-1307, USA.
+*
+* Description:
+*
+*/
+
+
+#include "../elements/fakesrc/group/bld.inf"
+#include "../elements/fakesink/group/bld.inf"
+#include "../elements/multiqueue/group/bld.inf"
+#include "../elements/gstqueue/group/bld.inf"
+#include "../elements/tee/group/bld.inf"
+#include "../elements/filesink/group/bld.inf"
+#include "../elements/filesrc/group/bld.inf"
+#include "../elements/fdsrc/group/bld.inf"
+#include "../elements/identity/group/bld.inf"
+#include "../elements/createelementcore/group/bld.inf"
+
+#include "../gst/gst/group/bld.inf"
+#include "../gst/gstelement/group/bld.inf"
+#include "../gst/gstmessage/group/bld.inf"
+#include "../gst/gstevent/group/bld.inf"
+#include "../gst/gstindex/group/bld.inf"
+#include "../gst/gstminiobject/group/bld.inf"
+#include "../gst/gstinterface/group/bld.inf"
+#include "../gst/gstparamspecs/group/bld.inf"
+#include "../gst/gstpipeline/group/bld.inf"
+#include "../gst/gstregistry/group/bld.inf"
+#include "../gst/gsttagsetter/group/bld.inf"
+#include "../gst/gstbus/group/bld.inf"
+#include "../gst/gstobject/group/bld.inf"
+#include "../gst/gstiterator/group/bld.inf"
+#include "../gst/gsttag/group/bld.inf"
+#include "../gst/gsturi/group/bld.inf"
+#include "../gst/gstutils/group/bld.inf"
+#include "../gst/gstbin/group/bld.inf"
+#include "../gst/gstpad/group/bld.inf"
+#include "../gst/gstbuffer/group/bld.inf"
+
+#include "../gst/gstquery/group/bld.inf"
+#include "../gst/gststructure/group/bld.inf"
+#include "../gst/gstghostpad/group/bld.inf"
+
+#include "../gst/gstsegment/group/bld.inf"
+#include "../gst/gstsystemclock/group/bld.inf"
+#include "../gst/gstvalue/group/bld.inf"
+
+#include "../pipelines/cleanup/group/bld.inf"
+#include "../pipelines/parse-disabled/group/bld.inf"
+#include "../pipelines/parse-launch/group/bld.inf"
+#include "../pipelines/stress/group/bld.inf"
+#include "../pipelines/core-simple-launch-lines/group/bld.inf"
+
+#include "../generic/sinks/group/bld.inf"
+#include "../generic/gststates/group/bld.inf"
+#include "../gst/gstcaps/group/bld.inf"
+#include "../gst/gsttask/group/bld.inf"
+#include "../gst/gstpoll/group/bld.inf"
+#include "../gst/gstplugin/group/bld.inf"
+
+#include "../libs/group/bld.inf"
+
+
+
+
+
+
+//  End of File
+										

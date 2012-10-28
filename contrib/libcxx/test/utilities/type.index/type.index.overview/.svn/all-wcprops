@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/type.index/type.index.overview
+END
+copy_assign.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/type.index/type.index.overview/copy_assign.pass.cpp
+END
+copy_ctor.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/type.index/type.index.overview/copy_ctor.pass.cpp
+END

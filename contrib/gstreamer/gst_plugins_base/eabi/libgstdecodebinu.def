@@ -1,0 +1,12 @@
+EXPORTS
+	_GST_PLUGIN_DESC @ 1 NONAME
+	gst_play_marshal_BOOLEAN__OBJECT_OBJECT @ 2 NONAME
+	gst_play_marshal_BOOLEAN__OBJECT_OBJECT_OBJECT @ 3 NONAME
+	gst_play_marshal_BOXED__INT @ 4 NONAME
+	gst_play_marshal_BOXED__OBJECT_OBJECT @ 5 NONAME
+	gst_play_marshal_BOXED__OBJECT_OBJECT_BOXED @ 6 NONAME
+	gst_play_marshal_ENUM__OBJECT_OBJECT_BOXED @ 7 NONAME
+	gst_play_marshal_ENUM__OBJECT_OBJECT_OBJECT @ 8 NONAME
+	gst_play_marshal_OBJECT__BOXED @ 9 NONAME
+	gst_play_marshal_VOID__OBJECT_BOOLEAN @ 10 NONAME
+

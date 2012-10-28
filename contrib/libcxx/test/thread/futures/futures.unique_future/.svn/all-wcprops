@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/131509/libcxx/trunk/test/thread/futures/futures.unique_future
+END
+move_ctor.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.unique_future/move_ctor.pass.cpp
+END
+get.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/131509/libcxx/trunk/test/thread/futures/futures.unique_future/get.pass.cpp
+END
+wait_until.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/131509/libcxx/trunk/test/thread/futures/futures.unique_future/wait_until.pass.cpp
+END
+share.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/120458/libcxx/trunk/test/thread/futures/futures.unique_future/share.pass.cpp
+END
+copy_assign.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.unique_future/copy_assign.fail.cpp
+END
+default.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.unique_future/default.pass.cpp
+END
+wait.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/131509/libcxx/trunk/test/thread/futures/futures.unique_future/wait.pass.cpp
+END
+copy_ctor.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.unique_future/copy_ctor.fail.cpp
+END
+dtor.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.unique_future/dtor.pass.cpp
+END
+move_assign.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/futures/futures.unique_future/move_assign.pass.cpp
+END
+wait_for.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/131509/libcxx/trunk/test/thread/futures/futures.unique_future/wait_for.pass.cpp
+END

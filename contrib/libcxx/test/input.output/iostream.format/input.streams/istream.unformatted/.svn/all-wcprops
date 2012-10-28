@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/138961/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.unformatted
+END
+get_streambuf_chart.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.unformatted/get_streambuf_chart.pass.cpp
+END
+get_pointer_size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.unformatted/get_pointer_size.pass.cpp
+END
+read.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/138961/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.unformatted/read.pass.cpp
+END
+sync.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.unformatted/sync.pass.cpp
+END
+get.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/138961/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.unformatted/get.pass.cpp
+END
+getline_pointer_size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.unformatted/getline_pointer_size.pass.cpp
+END
+unget.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.unformatted/unget.pass.cpp
+END
+ignore.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.unformatted/ignore.pass.cpp
+END
+peek.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.unformatted/peek.pass.cpp
+END
+get_streambuf.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.unformatted/get_streambuf.pass.cpp
+END
+seekg_off.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.unformatted/seekg_off.pass.cpp
+END
+putback.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.unformatted/putback.pass.cpp
+END
+get_pointer_size_chart.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.unformatted/get_pointer_size_chart.pass.cpp
+END
+seekg.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.unformatted/seekg.pass.cpp
+END
+readsome.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/llvm-project/!svn/ver/138961/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.unformatted/readsome.pass.cpp
+END
+get_chart.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/138961/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.unformatted/get_chart.pass.cpp
+END
+getline_pointer_size_chart.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.unformatted/getline_pointer_size_chart.pass.cpp
+END
+tellg.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.unformatted/tellg.pass.cpp
+END

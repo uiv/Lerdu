@@ -1,0 +1,86 @@
+10
+
+dir
+166254
+http://llvm.org/svn/llvm-project/libcxx/trunk/test/localization/locale.categories
+http://llvm.org/svn/llvm-project
+
+
+
+2012-03-10T18:31:43.724659Z
+152501
+jyasskin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+category.ctype
+dir
+
+facets.examples
+dir
+
+category.messages
+dir
+
+category.monetary
+dir
+
+category.time
+dir
+
+facet.numpunct
+dir
+
+__scan_keyword.pass.cpp
+file
+
+
+
+
+2012-10-19T01:22:11.480276Z
+67a3e2c90853e6a46d3c995a72dc304b
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5032
+
+category.numeric
+dir
+
+category.collate
+dir
+

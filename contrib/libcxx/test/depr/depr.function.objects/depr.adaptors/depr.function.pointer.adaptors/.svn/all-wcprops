@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/121275/libcxx/trunk/test/depr/depr.function.objects/depr.adaptors/depr.function.pointer.adaptors
+END
+pointer_to_binary_function.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/llvm-project/!svn/ver/121275/libcxx/trunk/test/depr/depr.function.objects/depr.adaptors/depr.function.pointer.adaptors/pointer_to_binary_function.pass.cpp
+END
+ptr_fun1.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/llvm-project/!svn/ver/121275/libcxx/trunk/test/depr/depr.function.objects/depr.adaptors/depr.function.pointer.adaptors/ptr_fun1.pass.cpp
+END
+ptr_fun2.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/llvm-project/!svn/ver/121275/libcxx/trunk/test/depr/depr.function.objects/depr.adaptors/depr.function.pointer.adaptors/ptr_fun2.pass.cpp
+END
+pointer_to_unary_function.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/llvm-project/!svn/ver/121275/libcxx/trunk/test/depr/depr.function.objects/depr.adaptors/depr.function.pointer.adaptors/pointer_to_unary_function.pass.cpp
+END

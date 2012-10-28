@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.messages/locale.messages
+END
+messages_base.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.messages/locale.messages/messages_base.pass.cpp
+END
+types.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.messages/locale.messages/types.pass.cpp
+END
+ctor.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.messages/locale.messages/ctor.pass.cpp
+END

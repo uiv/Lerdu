@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios.base/ios.types/ios_failure
+END
+ctor_string_error_code.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios.base/ios.types/ios_failure/ctor_string_error_code.pass.cpp
+END
+ctor_char_pointer_error_code.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios.base/ios.types/ios_failure/ctor_char_pointer_error_code.pass.cpp
+END

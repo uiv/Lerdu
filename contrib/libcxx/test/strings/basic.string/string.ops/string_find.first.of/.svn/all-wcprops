@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.ops/string_find.first.of
+END
+pointer_size_size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.ops/string_find.first.of/pointer_size_size.pass.cpp
+END
+char_size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.ops/string_find.first.of/char_size.pass.cpp
+END
+pointer_size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.ops/string_find.first.of/pointer_size.pass.cpp
+END
+string_size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.ops/string_find.first.of/string_size.pass.cpp
+END

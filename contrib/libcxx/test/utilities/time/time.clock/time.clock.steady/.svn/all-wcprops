@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/120036/libcxx/trunk/test/utilities/time/time.clock/time.clock.steady
+END
+consistency.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/120036/libcxx/trunk/test/utilities/time/time.clock/time.clock.steady/consistency.pass.cpp
+END
+now.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/120036/libcxx/trunk/test/utilities/time/time.clock/time.clock.steady/now.pass.cpp
+END

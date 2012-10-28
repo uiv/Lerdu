@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/llvm-project/!svn/ver/165949/libcxx/trunk
+END
+LICENSE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/llvm-project/!svn/ver/147395/libcxx/trunk/LICENSE.TXT
+END
+CREDITS.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/llvm-project/!svn/ver/165949/libcxx/trunk/CREDITS.TXT
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/161308/libcxx/trunk/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/llvm-project/!svn/ver/164413/libcxx/trunk/Makefile
+END

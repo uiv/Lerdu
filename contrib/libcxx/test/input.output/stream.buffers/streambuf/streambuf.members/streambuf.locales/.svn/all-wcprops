@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.members/streambuf.locales
+END
+locales.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.members/streambuf.locales/locales.pass.cpp
+END

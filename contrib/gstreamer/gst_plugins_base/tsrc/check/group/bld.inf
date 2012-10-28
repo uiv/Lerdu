@@ -1,0 +1,57 @@
+/*
+* Copyright (c) 2009 Nokia Corporation and/or its subsidiary(-ies). All rights reserved.
+*
+* This library is free software; you can redistribute it and/or
+* modify it under the terms of the GNU Lesser General Public
+* License as published by the Free Software Foundation; either
+* version 2 of the License, or (at your option) any later version.
+*
+* This library is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+* Lesser General Public License for more details.
+*
+* You should have received a copy of the GNU Lesser General Public
+* License along with this library; if not, write to the
+* Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+* Boston, MA 02111-1307, USA.
+*
+* Description:
+*
+*/
+
+#include "../elements/gdpdepay/group/bld.inf"
+#include "../elements/audioresample/group/bld.inf"
+#include "../elements/audiotestsrc/group/bld.inf"
+#include "../elements/decodebin/group/bld.inf"
+#include "../elements/subparse/group/bld.inf"
+#include "../elements/audioconvert/group/bld.inf"
+#include "../elements/volume/group/bld.inf"
+#include "../elements/playbin/group/bld.inf"
+#include "../elements/multifdsink/group/bld.inf"
+#include "../elements/adder/group/bld.inf"
+#include "../elements/audiorate/group/bld.inf"
+#include "../elements/createelementbase/group/bld.inf"
+#include "../generic/clock-selection/group/bld.inf"
+#include "../generic/states/group/bld.inf"
+#include "../libs/fft/group/bld.inf"
+#include "../libs/taudio/group/bld.inf"
+
+#include "../pipelines/simple-launch-lines/group/bld.inf"
+#include "../pipelines/streamheader/group/bld.inf"
+
+#include "../libs/pbutils/group/bld.inf"
+#include "../libs/tag/group/bld.inf"
+#include "../libs/rtp/group/bld.inf"
+#include "../libs/netbuffer/group/bld.inf"
+
+#ifdef VIDEO
+#include "../libs/video/group/bld.inf"
+#include "../gst/typefindfunctions/group/bld.inf"
+#include "../elements/createelementbasevideo/group/bld.inf"
+#include "../elements/ffmpegcolorspace/group/bld.inf"
+#include "../elements/videorate/group/bld.inf"
+#endif
+
+//  End of File
+										

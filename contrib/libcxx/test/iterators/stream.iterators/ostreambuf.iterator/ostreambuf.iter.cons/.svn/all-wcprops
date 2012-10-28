@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/stream.iterators/ostreambuf.iterator/ostreambuf.iter.cons
+END
+streambuf.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/stream.iterators/ostreambuf.iterator/ostreambuf.iter.cons/streambuf.pass.cpp
+END
+ostream.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/stream.iterators/ostreambuf.iterator/ostreambuf.iter.cons/ostream.pass.cpp
+END

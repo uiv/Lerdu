@@ -1,0 +1,47 @@
+/*
+============================================================================
+ Name		: gstiterator.mmp
+ Author	  : 
+ Copyright   : Your copyright notice
+ Description : This is the project specification file for gstiterator.
+============================================================================
+*/
+
+
+#include <gstreamer/gstreamer_path.hrh>                                                                                
+
+TARGET		  gstiterator.exe
+TARGETTYPE	  stdexe
+UID			 0 0xE85AC0EF
+
+CAPABILITY AllFiles CommDD DiskAdmin DRM LocalServices Location MultimediaDD NetworkControl NetworkServices PowerMgmt ProtServ ReadDeviceData ReadUserData SurroundingsDD SwEvent TrustedUI UserEnvironment WriteDeviceData WriteUserData
+
+
+
+GST_ALL_DEPENDENT_INCLUDE
+USERINCLUDE		../../../../../../include/gstreamer
+USERINCLUDE		../../../../../../include/gstreamer/gst
+USERINCLUDE		../../../../../../include/gstreamer/gst/base
+USERINCLUDE		../../../../../../include/gstreamer/gst/controller
+USERINCLUDE		../../../../../../include/gstreamer/gst/dataprotocol
+USERINCLUDE		../../../../../../include/gstreamer/gst/net
+
+
+USERINCLUDE		../../../../../libs/gst/check
+
+SYSTEMINCLUDE	../../../../../libs
+
+SYSTEMINCLUDE	../../../../../gst
+
+SOURCEPATH	  ../src
+SOURCE		  gstiterator.c
+
+
+
+LIBRARY		 euser.lib libc.lib libgstreamer.lib libgstbase.lib libgstcontroller.lib libgstcoreelements.lib
+LIBRARY		 libglib.lib libgmodule.lib libgobject.lib
+
+#ifdef ENABLE_ABIV2_MODE
+DEBUGGABLE
+#endif
+SMPSAFE

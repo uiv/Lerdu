@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/131514/libcxx/trunk/test/thread/futures/futures.async
+END
+async.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/131514/libcxx/trunk/test/thread/futures/futures.async/async.pass.cpp
+END

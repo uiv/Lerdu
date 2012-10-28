@@ -1,0 +1,70 @@
+;
+; Copyright (c) 2009 Nokia Corporation and/or its subsidiary(-ies).
+; All rights reserved.
+; This component and the accompanying materials are made available
+; under the terms of the License "Symbian Foundation License v1.0"
+; which accompanies this distribution, and is available
+; at the URL "http://www.symbianfoundation.org/legal/sfl-v10.html".
+;
+; Initial Contributors:
+; Nokia Corporation - initial contribution.
+;
+; Contributors:
+;
+; Description: GStreamer multimedia framework
+;
+;File: gstreamer_stub.pkg
+
+;Languages
+&EN
+
+;Header
+#{"GStreamer"},(0x2001F43C),1,0,0
+
+;Localised Vendor name
+%{"Nokia"}
+
+;Unique Vendor name
+:"Nokia"
+
+;GST DLL
+""-"z:\sys\bin\libgstaudio.dll"
+""-"z:\sys\bin\libgstbase.dll"
+""-"z:\sys\bin\libgstcdda.dll"
+""-"z:\sys\bin\libgstcontroller.dll"
+""-"z:\sys\bin\libgstdataprotocol.dll"
+""-"z:\sys\bin\libgstfft.dll"
+""-"z:\sys\bin\libgstinterfaces.dll"
+""-"z:\sys\bin\libgstnet.dll"
+""-"z:\sys\bin\libgstnetbuffer.dll"
+""-"z:\sys\bin\libgstpbutils.dll"
+""-"z:\sys\bin\libgstreamer.dll"
+""-"z:\sys\bin\libgstriff.dll"
+""-"z:\sys\bin\libgsttag.dll"
+""-"z:\sys\bin\libgstvideo.dll"
+""-"z:\sys\bin\libgstvideorate.dll"
+""-"z:\sys\bin\libgstdevsoundext.dll"
+""-"z:\sys\bin\libgstaudiorate.dll"
+""-"z:\sys\bin\libgstaudioresample.dll"
+""-"z:\sys\bin\libgstaudiotestsrc.dll"
+""-"z:\sys\bin\libgstcoreelements.dll"
+""-"z:\sys\bin\libgstcoreindexers.dll"
+""-"z:\sys\bin\libgstdecodebin.dll"
+""-"z:\sys\bin\libgstdecodebin2.dll"
+""-"z:\sys\bin\libgstdevsoundsink.dll"
+""-"z:\sys\bin\libgstdevsoundsrc.dll"
+""-"z:\sys\bin\libgstplaybin.dll"
+""-"z:\sys\bin\libgsttypefindfunctions.dll"
+""-"z:\sys\bin\libgstwavparse.dll"
+""-"z:\sys\bin\libgstwavenc.dll"
+""-"z:\sys\bin\libgstaudioconvert.dll"
+""-"z:\sys\bin\libgstqueue2.dll"
+""-"z:\sys\bin\libgstautodetect.dll"
+""-"z:\sys\bin\libgstapp.dll"
+""-"z:\sys\bin\libgstadder.dll"
+""-"z:\sys\bin\libgsttcp.dll"
+""-"z:\sys\bin\libgstsubparse.dll"
+""-"z:\sys\bin\libgstrtp.dll"
+""-"z:\sys\bin\libgstgdp.dll"
+""-"z:\sys\bin\libgstvolume.dll"
+""-"z:\gstreamer\.gstreamer-0.10\registry.i686.bin"

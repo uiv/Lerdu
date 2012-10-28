@@ -1,0 +1,117 @@
+/*
+* Copyright (c) 2009 Nokia Corporation and/or its subsidiary(-ies). All rights reserved.
+*
+* This library is free software; you can redistribute it and/or
+* modify it under the terms of the GNU Lesser General Public
+* License as published by the Free Software Foundation; either
+* version 2 of the License, or (at your option) any later version.
+*
+* This library is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+* Lesser General Public License for more details.
+*
+* You should have received a copy of the GNU Lesser General Public
+* License along with this library; if not, write to the
+* Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+* Boston, MA 02111-1307, USA.
+*
+* Description:
+*
+*/
+/*
+* ==============================================================================
+*  Name        : gstplayer.mmp
+*  Part of     : GSTPlayer
+*  Interface   :
+*  Description :
+*  Version     :
+*
+* ==============================================================================
+*/
+
+
+#include <gstreamer/gstreamer_path.hrh>
+
+TARGET          GSTPlayer.exe
+TARGETTYPE      exe
+UID             0x100039CE 0xA000017F
+LANG            SC
+//VENDORID        VID_DEFAULT
+CAPABILITY      All -tcb
+
+SECUREID        0xA000017F
+EPOCSTACKSIZE   0x8000
+
+SOURCEPATH      ../src
+SOURCE          GSTPlayer.cpp
+SOURCE          GSTPlayerApplication.cpp
+SOURCE          GSTPlayerAppView.cpp
+SOURCE          GSTPlayerAppUi.cpp
+SOURCE          GSTPlayerDocument.cpp
+SOURCE          RichTextEditor.cpp
+SOURCE          GlibEventHandler.cpp
+SOURCE          SymGstreamer.cpp
+
+SOURCEPATH      ../data
+
+START RESOURCE  GSTPlayer.rss
+HEADER
+TARGETPATH      resource/apps
+END //RESOURCE
+
+START RESOURCE  GSTPlayer_reg.rss
+DEPENDS 	gstplayer.rsg
+#ifdef WINSCW
+TARGETPATH      /private/10003a3f/apps
+#else
+TARGETPATH      /private/10003a3f/import/apps
+#endif
+END //RESOURCE
+
+USERINCLUDE     ../inc
+
+
+GST_ALL_DEPENDENT_INCLUDE
+USERINCLUDE		../../../include/gstreamer
+USERINCLUDE		../../../include/gstreamer/gst
+USERINCLUDE		../../../include/gstreamer/gst/base
+USERINCLUDE		../../../include/gstreamer/gst/controller
+USERINCLUDE		../../../include/gstreamer/gst/dataprotocol
+USERINCLUDE		../../../include/gstreamer/gst/net
+
+LIBRARY         euser.lib
+LIBRARY         apparc.lib
+LIBRARY         cone.lib
+LIBRARY         eikcore.lib
+LIBRARY         avkon.lib
+LIBRARY         commonengine.lib
+LIBRARY         efsrv.lib
+LIBRARY         estor.lib
+LIBRARY         PlatformEnv.lib
+LIBRARY         CommonDialogs.lib
+LIBRARY         eikctl.lib
+LIBRARY         eikcoctl.lib
+LIBRARY         etext.lib
+LIBRARY         ws32.lib
+LIBRARY         libc.lib
+LIBRARY         libpthread.lib
+LIBRARY         libdl.lib
+LIBRARY         libm.lib
+LIBRARY         libglib.lib
+LIBRARY         libgmodule.lib
+LIBRARY         libgobject.lib
+LIBRARY         libgthread.lib
+//LIBRARY         glibbackend.lib
+//LIBRARY         libpopt.lib
+LIBRARY         libz.lib
+//LIBRARY         pavFeedsLibXml2.lib
+LIBRARY         libgstreamer.lib
+//LIBRARY         libgsterrorconcealment.lib
+//LIBRARY         libgstg711decoderinterface.lib
+//LIBRARY         libgstdevsoundext.lib
+//LIBRARY         MMFDevSound.lib
+
+// End of File
+
+SMPSAFE

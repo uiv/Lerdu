@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/predef.iterators/reverse.iterators/reverse.iter.ops/reverse.iter.op==
+END
+test.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/predef.iterators/reverse.iterators/reverse.iter.ops/reverse.iter.op==/test.pass.cpp
+END

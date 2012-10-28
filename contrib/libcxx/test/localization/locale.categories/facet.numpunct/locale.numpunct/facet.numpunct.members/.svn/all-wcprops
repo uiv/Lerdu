@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/facet.numpunct/locale.numpunct/facet.numpunct.members
+END
+decimal_point.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/facet.numpunct/locale.numpunct/facet.numpunct.members/decimal_point.pass.cpp
+END
+grouping.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/facet.numpunct/locale.numpunct/facet.numpunct.members/grouping.pass.cpp
+END
+falsename.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/facet.numpunct/locale.numpunct/facet.numpunct.members/falsename.pass.cpp
+END
+thousands_sep.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/facet.numpunct/locale.numpunct/facet.numpunct.members/thousands_sep.pass.cpp
+END
+truename.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/facet.numpunct/locale.numpunct/facet.numpunct.members/truename.pass.cpp
+END

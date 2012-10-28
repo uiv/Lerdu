@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.str.strstreams/depr.istrstream/depr.istrstream.cons
+END
+cp_size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.str.strstreams/depr.istrstream/depr.istrstream.cons/cp_size.pass.cpp
+END
+ccp_size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.str.strstreams/depr.istrstream/depr.istrstream.cons/ccp_size.pass.cpp
+END
+cp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.str.strstreams/depr.istrstream/depr.istrstream.cons/cp.pass.cpp
+END
+ccp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.str.strstreams/depr.istrstream/depr.istrstream.cons/ccp.pass.cpp
+END

@@ -1,0 +1,193 @@
+10
+
+dir
+166262
+http://llvm.org/svn/llvm-project/llvm/trunk/test/Transforms
+http://llvm.org/svn/llvm-project
+
+
+
+2012-10-19T01:24:18.005485Z
+166255
+nadav
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+LoopDeletion
+dir
+
+LoopUnswitch
+dir
+
+IndVarSimplify
+dir
+
+ObjCARC
+dir
+
+LoopVectorize
+dir
+
+LoopUnroll
+dir
+
+ConstantMerge
+dir
+
+LowerSwitch
+dir
+
+MemCpyOpt
+dir
+
+BBVectorize
+dir
+
+LoopStrengthReduce
+dir
+
+IPConstantProp
+dir
+
+CodeGenPrepare
+dir
+
+Internalize
+dir
+
+CorrelatedValuePropagation
+dir
+
+LoopRotate
+dir
+
+SCCP
+dir
+
+GVN
+dir
+
+PhaseOrdering
+dir
+
+InstSimplify
+dir
+
+DeadArgElim
+dir
+
+Mem2Reg
+dir
+
+BranchFolding
+dir
+
+MetaRenamer
+dir
+
+JumpThreading
+dir
+
+Reassociate
+dir
+
+SimplifyLibCalls
+dir
+
+TailDup
+dir
+
+DeadStoreElimination
+dir
+
+FunctionAttrs
+dir
+
+LowerInvoke
+dir
+
+SROA
+dir
+
+Sink
+dir
+
+LCSSA
+dir
+
+CodeExtractor
+dir
+
+PruneEH
+dir
+
+EarlyCSE
+dir
+
+InstCombine
+dir
+
+StripSymbols
+dir
+
+MergeFunc
+dir
+
+GlobalDCE
+dir
+
+SimplifyCFG
+dir
+
+Inline
+dir
+
+GlobalOpt
+dir
+
+BlockPlacement
+dir
+
+LICM
+dir
+
+LowerExpectIntrinsic
+dir
+
+LowerAtomic
+dir
+
+LoopSimplify
+dir
+
+ConstProp
+dir
+
+ScalarRepl
+dir
+
+ArgumentPromotion
+dir
+
+LoopIdiom
+dir
+
+ADCE
+dir
+
+TailCallElim
+dir
+

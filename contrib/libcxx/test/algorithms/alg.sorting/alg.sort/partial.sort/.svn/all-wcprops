@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.sort/partial.sort
+END
+partial_sort.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.sort/partial.sort/partial_sort.pass.cpp
+END
+partial_sort_comp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.sort/partial.sort/partial_sort_comp.pass.cpp
+END

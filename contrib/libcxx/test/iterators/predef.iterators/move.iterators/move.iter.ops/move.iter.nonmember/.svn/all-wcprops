@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/predef.iterators/move.iterators/move.iter.ops/move.iter.nonmember
+END
+minus.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/predef.iterators/move.iterators/move.iter.ops/move.iter.nonmember/minus.pass.cpp
+END
+make_move_iterator.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/predef.iterators/move.iterators/move.iter.ops/move.iter.nonmember/make_move_iterator.pass.cpp
+END
+plus.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/predef.iterators/move.iterators/move.iter.ops/move.iter.nonmember/plus.pass.cpp
+END

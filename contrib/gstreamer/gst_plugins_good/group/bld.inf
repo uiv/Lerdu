@@ -1,0 +1,13 @@
+PRJ_PLATFORMS
+default
+
+PRJ_EXPORTS
+
+PRJ_MMPFILES
+gstwavparse.mmp
+gstwavenc.mmp
+gstautodetect.mmp
+gstauparse.mmp
+gstalaw.mmp
+gstmulaw.mmp
+

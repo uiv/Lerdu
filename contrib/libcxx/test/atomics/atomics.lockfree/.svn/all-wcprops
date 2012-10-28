@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/121267/libcxx/trunk/test/atomics/atomics.lockfree
+END
+lockfree.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/121267/libcxx/trunk/test/atomics/atomics.lockfree/lockfree.pass.cpp
+END

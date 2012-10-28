@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/141506/libcxx/trunk/test/strings/basic.string/string.nonmembers
+END
+nothing_to_do.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.nonmembers/nothing_to_do.pass.cpp
+END

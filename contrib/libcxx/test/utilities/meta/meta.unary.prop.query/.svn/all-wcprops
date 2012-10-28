@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/120029/libcxx/trunk/test/utilities/meta/meta.unary.prop.query
+END
+alignment_of.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/120029/libcxx/trunk/test/utilities/meta/meta.unary.prop.query/alignment_of.pass.cpp
+END
+extent.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/120029/libcxx/trunk/test/utilities/meta/meta.unary.prop.query/extent.pass.cpp
+END
+rank.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/120029/libcxx/trunk/test/utilities/meta/meta.unary.prop.query/rank.pass.cpp
+END

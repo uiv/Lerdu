@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/131483/libcxx/trunk/test/utilities/utility/forward
+END
+forward.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/utility/forward/forward.pass.cpp
+END
+move_only.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/utility/forward/move_only.pass.cpp
+END
+move_if_noexcept.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/131483/libcxx/trunk/test/utilities/utility/forward/move_if_noexcept.pass.cpp
+END
+forward1.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/utility/forward/forward1.fail.cpp
+END
+forward2.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/utility/forward/forward2.fail.cpp
+END
+forward3.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/utility/forward/forward3.fail.cpp
+END
+forward4.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/utility/forward/forward4.fail.cpp
+END
+move_only1.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/utility/forward/move_only1.fail.cpp
+END
+forward5.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/utility/forward/forward5.fail.cpp
+END
+move_only2.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/utility/forward/move_only2.fail.cpp
+END
+forward6.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/utility/forward/forward6.fail.cpp
+END
+move_only3.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/utility/forward/move_only3.fail.cpp
+END
+move_copy.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/utility/forward/move_copy.pass.cpp
+END
+move_only4.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/utility/forward/move_only4.fail.cpp
+END

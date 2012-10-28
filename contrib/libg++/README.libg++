@@ -1,0 +1,10 @@
+This is a libg++ addon for libstdc++ 2.8.1.1. It is needed only if
+your applications depend on libg++ and you cannot easily remove the
+dependency on libg++. The standalone libg++ is no longer needed.  Note
+that this package is no longer being maintained.
+
+To install, move all the files in this directory into the directory
+where you unpacked libstdc++ version 2.8.1.1 (or unpacked version
+2.8.0 and applied the diff to convert it to version 2.8.1.1).  Then
+you can configure/build/check/install libstdc++ normally. Now it will
+include libg++.

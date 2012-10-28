@@ -1,0 +1,123 @@
+10
+
+dir
+166254
+http://llvm.org/svn/llvm-project/libcxx/trunk/test/thread/futures
+http://llvm.org/svn/llvm-project
+
+
+
+2011-12-02T19:36:40.203009Z
+145698
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+futures.overview
+dir
+
+futures.tas
+dir
+
+test_allocator.h
+file
+
+
+
+
+2012-10-19T01:22:25.628276Z
+1a5279aa7aa3d8947a2bc0326c5f15e4
+2010-09-04T23:28:19.545641Z
+113086
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4822
+
+futures.errors
+dir
+
+futures.async
+dir
+
+futures.promise
+dir
+
+version.pass.cpp
+file
+
+
+
+
+2012-10-19T01:22:25.628276Z
+68e4d965817e6e02be5589282a2edb5d
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+471
+
+futures.shared_future
+dir
+
+futures.state
+dir
+
+futures.unique_future
+dir
+
+futures.future_error
+dir
+

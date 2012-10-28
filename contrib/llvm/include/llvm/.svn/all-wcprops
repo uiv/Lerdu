@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/llvm-project/!svn/ver/166248/llvm/trunk/include/llvm
+END
+Operator.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/166089/llvm/trunk/include/llvm/Operator.h
+END
+IntrinsicsMips.td
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/162668/llvm/trunk/include/llvm/IntrinsicsMips.td
+END
+PassRegistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/116959/llvm/trunk/include/llvm/PassRegistry.h
+END
+SymbolTableListTraits.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/163225/llvm/trunk/include/llvm/SymbolTableListTraits.h
+END
+IntrinsicInst.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/165767/llvm/trunk/include/llvm/IntrinsicInst.h
+END
+PassManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/149480/llvm/trunk/include/llvm/PassManager.h
+END
+LinkAllVMCore.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/121161/llvm/trunk/include/llvm/LinkAllVMCore.h
+END
+DefaultPasses.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/163978/llvm/trunk/include/llvm/DefaultPasses.h
+END
+PassSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/164017/llvm/trunk/include/llvm/PassSupport.h
+END
+DIBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/165288/llvm/trunk/include/llvm/DIBuilder.h
+END
+Instructions.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/166009/llvm/trunk/include/llvm/Instructions.h
+END
+DerivedTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/165767/llvm/trunk/include/llvm/DerivedTypes.h
+END
+PassAnalysisSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/164768/llvm/trunk/include/llvm/PassAnalysisSupport.h
+END
+TypeFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/161228/llvm/trunk/include/llvm/TypeFinder.h
+END
+IntrinsicsX86.td
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/162649/llvm/trunk/include/llvm/IntrinsicsX86.td
+END
+Value.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/165767/llvm/trunk/include/llvm/Value.h
+END
+IntrinsicsNVVM.td
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/157417/llvm/trunk/include/llvm/IntrinsicsNVVM.td
+END
+User.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/165767/llvm/trunk/include/llvm/User.h
+END
+InitializePasses.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/166248/llvm/trunk/include/llvm/InitializePasses.h
+END
+Type.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/165767/llvm/trunk/include/llvm/Type.h
+END
+Argument.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/165767/llvm/trunk/include/llvm/Argument.h
+END
+InstrTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/165767/llvm/trunk/include/llvm/InstrTypes.h
+END
+PassManagers.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/156755/llvm/trunk/include/llvm/PassManagers.h
+END
+Intrinsics.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/165917/llvm/trunk/include/llvm/Intrinsics.h
+END
+Function.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/166009/llvm/trunk/include/llvm/Function.h
+END
+GVMaterializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/94686/llvm/trunk/include/llvm/GVMaterializer.h
+END
+Attributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/166037/llvm/trunk/include/llvm/Attributes.h
+END
+Instruction.def
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/149906/llvm/trunk/include/llvm/Instruction.def
+END
+Constant.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/165767/llvm/trunk/include/llvm/Constant.h
+END
+BasicBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/165767/llvm/trunk/include/llvm/BasicBlock.h
+END
+Use.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/164008/llvm/trunk/include/llvm/Use.h
+END
+IntrinsicsCellSPU.td
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/include/llvm/IntrinsicsCellSPU.td
+END
+GlobalValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/165767/llvm/trunk/include/llvm/GlobalValue.h
+END
+TargetTransformInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/166248/llvm/trunk/include/llvm/TargetTransformInfo.h
+END
+CallingConv.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/164948/llvm/trunk/include/llvm/CallingConv.h
+END
+DebugInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/165490/llvm/trunk/include/llvm/DebugInfo.h
+END
+LinkAllPasses.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/166112/llvm/trunk/include/llvm/LinkAllPasses.h
+END
+IntrinsicsARM.td
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/164340/llvm/trunk/include/llvm/IntrinsicsARM.td
+END
+IntrinsicsPowerPC.td
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/110395/llvm/trunk/include/llvm/IntrinsicsPowerPC.td
+END
+Intrinsics.td
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/164261/llvm/trunk/include/llvm/Intrinsics.td
+END
+IntrinsicsXCore.td
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/141889/llvm/trunk/include/llvm/IntrinsicsXCore.td
+END
+GlobalVariable.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/165767/llvm/trunk/include/llvm/GlobalVariable.h
+END
+Pass.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/164017/llvm/trunk/include/llvm/Pass.h
+END
+DataLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/165941/llvm/trunk/include/llvm/DataLayout.h
+END
+MDBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/164425/llvm/trunk/include/llvm/MDBuilder.h
+END
+ValueSymbolTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/164768/llvm/trunk/include/llvm/ValueSymbolTable.h
+END
+GlobalAlias.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/165767/llvm/trunk/include/llvm/GlobalAlias.h
+END
+Constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/165767/llvm/trunk/include/llvm/Constants.h
+END
+CallGraphSCCPass.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/110500/llvm/trunk/include/llvm/CallGraphSCCPass.h
+END
+LLVMContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/164017/llvm/trunk/include/llvm/LLVMContext.h
+END
+InlineAsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/165767/llvm/trunk/include/llvm/InlineAsm.h
+END
+IntrinsicsHexagon.td
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/162087/llvm/trunk/include/llvm/IntrinsicsHexagon.td
+END
+OperandTraits.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/138230/llvm/trunk/include/llvm/OperandTraits.h
+END
+Metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/165767/llvm/trunk/include/llvm/Metadata.h
+END
+AutoUpgrade.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/145169/llvm/trunk/include/llvm/AutoUpgrade.h
+END
+IRBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/164728/llvm/trunk/include/llvm/IRBuilder.h
+END
+Instruction.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/165767/llvm/trunk/include/llvm/Instruction.h
+END
+Linker.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/153429/llvm/trunk/include/llvm/Linker.h
+END
+Module.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/161228/llvm/trunk/include/llvm/Module.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/159831/llvm/trunk/include/llvm/CMakeLists.txt
+END
+AddressingMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/165457/llvm/trunk/include/llvm/AddressingMode.h
+END
+TypeBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/160243/llvm/trunk/include/llvm/TypeBuilder.h
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/121267/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.templ
+END
+nothing_to_do.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/llvm-project/!svn/ver/121267/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.templ/nothing_to_do.pass.cpp
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.nonmodifying/alg.count
+END
+count_if.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.nonmodifying/alg.count/count_if.pass.cpp
+END
+count.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.nonmodifying/alg.count/count.pass.cpp
+END

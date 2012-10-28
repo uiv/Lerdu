@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/150664/llvm/trunk/test/Transforms/Internalize
+END
+2009-01-05-InternalizeAliases.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/Internalize/2009-01-05-InternalizeAliases.ll
+END
+2008-05-09-AllButMain.ll.apifile
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Transforms/Internalize/2008-05-09-AllButMain.ll.apifile
+END
+2008-05-09-AllButMain.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/81537/llvm/trunk/test/Transforms/Internalize/2008-05-09-AllButMain.ll
+END
+available_externally.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/127172/llvm/trunk/test/Transforms/Internalize/available_externally.ll
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/150664/llvm/trunk/test/Transforms/Internalize/lit.local.cfg
+END

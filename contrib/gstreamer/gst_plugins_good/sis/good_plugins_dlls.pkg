@@ -1,0 +1,25 @@
+; good_plugins_dll.pkg
+;
+;Language - standard language definitions
+&EN
+
+; standard SIS file header
+#{"Good Plugins"},(0xA000027F),1,0,0
+
+;Localised Vendor name
+%{"Vendor-EN"}
+
+;Unique Vendor name
+:"Vendor"
+
+;Supports Series 60 v 3.0
+[0x101F7961], 0, 0, 0, {"Series60ProductID"}
+
+;Files to install
+"\epoc32\release\armv5\urel\libgstautodetect.dll" -"!:\sys\bin\libgstautodetect.dll"
+"\epoc32\release\armv5\urel\libgstwavenc.dll" -"!:\sys\bin\libgstwavenc.dll"
+"\epoc32\release\armv5\urel\libgstwavparse.dll" -"!:\sys\bin\libgstwavparse.dll"
+".\good_plugin_0DE80A1B.txt" -"c:\gstreamer\plugins_list\good_plugin_0DE80A1B.txt"
+
+
+

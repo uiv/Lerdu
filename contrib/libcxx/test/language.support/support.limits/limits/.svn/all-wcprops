@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits
+END
+version.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/version.pass.cpp
+END
+is_specialized.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/limits/is_specialized.pass.cpp
+END

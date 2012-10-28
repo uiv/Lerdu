@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/iterator.requirements/input.iterators
+END
+nothing_to_do.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/iterator.requirements/input.iterators/nothing_to_do.pass.cpp
+END

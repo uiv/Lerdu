@@ -1,0 +1,16 @@
+EXPORTS
+	_GST_PLUGIN_DESC @ 1 NONAME
+	audio_convert_clean_context @ 2 NONAME
+	audio_convert_clean_fmt @ 3 NONAME
+	audio_convert_convert @ 4 NONAME
+	audio_convert_get_sizes @ 5 NONAME
+	audio_convert_prepare_context @ 6 NONAME
+	gst_audio_convert_get_type @ 7 NONAME
+	gst_audio_quantize_free @ 8 NONAME
+	gst_audio_quantize_setup @ 9 NONAME
+	gst_channel_mix_mix_float @ 10 NONAME
+	gst_channel_mix_mix_int @ 11 NONAME
+	gst_channel_mix_passthrough @ 12 NONAME
+	gst_channel_mix_setup_matrix @ 13 NONAME
+	gst_channel_mix_unset_matrix @ 14 NONAME
+

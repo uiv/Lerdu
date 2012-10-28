@@ -1,0 +1,2 @@
+/home/samuel/build/avr8-toolchain/bin/avr-ar cr libbzip_static.a  CMakeFiles/bzip_static.dir/bzip/randtable.c.o CMakeFiles/bzip_static.dir/bzip/blocksort.c.o CMakeFiles/bzip_static.dir/bzip/decompress.c.o CMakeFiles/bzip_static.dir/bzip/crctable.c.o CMakeFiles/bzip_static.dir/bzip/huffman.c.o CMakeFiles/bzip_static.dir/bzip/compress.c.o CMakeFiles/bzip_static.dir/bzip/bzlib.c.o
+/home/samuel/build/avr8-toolchain/bin/avr-ranlib libbzip_static.a

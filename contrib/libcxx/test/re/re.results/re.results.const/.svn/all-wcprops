@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.results/re.results.const
+END
+allocator.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.results/re.results.const/allocator.pass.cpp
+END
+default.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.results/re.results.const/default.pass.cpp
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/iterator.primitives/iterator.traits
+END
+pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/iterator.primitives/iterator.traits/pointer.pass.cpp
+END
+const_pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/iterator.primitives/iterator.traits/const_pointer.pass.cpp
+END
+iterator.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/iterator.primitives/iterator.traits/iterator.pass.cpp
+END
+empty.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/iterator.primitives/iterator.traits/empty.pass.cpp
+END

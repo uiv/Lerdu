@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/algorithms/alg.sorting/alg.min.max
+END
+max_element.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.min.max/max_element.pass.cpp
+END
+min_init_list.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/algorithms/alg.sorting/alg.min.max/min_init_list.pass.cpp
+END
+min_comp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.min.max/min_comp.pass.cpp
+END
+minmax_element.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.min.max/minmax_element.pass.cpp
+END
+max_init_list.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/algorithms/alg.sorting/alg.min.max/max_init_list.pass.cpp
+END
+max_comp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.min.max/max_comp.pass.cpp
+END
+minmax_comp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.min.max/minmax_comp.pass.cpp
+END
+minmax_init_list.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/algorithms/alg.sorting/alg.min.max/minmax_init_list.pass.cpp
+END
+min_element_comp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.min.max/min_element_comp.pass.cpp
+END
+max_element_comp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.min.max/max_element_comp.pass.cpp
+END
+min_init_list_comp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/algorithms/alg.sorting/alg.min.max/min_init_list_comp.pass.cpp
+END
+minmax_element_comp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.min.max/minmax_element_comp.pass.cpp
+END
+max_init_list_comp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/algorithms/alg.sorting/alg.min.max/max_init_list_comp.pass.cpp
+END
+min.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.min.max/min.pass.cpp
+END
+max.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.min.max/max.pass.cpp
+END
+minmax_init_list_comp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/algorithms/alg.sorting/alg.min.max/minmax_init_list_comp.pass.cpp
+END
+minmax.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.min.max/minmax.pass.cpp
+END
+min_element.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.min.max/min_element.pass.cpp
+END

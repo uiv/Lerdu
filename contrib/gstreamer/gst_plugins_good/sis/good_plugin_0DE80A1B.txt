@@ -1,0 +1,3 @@
+libgstautodetect.dll
+libgstwavenc.dll
+libgstwavparse.dll

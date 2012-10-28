@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.modifiers
+END
+release.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.modifiers/release.pass.cpp
+END
+reset1.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.modifiers/reset1.pass.cpp
+END
+reset2.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.modifiers/reset2.pass.cpp
+END
+swap.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.modifiers/swap.pass.cpp
+END
+reset_self.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/unique.ptr/unique.ptr.single/unique.ptr.single.modifiers/reset_self.pass.cpp
+END

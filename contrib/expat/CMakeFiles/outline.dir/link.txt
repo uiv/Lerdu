@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/outline.dir/examples/outline.c.o  -o outline -rdynamic libexpat.so -Wl,-rpath,/home/samuel/build/1.08/contrib/expat 

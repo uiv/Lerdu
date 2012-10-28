@@ -1,0 +1,16 @@
+
+./${CURPATH}contrib/msvc/makemng/makemng.c
+./${CURPATH}contrib/msvc/makemng/filelist.c
+./${CURPATH}contrib/msvc/makemng/getopt/getopt.c
+./${CURPATH}contrib/msvc/makemng/getopt/getopt1.c
+./${CURPATH}contrib/msvc/mngplg/mngplg-src-1.0.1/npmngplg.c
+./${CURPATH}contrib/gcc/sdl-mngplay/mngplay.c
+./${CURPATH}contrib/gcc/fbmngplay/messages.c
+./${CURPATH}contrib/gcc/fbmngplay/console.c
+./${CURPATH}contrib/gcc/fbmngplay/mng.c
+./${CURPATH}contrib/gcc/fbmngplay/fbmngplay.c
+./${CURPATH}contrib/gcc/mngtree/mngtree.c
+./${CURPATH}contrib/gcc/gtk-mng-view/dummy.c
+./${CURPATH}contrib/gcc/gtk-mng-view/gtk-mng-view.c
+./${CURPATH}contrib/gcc/xmngview/color.c
+./${CURPATH}contrib/gcc/xmngview/xmngview.c

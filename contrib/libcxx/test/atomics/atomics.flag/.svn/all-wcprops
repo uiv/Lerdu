@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/atomics/atomics.flag
+END
+atomic_flag_test_and_set_explicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/atomics/atomics.flag/atomic_flag_test_and_set_explicit.pass.cpp
+END
+copy_volatile_assign.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/atomics/atomics.flag/copy_volatile_assign.fail.cpp
+END
+copy_assign.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/atomics/atomics.flag/copy_assign.fail.cpp
+END
+init.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/atomics/atomics.flag/init.pass.cpp
+END
+default.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/atomics/atomics.flag/default.pass.cpp
+END
+clear.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/atomics/atomics.flag/clear.pass.cpp
+END
+copy_ctor.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/atomics/atomics.flag/copy_ctor.fail.cpp
+END
+atomic_flag_clear.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/atomics/atomics.flag/atomic_flag_clear.pass.cpp
+END
+atomic_flag_clear_explicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/atomics/atomics.flag/atomic_flag_clear_explicit.pass.cpp
+END
+test_and_set.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/atomics/atomics.flag/test_and_set.pass.cpp
+END
+atomic_flag_test_and_set.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/atomics/atomics.flag/atomic_flag_test_and_set.pass.cpp
+END

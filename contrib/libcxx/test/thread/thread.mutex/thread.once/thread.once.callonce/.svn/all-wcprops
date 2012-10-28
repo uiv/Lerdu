@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/131414/libcxx/trunk/test/thread/thread.mutex/thread.once/thread.once.callonce
+END
+call_once.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/131414/libcxx/trunk/test/thread/thread.mutex/thread.once/thread.once.callonce/call_once.pass.cpp
+END

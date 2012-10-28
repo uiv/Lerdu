@@ -1,0 +1,34 @@
+; Installation file for Symbian OS 9.x for generic console application
+; Installation file for GSTRegistryGenerator EXE
+;
+; This is an auto-generated PKG file by Carbide.
+; This file uses variables specific to Carbide builds that will not work
+; on command-line builds. If you want to use this generated PKG file from the
+; command-line tools you will need to modify the variables with the appropriate
+; values: $(EPOCROOT), $(PLATFORM), $(TARGET)
+;
+
+;
+; UID is the exe's UID
+;
+#{"GSTRegistryGenerator EXE"},(0x2002BC55),1,0,0, TYPE = SA
+
+
+;Localised Vendor name
+%{"Vendor-EN"}
+
+;Supports S60 3.0 , 3.1 , 3.2 , 5.0 
+
+[0x101f7961],0, 0, 0 ,{"S60Product3rdEdition"}
+
+[0x102032be],0, 0, 0 ,{"S60Product3rdEditionFP1 "}
+
+[0x102752AE],0, 0, 0 ,{"S60Product3rdEditionFP2 "}
+
+[0x1028315F],0, 0, 0 ,{"S60Product5thEdition "}
+
+;Unique Vendor name
+:"Vendor"
+
+"\epoc32\release\armv5\urel\GSTRegistryGenerator.exe"		  -"!:\sys\bin\GSTRegistryGenerator.exe",FR,RI
+

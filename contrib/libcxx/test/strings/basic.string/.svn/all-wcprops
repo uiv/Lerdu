@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/141506/libcxx/trunk/test/strings/basic.string
+END
+types.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/types.pass.cpp
+END
+test_traits.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/111764/libcxx/trunk/test/strings/basic.string/test_traits.h
+END
+input_iterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/111764/libcxx/trunk/test/strings/basic.string/input_iterator.h
+END
+test_allocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/111764/libcxx/trunk/test/strings/basic.string/test_allocator.h
+END

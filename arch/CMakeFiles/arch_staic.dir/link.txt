@@ -1,0 +1,2 @@
+/usr/bin/ar cr libarch.a  CMakeFiles/arch_staic.dir/x86/_systrap.S.o CMakeFiles/arch_staic.dir/x86/elf_reloc.c.o
+/usr/bin/ranlib libarch.a

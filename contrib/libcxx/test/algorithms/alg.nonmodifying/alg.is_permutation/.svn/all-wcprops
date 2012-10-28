@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.nonmodifying/alg.is_permutation
+END
+is_permutation_pred.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.nonmodifying/alg.is_permutation/is_permutation_pred.pass.cpp
+END
+is_permutation.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.nonmodifying/alg.is_permutation/is_permutation.pass.cpp
+END

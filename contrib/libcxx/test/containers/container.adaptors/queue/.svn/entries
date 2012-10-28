@@ -1,0 +1,77 @@
+10
+
+dir
+166254
+http://llvm.org/svn/llvm-project/libcxx/trunk/test/containers/container.adaptors/queue
+http://llvm.org/svn/llvm-project
+
+
+
+2011-06-04T21:32:33.095561Z
+132650
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+queue.cons.alloc
+dir
+
+queue.defn
+dir
+
+queue.special
+dir
+
+queue.ops
+dir
+
+queue.cons
+dir
+
+version.pass.cpp
+file
+
+
+
+
+2012-10-19T01:22:23.840276Z
+de170af06412bda7063b634008096658
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+469
+

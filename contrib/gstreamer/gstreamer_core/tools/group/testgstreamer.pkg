@@ -1,0 +1,36 @@
+﻿; ============================================================================
+;  Name        : gstreamer.pkg
+;  Part of     : Gstreamer project
+;  Description : Package file for all gstreamer libraries
+;
+;  Version     : %version: da1mmcf#3 %
+;
+;  Copyright © 2002-2006 Nokia.  All rights reserved.
+;  This material, including documentation and any related computer
+;  programs, is protected by copyright controlled by Nokia.  All
+;  rights are reserved.  Copying, including reproducing, storing,
+;  adapting or translating, any or all of this material requires the
+;  prior written consent of Nokia.  This material also contains
+;  confidential information which may not be disclosed to others
+;  without the prior written consent of Nokia.
+; ============================================================================
+
+;Languages
+&EN
+
+;Header
+#{"testgstreamer.pkg"},(0x2001F47C),1,0,0
+
+;Supports S60 3.0
+[0x101F7961], 0, 0, 0, {"S60ProductID"}
+
+;Localised Vendor name
+%{"Nokia Testing EN"}
+
+;Unique Vendor name
+:"Vendor"
+
+
+"\epoc32\release\armv5\urel\gst-inspect.exe"-"!:\sys\bin\gst-inspect.exe"
+"\epoc32\release\armv5\urel\gst-typefind.exe"-"!:\sys\bin\gst-typefind.exe"
+"\epoc32\release\armv5\urel\gst-launch.exe"-"!:\sys\bin\gst-launch.exe"

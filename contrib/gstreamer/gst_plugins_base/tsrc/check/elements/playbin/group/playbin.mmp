@@ -1,0 +1,62 @@
+/*
+============================================================================
+ Name		: playbin.mmp
+ Author	  : 
+ Copyright   : Your copyright notice
+ Description : This is the project specification file for playbin.
+============================================================================
+*/
+
+
+#include <gstreamer/gstreamer_path.hrh>                    
+
+TARGET		  playbin.exe
+TARGETTYPE	  stdexe
+UID			 0 0xEEAA9E5E
+
+#if !defined(__WINSCW__) && !defined(__WINS__)
+EpocAllowDllData
+#endif
+
+EPOCHEAPSIZE 0x10000 0x1000000
+EPOCSTACKSIZE 0x10000
+
+
+#ifdef EKA2
+LANG            SC
+CAPABILITY All -Tcb
+//VENDORID        VID_DEFAULT
+#endif
+
+USERINCLUDE	 ../inc
+
+
+
+GST_ALL_DEPENDENT_INCLUDE
+USERINCLUDE		../../../../../../include/gstreamer
+USERINCLUDE		../../../../../../include/gstreamer/gst
+USERINCLUDE		../../../../../../include/gstreamer/gst/base
+USERINCLUDE		../../../../../../include/gstreamer/gst/controller
+USERINCLUDE		../../../../../../include/gstreamer/gst/dataprotocol
+USERINCLUDE		../../../../../../include/gstreamer/gst/net
+
+
+USERINCLUDE		../../../../../../gstreamer_core/libs/gst/check
+
+SYSTEMINCLUDE	../../../../../../gstreamer_core/libs
+
+SYSTEMINCLUDE	../../../../../../gstreamer_core/gst
+
+SYSTEMINCLUDE	../../../../../../gstreamer_core
+
+SOURCEPATH	  ../src
+SOURCE playbin.c
+
+LIBRARY		 euser.lib libc.lib libgstreamer.lib libgstbase.lib libgstcontroller.lib libgstcoreelements.lib
+LIBRARY		 libglib.lib libgmodule.lib libgobject.lib
+
+#ifdef ENABLE_ABIV2_MODE
+DEBUGGABLE
+#endif
+
+SMPSAFE

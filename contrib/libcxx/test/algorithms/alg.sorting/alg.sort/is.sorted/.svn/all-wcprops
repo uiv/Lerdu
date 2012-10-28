@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.sort/is.sorted
+END
+is_sorted_comp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.sort/is.sorted/is_sorted_comp.pass.cpp
+END
+is_sorted.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.sort/is.sorted/is_sorted.pass.cpp
+END
+is_sorted_until_comp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.sort/is.sorted/is_sorted_until_comp.pass.cpp
+END
+is_sorted_until.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.sorting/alg.sort/is.sorted/is_sorted_until.pass.cpp
+END

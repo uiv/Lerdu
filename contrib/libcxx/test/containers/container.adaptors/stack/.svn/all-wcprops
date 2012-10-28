@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/132652/libcxx/trunk/test/containers/container.adaptors/stack
+END
+version.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/stack/version.pass.cpp
+END

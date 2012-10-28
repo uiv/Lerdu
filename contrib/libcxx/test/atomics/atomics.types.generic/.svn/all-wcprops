@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.generic
+END
+integral_typedefs.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/121267/libcxx/trunk/test/atomics/atomics.types.generic/integral_typedefs.pass.cpp
+END
+bool.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/154095/libcxx/trunk/test/atomics/atomics.types.generic/bool.pass.cpp
+END
+cstdint_typedefs.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.generic/cstdint_typedefs.pass.cpp
+END
+address.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.generic/address.pass.cpp
+END
+integral.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/154095/libcxx/trunk/test/atomics/atomics.types.generic/integral.pass.cpp
+END

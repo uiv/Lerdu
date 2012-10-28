@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numeric.ops
+END
+iterators.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/111762/libcxx/trunk/test/numerics/numeric.ops/iterators.h
+END
+version.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/numeric.ops/version.pass.cpp
+END

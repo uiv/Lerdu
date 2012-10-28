@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/runtests.dir/tests/runtests.c.o CMakeFiles/runtests.dir/tests/chardata.c.o CMakeFiles/runtests.dir/tests/minicheck.c.o  -o runtests -rdynamic libexpat.so -Wl,-rpath,/home/samuel/build/1.08/contrib/expat 

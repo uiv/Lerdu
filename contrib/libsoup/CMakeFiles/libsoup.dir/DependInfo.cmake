@@ -1,0 +1,86 @@
+# The set of languages for which implicit dependencies are needed:
+SET(CMAKE_DEPENDS_LANGUAGES
+  "C"
+  )
+# The set of files for implicit dependencies of each language:
+SET(CMAKE_DEPENDS_CHECK_C
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-address.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-address.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-auth-basic.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-auth-basic.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-auth-digest.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-auth-digest.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-auth-domain-basic.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-auth-domain-basic.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-auth-domain-digest.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-auth-domain-digest.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-auth-domain.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-auth-domain.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-auth-manager-ntlm.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-auth-manager-ntlm.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-auth-manager.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-auth-manager.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-auth-ntlm.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-auth-ntlm.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-auth.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-auth.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-body-input-stream.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-body-input-stream.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-body-output-stream.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-body-output-stream.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-cache.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-cache.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-client-input-stream.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-client-input-stream.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-connection.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-connection.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-content-decoder.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-content-decoder.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-content-sniffer-stream.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-content-sniffer-stream.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-content-sniffer.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-content-sniffer.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-converter-wrapper.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-converter-wrapper.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-cookie-jar-sqlite.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-cookie-jar-sqlite.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-cookie-jar-text.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-cookie-jar-text.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-cookie-jar.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-cookie-jar.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-cookie.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-cookie.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-date.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-date.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-directory-input-stream.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-directory-input-stream.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-enum-types.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-enum-types.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-filter-input-stream.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-filter-input-stream.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-form.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-form.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-gnome-features.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-gnome-features.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-headers.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-headers.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-io-stream.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-io-stream.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-logger.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-logger.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-marshal.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-marshal.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-message-body.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-message-body.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-message-client-io.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-message-client-io.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-message-headers.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-message-headers.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-message-io.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-message-io.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-message-queue.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-message-queue.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-message-server-io.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-message-server-io.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-message.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-message.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-method.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-method.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-misc.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-misc.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-multipart-input-stream.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-multipart-input-stream.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-multipart.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-multipart.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-password-manager-gnome.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-password-manager-gnome.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-password-manager.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-password-manager.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-path-map.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-path-map.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-proxy-resolver-default.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-proxy-resolver-default.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-proxy-resolver-gnome.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-proxy-resolver-gnome.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-proxy-resolver-static.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-proxy-resolver-static.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-proxy-resolver.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-proxy-resolver.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-proxy-uri-resolver.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-proxy-uri-resolver.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-request-data.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-request-data.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-request-file.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-request-file.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-request-http.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-request-http.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-request.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-request.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-requester.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-requester.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-server.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-server.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-session-async.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-session-async.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-session-feature.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-session-feature.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-session-sync.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-session-sync.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-session.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-session.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-socket.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-socket.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-status.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-status.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-tld.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-tld.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-uri.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-uri.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-value-utils.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-value-utils.c.o"
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup/soup-xmlrpc.c" "/home/samuel/build/1.08/contrib/libsoup/CMakeFiles/libsoup.dir/libsoup/soup-xmlrpc.c.o"
+  )
+SET(CMAKE_C_COMPILER_ID "GNU")
+
+# Pairs of files generated by the same build rule.
+SET(CMAKE_MULTIPLE_OUTPUT_PAIRS
+  "/home/samuel/build/1.08/contrib/libsoup/libsoup.so" "/home/samuel/build/1.08/contrib/libsoup/libsoup.so.0.1.07"
+  )
+
+
+# Targets to which this target links.
+SET(CMAKE_TARGET_LINKED_INFO_FILES
+  )

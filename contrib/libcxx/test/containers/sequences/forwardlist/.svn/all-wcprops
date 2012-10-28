@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/containers/sequences/forwardlist
+END
+types.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/types.pass.cpp
+END
+version.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/version.pass.cpp
+END
+max_size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/max_size.pass.cpp
+END

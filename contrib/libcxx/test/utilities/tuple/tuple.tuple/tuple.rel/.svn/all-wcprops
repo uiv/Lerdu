@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/tuple/tuple.tuple/tuple.rel
+END
+lt.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/tuple/tuple.tuple/tuple.rel/lt.pass.cpp
+END
+eq.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/tuple/tuple.tuple/tuple.rel/eq.pass.cpp
+END

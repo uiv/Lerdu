@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/135444/libcxx/trunk/test/input.output/file.streams/fstreams/ofstream.assign
+END
+nonmember_swap.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/135444/libcxx/trunk/test/input.output/file.streams/fstreams/ofstream.assign/nonmember_swap.pass.cpp
+END
+member_swap.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/135444/libcxx/trunk/test/input.output/file.streams/fstreams/ofstream.assign/member_swap.pass.cpp
+END
+move_assign.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/135444/libcxx/trunk/test/input.output/file.streams/fstreams/ofstream.assign/move_assign.pass.cpp
+END

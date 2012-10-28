@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/161651/llvm/trunk/tools/llvm-ranlib
+END
+llvm-ranlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/161651/llvm/trunk/tools/llvm-ranlib/llvm-ranlib.cpp
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/146409/llvm/trunk/tools/llvm-ranlib/LLVMBuild.txt
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/113819/llvm/trunk/tools/llvm-ranlib/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/142401/llvm/trunk/tools/llvm-ranlib/Makefile
+END

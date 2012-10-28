@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.virtuals/streambuf.virt.buffer
+END
+tested_elsewhere.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.virtuals/streambuf.virt.buffer/tested_elsewhere.pass.cpp
+END

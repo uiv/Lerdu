@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.iterators
+END
+begin.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.iterators/begin.pass.cpp
+END
+end.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.iterators/end.pass.cpp
+END
+rbegin.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.iterators/rbegin.pass.cpp
+END
+cbegin.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.iterators/cbegin.pass.cpp
+END
+rend.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.iterators/rend.pass.cpp
+END
+cend.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.iterators/cend.pass.cpp
+END
+crbegin.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.iterators/crbegin.pass.cpp
+END
+crend.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.iterators/crend.pass.cpp
+END

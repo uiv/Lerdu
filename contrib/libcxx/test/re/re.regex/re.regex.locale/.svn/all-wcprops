@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/re/re.regex/re.regex.locale
+END
+imbue.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/re/re.regex/re.regex.locale/imbue.pass.cpp
+END

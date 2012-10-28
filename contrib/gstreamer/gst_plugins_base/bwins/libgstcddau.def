@@ -1,0 +1,5 @@
+EXPORTS
+	__gst_cdda_rfc822_binary @ 1 NONAME
+	gst_cdda_base_src_add_track @ 2 NONAME
+	gst_cdda_base_src_get_type @ 3 NONAME
+

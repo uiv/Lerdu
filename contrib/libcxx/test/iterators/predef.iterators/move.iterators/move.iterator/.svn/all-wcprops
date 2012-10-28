@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/predef.iterators/move.iterators/move.iterator
+END
+types.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/predef.iterators/move.iterators/move.iterator/types.pass.cpp
+END

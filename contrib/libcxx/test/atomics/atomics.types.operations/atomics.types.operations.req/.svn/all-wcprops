@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req
+END
+atomic_fetch_and.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_fetch_and.pass.cpp
+END
+atomic_var_init.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_var_init.pass.cpp
+END
+atomic_fetch_and_explicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_fetch_and_explicit.pass.cpp
+END
+atomic_load.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_load.pass.cpp
+END
+atomic_load_explicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_load_explicit.pass.cpp
+END
+atomic_fetch_xor.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_fetch_xor.pass.cpp
+END
+atomic_fetch_xor_explicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_fetch_xor_explicit.pass.cpp
+END
+atomic_exchange.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_exchange.pass.cpp
+END
+atomic_exchange_explicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_exchange_explicit.pass.cpp
+END
+atomic_compare_exchange_strong.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_compare_exchange_strong.pass.cpp
+END
+atomic_is_lock_free.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/llvm-project/!svn/ver/121064/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_is_lock_free.pass.cpp
+END
+atomic_compare_exchange_strong_explicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_compare_exchange_strong_explicit.pass.cpp
+END
+atomic_fetch_or.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_fetch_or.pass.cpp
+END
+atomic_fetch_or_explicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_fetch_or_explicit.pass.cpp
+END
+atomic_store.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_store.pass.cpp
+END
+atomic_store_explicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_store_explicit.pass.cpp
+END
+atomic_compare_exchange_weak.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_compare_exchange_weak.pass.cpp
+END
+atomic_compare_exchange_weak_explicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_compare_exchange_weak_explicit.pass.cpp
+END
+atomic_fetch_add.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_fetch_add.pass.cpp
+END
+atomic_fetch_sub.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_fetch_sub.pass.cpp
+END
+atomic_fetch_add_explicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_fetch_add_explicit.pass.cpp
+END
+atomic_fetch_sub_explicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_fetch_sub_explicit.pass.cpp
+END
+atomic_init.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/llvm-project/!svn/ver/155085/libcxx/trunk/test/atomics/atomics.types.operations/atomics.types.operations.req/atomic_init.pass.cpp
+END

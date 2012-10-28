@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.ops
+END
+unique.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.ops/unique.pass.cpp
+END
+sort.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.ops/sort.pass.cpp
+END
+merge_pred.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.ops/merge_pred.pass.cpp
+END
+remove_if.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.ops/remove_if.pass.cpp
+END
+reverse.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.ops/reverse.pass.cpp
+END
+splice_after_range.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.ops/splice_after_range.pass.cpp
+END
+remove.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.ops/remove.pass.cpp
+END
+merge.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.ops/merge.pass.cpp
+END
+unique_pred.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.ops/unique_pred.pass.cpp
+END
+sort_pred.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.ops/sort_pred.pass.cpp
+END
+splice_after_flist.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.ops/splice_after_flist.pass.cpp
+END
+splice_after_one.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.ops/splice_after_one.pass.cpp
+END

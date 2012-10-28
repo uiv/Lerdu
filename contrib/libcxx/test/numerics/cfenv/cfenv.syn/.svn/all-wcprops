@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/cfenv/cfenv.syn
+END
+cfenv.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/cfenv/cfenv.syn/cfenv.pass.cpp
+END

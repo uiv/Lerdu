@@ -1,0 +1,59 @@
+/*
+============================================================================
+ Name		: GSTRegistryGenerator.mmp
+ Author	  : 
+ Copyright   : Your copyright notice
+ Description : This is the project specification file for GSTRegistryGenerator.
+============================================================================
+*/
+
+
+#include <gstreamer/gstreamer_path.hrh>      
+
+TARGET		  GSTRegistryGenerator.exe
+TARGETTYPE	  EXE
+UID			 0 0xEE84F17B
+
+CAPABILITY All -Tcb
+
+//VENDORID        VID_DEFAULT
+
+USERINCLUDE	 ../inc
+SYSTEMINCLUDE   /epoc32/include
+
+MACRO           HAVE_CONFIG_H
+
+
+
+GST_ALL_DEPENDENT_INCLUDE
+USERINCLUDE		../../include/gstreamer
+USERINCLUDE		../../include/gstreamer/gst
+USERINCLUDE		../../include/gstreamer/gst/base
+USERINCLUDE		../../include/gstreamer/gst/controller
+USERINCLUDE		../../include/gstreamer/gst/dataprotocol
+USERINCLUDE		../../include/gstreamer/gst/net
+
+
+
+SOURCEPATH	  ../src
+SOURCE		  GSTRegistryGenerator.cpp
+
+STATICLIBRARY libcrt0.lib
+LIBRARY         libc.lib euser.lib
+LIBRARY         libpthread.lib
+LIBRARY         libdl.lib
+LIBRARY         libglib.lib
+LIBRARY         libgmodule.lib
+
+LIBRARY         libgobject.lib
+LIBRARY         libgthread.lib
+LIBRARY         libm.lib
+LIBRARY         libz.lib
+LIBRARY         libgstreamer.lib
+LIBRARY			libgstbase.lib
+LIBRARY			libgstcontroller.lib
+
+#ifdef ENABLE_ABIV2_MODE
+  DEBUGGABLE_UDEBONLY
+#endif
+SMPSAFE

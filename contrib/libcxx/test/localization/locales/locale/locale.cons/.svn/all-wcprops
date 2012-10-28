@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locales/locale/locale.cons
+END
+locale_char_pointer_cat.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locales/locale/locale.cons/locale_char_pointer_cat.pass.cpp
+END
+assign.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locales/locale/locale.cons/assign.pass.cpp
+END
+default.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locales/locale/locale.cons/default.pass.cpp
+END
+locale_locale_cat.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locales/locale/locale.cons/locale_locale_cat.pass.cpp
+END
+string.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locales/locale/locale.cons/string.pass.cpp
+END
+locale_facetptr.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locales/locale/locale.cons/locale_facetptr.pass.cpp
+END
+copy.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locales/locale/locale.cons/copy.pass.cpp
+END
+locale_string_cat.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locales/locale/locale.cons/locale_string_cat.pass.cpp
+END
+char_pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locales/locale/locale.cons/char_pointer.pass.cpp
+END

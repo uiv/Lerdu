@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/stream.iterators/iterator.range
+END
+end_non_const.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/stream.iterators/iterator.range/end_non_const.pass.cpp
+END
+begin_const.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/stream.iterators/iterator.range/begin_const.pass.cpp
+END
+end_const.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/stream.iterators/iterator.range/end_const.pass.cpp
+END
+begin_array.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/stream.iterators/iterator.range/begin_array.pass.cpp
+END
+begin_non_const.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/stream.iterators/iterator.range/begin_non_const.pass.cpp
+END
+end_array.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/stream.iterators/iterator.range/end_array.pass.cpp
+END

@@ -1,0 +1,85 @@
+/*
+* Copyright (c) 2009 Nokia Corporation and/or its subsidiary(-ies). All rights reserved.
+*
+* This library is free software; you can redistribute it and/or
+* modify it under the terms of the GNU Lesser General Public
+* License as published by the Free Software Foundation; either
+* version 2 of the License, or (at your option) any later version.
+*
+* This library is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+* Lesser General Public License for more details.
+*
+* You should have received a copy of the GNU Lesser General Public
+* License along with this library; if not, write to the
+* Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+* Boston, MA 02111-1307, USA.
+*
+* Description:
+*
+*/
+
+
+
+#include <gstreamer/gstreamer_path.hrh>
+
+TARGET          GStreamerTestClass.dll
+TARGETTYPE      dll
+UID             0x1000008D 0x10207C5E
+
+EPOCALLOWDLLDATA
+
+EPOCHEAPSIZE 0x800000 0x1000000
+EPOCSTACKSIZE 0xA000
+
+#if defined(EKA2)
+CAPABILITY      ALL -TCB
+#endif
+
+DEFFILE         GStreamerTestClass.def
+
+SOURCEPATH      ../src
+SOURCE          GStreamerTestClass.cpp
+SOURCE          GStreamerTestClassBlocks.cpp
+SOURCE          GStreamerTestClassBlocksCallbacks.cpp
+SOURCE          TimeoutController.cpp
+
+
+USERINCLUDE     ../inc
+
+
+GST_ALL_DEPENDENT_INCLUDE
+
+USERINCLUDE		../../../../include/gstreamer
+USERINCLUDE		../../../../include/gstreamer/gst
+USERINCLUDE		../../../../include/gstreamer/gst/base
+
+// FIXME  Fix this path when we check in this project.
+USERINCLUDE     ../../../gst/devsound
+
+LIBRARY         euser.lib
+LIBRARY         stiftestinterface.lib
+LIBRARY         efsrv.lib				// File server session for database
+
+LIBRARY     libc.lib
+LIBRARY     libpthread.lib
+LIBRARY     libdl.lib
+LIBRARY     libm.lib
+
+LIBRARY         libglib.lib
+LIBRARY         libgmodule.lib
+LIBRARY         libgobject.lib
+LIBRARY         libgthread.lib
+LIBRARY         glibbackend.lib
+LIBRARY         libz.lib
+
+LIBRARY         libgstreamer.lib
+LIBRARY			libgstdevsoundext.lib
+// Other possible keywords:
+ 
+// DOCUMENT     ?file, that is not compiled, but added to MSVC project workspace (i.e. release notes)
+
+
+// End of File
+SMPSAFE

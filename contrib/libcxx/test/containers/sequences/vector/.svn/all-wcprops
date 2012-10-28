@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/159921/libcxx/trunk/test/containers/sequences/vector
+END
+types.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/vector/types.pass.cpp
+END
+version.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/vector/version.pass.cpp
+END
+iterators.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/124508/libcxx/trunk/test/containers/sequences/vector/iterators.pass.cpp
+END

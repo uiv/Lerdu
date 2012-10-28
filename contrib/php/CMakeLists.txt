@@ -1,0 +1,22 @@
+INCLUDE(inc.cmake)
+
+include_directories(AFTER
+../libxml/include
+./ext/sqlite/libsqlite/src
+./ext/sqlite3/libsqlite
+./ext/fileinfo/libmagic
+./ext
+./TSRM
+./Zend
+./main
+./
+)
+
+IF(OS_CONTRIB_PHP_SRC)
+	ADD_LIBRARY(php_static STATIC ${OS_CONTRIB_PHP_SRC})
+	SET_TARGET_PROPERTIES(php_static PROPERTIES OUTPUT_NAME php)
+	ADD_LIBRARY(php SHARED ${OS_CONTRIB_PHP_SRC})
+	SET_TARGET_PROPERTIES(php PROPERTIES OUTPUT_NAME php)
+	SET_TARGET_PROPERTIES(php PROPERTIES CLEAN_DIRECT_OUTPUT 1)
+	SET_TARGET_PROPERTIES(php PROPERTIES SOVERSION ${VERSION})
+ENDIF()

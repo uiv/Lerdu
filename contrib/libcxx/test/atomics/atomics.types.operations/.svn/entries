@@ -1,0 +1,77 @@
+10
+
+dir
+166254
+http://llvm.org/svn/llvm-project/libcxx/trunk/test/atomics/atomics.types.operations
+http://llvm.org/svn/llvm-project
+
+
+
+2012-04-19T00:50:47.057918Z
+155085
+rsmith
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+atomics.types.operations.general
+dir
+
+nothing_to_do.pass.cpp
+file
+
+
+
+
+2012-10-19T01:22:19.664276Z
+b7ee39c6cb3824f0fbad63f4060a034d
+2010-12-08T17:20:28.279473Z
+121267
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+387
+
+atomics.types.operations.pointer
+dir
+
+atomics.types.operations.templ
+dir
+
+atomics.types.operations.arith
+dir
+
+atomics.types.operations.req
+dir
+

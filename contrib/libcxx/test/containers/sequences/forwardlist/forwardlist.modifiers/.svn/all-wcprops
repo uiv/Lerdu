@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.modifiers
+END
+insert_after_init.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.modifiers/insert_after_init.pass.cpp
+END
+insert_after_size_value.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.modifiers/insert_after_size_value.pass.cpp
+END
+emplace_front.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.modifiers/emplace_front.pass.cpp
+END
+erase_after_one.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.modifiers/erase_after_one.pass.cpp
+END
+clear.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.modifiers/clear.pass.cpp
+END
+resize_size_value.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.modifiers/resize_size_value.pass.cpp
+END
+emplace_after.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.modifiers/emplace_after.pass.cpp
+END
+resize_size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.modifiers/resize_size.pass.cpp
+END
+insert_after_const.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.modifiers/insert_after_const.pass.cpp
+END
+insert_after_rv.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.modifiers/insert_after_rv.pass.cpp
+END
+push_front_const.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.modifiers/push_front_const.pass.cpp
+END
+push_front_rv.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.modifiers/push_front_rv.pass.cpp
+END
+insert_after_range.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.modifiers/insert_after_range.pass.cpp
+END
+erase_after_many.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.modifiers/erase_after_many.pass.cpp
+END
+pop_front.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.modifiers/pop_front.pass.cpp
+END

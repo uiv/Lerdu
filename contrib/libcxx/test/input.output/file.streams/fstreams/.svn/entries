@@ -1,0 +1,113 @@
+10
+
+dir
+166254
+http://llvm.org/svn/llvm-project/libcxx/trunk/test/input.output/file.streams/fstreams
+http://llvm.org/svn/llvm-project
+
+
+
+2011-10-03T15:23:59.932402Z
+141003
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+ifstream.assign
+dir
+
+filebuf.assign
+dir
+
+fstream
+dir
+
+fstream.cons
+dir
+
+ofstream.assign
+dir
+
+ifstream.members
+dir
+
+filebuf.members
+dir
+
+ofstream.members
+dir
+
+ifstream
+dir
+
+ifstream.cons
+dir
+
+version.pass.cpp
+file
+
+
+
+
+2012-10-19T01:22:19.272276Z
+283ecbbbf3c78d158509fe478d706a1f
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+473
+
+filebuf
+dir
+
+filebuf.cons
+dir
+
+ofstream
+dir
+
+ofstream.cons
+dir
+
+fstream.assign
+dir
+
+filebuf.virtuals
+dir
+
+fstream.members
+dir
+

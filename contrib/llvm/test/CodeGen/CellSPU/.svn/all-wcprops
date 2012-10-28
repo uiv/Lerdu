@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/165019/llvm/trunk/test/CodeGen/CellSPU
+END
+or_ops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/143660/llvm/trunk/test/CodeGen/CellSPU/or_ops.ll
+END
+storestruct.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/103021/llvm/trunk/test/CodeGen/CellSPU/storestruct.ll
+END
+int2fp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/81545/llvm/trunk/test/CodeGen/CellSPU/int2fp.ll
+END
+i8ops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/81545/llvm/trunk/test/CodeGen/CellSPU/i8ops.ll
+END
+loads.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/126995/llvm/trunk/test/CodeGen/CellSPU/loads.ll
+END
+vecinsert.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/105722/llvm/trunk/test/CodeGen/CellSPU/vecinsert.ll
+END
+v2i32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/142152/llvm/trunk/test/CodeGen/CellSPU/v2i32.ll
+END
+mul-with-overflow.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/133228/llvm/trunk/test/CodeGen/CellSPU/mul-with-overflow.ll
+END
+intrinsics_float.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/81545/llvm/trunk/test/CodeGen/CellSPU/intrinsics_float.ll
+END
+2010-04-07-DbgValueOtherTargets.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/121059/llvm/trunk/test/CodeGen/CellSPU/2010-04-07-DbgValueOtherTargets.ll
+END
+private.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/133248/llvm/trunk/test/CodeGen/CellSPU/private.ll
+END
+sub_ops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/103399/llvm/trunk/test/CodeGen/CellSPU/sub_ops.ll
+END
+mul_ops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/92849/llvm/trunk/test/CodeGen/CellSPU/mul_ops.ll
+END
+sext128.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/123912/llvm/trunk/test/CodeGen/CellSPU/sext128.ll
+END
+rotate_ops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/154266/llvm/trunk/test/CodeGen/CellSPU/rotate_ops.ll
+END
+icmp8.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/159523/llvm/trunk/test/CodeGen/CellSPU/icmp8.ll
+END
+arg_ret.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/118889/llvm/trunk/test/CodeGen/CellSPU/arg_ret.ll
+END
+i64ops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/81545/llvm/trunk/test/CodeGen/CellSPU/i64ops.ll
+END
+bss.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/127028/llvm/trunk/test/CodeGen/CellSPU/bss.ll
+END
+fneg-fabs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/161282/llvm/trunk/test/CodeGen/CellSPU/fneg-fabs.ll
+END
+fdiv.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/81545/llvm/trunk/test/CodeGen/CellSPU/fdiv.ll
+END
+fcmp32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/161519/llvm/trunk/test/CodeGen/CellSPU/fcmp32.ll
+END
+eqv.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/133228/llvm/trunk/test/CodeGen/CellSPU/eqv.ll
+END
+trunc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/159525/llvm/trunk/test/CodeGen/CellSPU/trunc.ll
+END
+icmp32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/160354/llvm/trunk/test/CodeGen/CellSPU/icmp32.ll
+END
+icmp16.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/165019/llvm/trunk/test/CodeGen/CellSPU/icmp16.ll
+END
+fcmp64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/81545/llvm/trunk/test/CodeGen/CellSPU/fcmp64.ll
+END
+immed32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/122052/llvm/trunk/test/CodeGen/CellSPU/immed32.ll
+END
+select_bits.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/143660/llvm/trunk/test/CodeGen/CellSPU/select_bits.ll
+END
+intrinsics_branch.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/81545/llvm/trunk/test/CodeGen/CellSPU/intrinsics_branch.ll
+END
+immed16.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/81545/llvm/trunk/test/CodeGen/CellSPU/immed16.ll
+END
+icmp64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/81545/llvm/trunk/test/CodeGen/CellSPU/icmp64.ll
+END
+v2f32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/129184/llvm/trunk/test/CodeGen/CellSPU/v2f32.ll
+END
+div_ops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/120022/llvm/trunk/test/CodeGen/CellSPU/div_ops.ll
+END
+struct_1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/143660/llvm/trunk/test/CodeGen/CellSPU/struct_1.ll
+END
+immed64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/81545/llvm/trunk/test/CodeGen/CellSPU/immed64.ll
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/153408/llvm/trunk/test/CodeGen/CellSPU/lit.local.cfg
+END
+call.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/144474/llvm/trunk/test/CodeGen/CellSPU/call.ll
+END
+extract_elt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/81545/llvm/trunk/test/CodeGen/CellSPU/extract_elt.ll
+END
+intrinsics_logical.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/81545/llvm/trunk/test/CodeGen/CellSPU/intrinsics_logical.ll
+END
+shuffles.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/142152/llvm/trunk/test/CodeGen/CellSPU/shuffles.ll
+END
+sp_farith.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/81545/llvm/trunk/test/CodeGen/CellSPU/sp_farith.ll
+END
+stores.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/159525/llvm/trunk/test/CodeGen/CellSPU/stores.ll
+END
+nand.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/143660/llvm/trunk/test/CodeGen/CellSPU/nand.ll
+END
+jumptable.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/141862/llvm/trunk/test/CodeGen/CellSPU/jumptable.ll
+END
+and_ops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/143660/llvm/trunk/test/CodeGen/CellSPU/and_ops.ll
+END
+vec_const.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/81545/llvm/trunk/test/CodeGen/CellSPU/vec_const.ll
+END
+ctpop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/81545/llvm/trunk/test/CodeGen/CellSPU/ctpop.ll
+END
+bigstack.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/110576/llvm/trunk/test/CodeGen/CellSPU/bigstack.ll
+END
+2009-01-01-BrCond.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/154816/llvm/trunk/test/CodeGen/CellSPU/2009-01-01-BrCond.ll
+END
+shift_ops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/159525/llvm/trunk/test/CodeGen/CellSPU/shift_ops.ll
+END
+crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/101875/llvm/trunk/test/CodeGen/CellSPU/crash.ll
+END
+dp_farith.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/92740/llvm/trunk/test/CodeGen/CellSPU/dp_farith.ll
+END

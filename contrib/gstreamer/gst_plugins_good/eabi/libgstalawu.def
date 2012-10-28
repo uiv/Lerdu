@@ -1,0 +1,5 @@
+EXPORTS
+	_GST_PLUGIN_DESC @ 1 NONAME
+	gst_alaw_dec_get_type @ 2 NONAME
+	gst_alaw_enc_get_type @ 3 NONAME
+

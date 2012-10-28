@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/121275/libcxx/trunk/test/depr/depr.function.objects/depr.base
+END
+binary_function.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/121275/libcxx/trunk/test/depr/depr.function.objects/depr.base/binary_function.pass.cpp
+END
+unary_function.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/121275/libcxx/trunk/test/depr/depr.function.objects/depr.base/unary_function.pass.cpp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/119609/libcxx/trunk/test/utilities/memory/allocator.traits
+END
+rebind_traits.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.traits/rebind_traits.pass.cpp
+END
+value_type.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.traits/value_type.pass.cpp
+END
+allocator_type.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.traits/allocator_type.pass.cpp
+END

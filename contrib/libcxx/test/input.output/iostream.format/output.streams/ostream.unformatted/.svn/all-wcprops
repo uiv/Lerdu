@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.unformatted
+END
+flush.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.unformatted/flush.pass.cpp
+END
+put.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.unformatted/put.pass.cpp
+END
+write.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.unformatted/write.pass.cpp
+END

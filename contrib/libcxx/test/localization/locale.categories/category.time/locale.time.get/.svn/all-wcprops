@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.time/locale.time.get
+END
+types.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.time/locale.time.get/types.pass.cpp
+END
+ctor.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.time/locale.time.get/ctor.pass.cpp
+END
+time_base.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.time/locale.time.get/time_base.pass.cpp
+END

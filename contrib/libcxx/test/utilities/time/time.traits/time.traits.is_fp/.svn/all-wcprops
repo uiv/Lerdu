@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.traits/time.traits.is_fp
+END
+treat_as_floating_point.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.traits/time.traits.is_fp/treat_as_floating_point.pass.cpp
+END

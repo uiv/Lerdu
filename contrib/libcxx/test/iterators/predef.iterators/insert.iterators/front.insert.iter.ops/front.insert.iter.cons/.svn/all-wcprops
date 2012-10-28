@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/predef.iterators/insert.iterators/front.insert.iter.ops/front.insert.iter.cons
+END
+container.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/predef.iterators/insert.iterators/front.insert.iter.ops/front.insert.iter.cons/container.fail.cpp
+END
+container.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/predef.iterators/insert.iterators/front.insert.iter.ops/front.insert.iter.cons/container.pass.cpp
+END

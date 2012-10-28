@@ -1,0 +1,17 @@
+EXPORTS
+	gst_riff_create_audio_caps @ 1 NONAME
+	gst_riff_create_audio_template_caps @ 2 NONAME
+	gst_riff_create_iavs_caps @ 3 NONAME
+	gst_riff_create_iavs_template_caps @ 4 NONAME
+	gst_riff_create_video_caps @ 5 NONAME
+	gst_riff_create_video_template_caps @ 6 NONAME
+	gst_riff_init @ 7 NONAME
+	gst_riff_parse_chunk @ 8 NONAME
+	gst_riff_parse_file_header @ 9 NONAME
+	gst_riff_parse_info @ 10 NONAME
+	gst_riff_parse_strf_auds @ 11 NONAME
+	gst_riff_parse_strf_iavs @ 12 NONAME
+	gst_riff_parse_strf_vids @ 13 NONAME
+	gst_riff_parse_strh @ 14 NONAME
+	gst_riff_read_chunk @ 15 NONAME
+

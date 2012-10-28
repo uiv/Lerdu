@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.protected/streambuf.get.area
+END
+gbump.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.protected/streambuf.get.area/gbump.pass.cpp
+END
+setg.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.protected/streambuf.get.area/setg.pass.cpp
+END

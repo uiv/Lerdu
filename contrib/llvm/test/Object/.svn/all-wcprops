@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/llvm-project/!svn/ver/164365/llvm/trunk/test/Object
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/150664/llvm/trunk/test/Object/lit.local.cfg
+END
+nm-shared-object.test
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/164365/llvm/trunk/test/Object/nm-shared-object.test
+END
+objdump-file-header.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/161219/llvm/trunk/test/Object/objdump-file-header.test
+END
+nm-trivial-object.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/161219/llvm/trunk/test/Object/nm-trivial-object.test
+END
+objdump-symbol-table.test
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/164365/llvm/trunk/test/Object/objdump-symbol-table.test
+END
+nm-archive.test
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/143404/llvm/trunk/test/Object/nm-archive.test
+END
+objdump-section-content.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/161219/llvm/trunk/test/Object/objdump-section-content.test
+END
+readobj-elf-versioning.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/152436/llvm/trunk/test/Object/readobj-elf-versioning.test
+END
+objdump-sectionheaders.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/143404/llvm/trunk/test/Object/objdump-sectionheaders.test
+END
+readobj-shared-object.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/151845/llvm/trunk/test/Object/readobj-shared-object.test
+END
+objdump-relocations.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/163271/llvm/trunk/test/Object/objdump-relocations.test
+END

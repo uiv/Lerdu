@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/157832/libcxx/trunk/test/depr/depr.str.strstreams/depr.strstream/depr.strstream.cons
+END
+default.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/157832/libcxx/trunk/test/depr/depr.str.strstreams/depr.strstream/depr.strstream.cons/default.pass.cpp
+END
+cp_size_mode.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.str.strstreams/depr.strstream/depr.strstream.cons/cp_size_mode.pass.cpp
+END

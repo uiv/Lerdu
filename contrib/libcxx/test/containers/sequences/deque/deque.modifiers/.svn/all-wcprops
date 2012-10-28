@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/containers/sequences/deque/deque.modifiers
+END
+push_front.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/deque/deque.modifiers/push_front.pass.cpp
+END
+insert_size_value.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/deque/deque.modifiers/insert_size_value.pass.cpp
+END
+push_back.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/deque/deque.modifiers/push_back.pass.cpp
+END
+insert_value.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/deque/deque.modifiers/insert_value.pass.cpp
+END
+push_front_rvalue.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/deque/deque.modifiers/push_front_rvalue.pass.cpp
+END
+erase_iter_iter.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/deque/deque.modifiers/erase_iter_iter.pass.cpp
+END
+pop_front.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/deque/deque.modifiers/pop_front.pass.cpp
+END
+emplace.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/deque/deque.modifiers/emplace.pass.cpp
+END
+insert_iter_iter.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/deque/deque.modifiers/insert_iter_iter.pass.cpp
+END
+push_back_rvalue.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/deque/deque.modifiers/push_back_rvalue.pass.cpp
+END
+pop_back.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/deque/deque.modifiers/pop_back.pass.cpp
+END
+emplace_front.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/deque/deque.modifiers/emplace_front.pass.cpp
+END
+insert_rvalue.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/deque/deque.modifiers/insert_rvalue.pass.cpp
+END
+erase_iter.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/deque/deque.modifiers/erase_iter.pass.cpp
+END
+insert_iter_initializer_list.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/containers/sequences/deque/deque.modifiers/insert_iter_initializer_list.pass.cpp
+END
+emplace_back.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/deque/deque.modifiers/emplace_back.pass.cpp
+END

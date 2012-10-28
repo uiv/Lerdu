@@ -1,0 +1,18 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: -O2;-Wall;-Wall;-W;-Wundef;-Wpointer-arith;-Wcast-align;-Wwrite-strings;-Wstrict-prototypes;-Wmissing-prototypes;-Wmissing-declarations;-Wnested-externs
+Id flags: 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: -O2;-Wall;-Wall;-W;-Wundef;-Wpointer-arith;-Wcast-align;-Wwrite-strings;-Wstrict-prototypes;-Wmissing-prototypes;-Wmissing-declarations;-Wnested-externs
+Id flags: -c
+
+The output was:
+No such file or directory
+
+

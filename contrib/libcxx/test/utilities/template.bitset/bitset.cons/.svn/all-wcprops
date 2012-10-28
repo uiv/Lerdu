@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/159899/libcxx/trunk/test/utilities/template.bitset/bitset.cons
+END
+ull_ctor.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/159899/libcxx/trunk/test/utilities/template.bitset/bitset.cons/ull_ctor.pass.cpp
+END
+default.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/159899/libcxx/trunk/test/utilities/template.bitset/bitset.cons/default.pass.cpp
+END
+char_ptr_ctor.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.cons/char_ptr_ctor.pass.cpp
+END
+string_ctor.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.cons/string_ctor.pass.cpp
+END

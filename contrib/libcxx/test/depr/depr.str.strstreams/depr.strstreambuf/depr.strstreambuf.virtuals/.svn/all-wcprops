@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.str.strstreams/depr.strstreambuf/depr.strstreambuf.virtuals
+END
+seekpos.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.str.strstreams/depr.strstreambuf/depr.strstreambuf.virtuals/seekpos.pass.cpp
+END
+pbackfail.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.str.strstreams/depr.strstreambuf/depr.strstreambuf.virtuals/pbackfail.pass.cpp
+END
+seekoff.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.str.strstreams/depr.strstreambuf/depr.strstreambuf.virtuals/seekoff.pass.cpp
+END
+overflow.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.str.strstreams/depr.strstreambuf/depr.strstreambuf.virtuals/overflow.pass.cpp
+END
+underflow.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.str.strstreams/depr.strstreambuf/depr.strstreambuf.virtuals/underflow.pass.cpp
+END
+setbuf.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.str.strstreams/depr.strstreambuf/depr.strstreambuf.virtuals/setbuf.pass.cpp
+END

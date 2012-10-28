@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/function.objects/logical.operations
+END
+logical_not.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/function.objects/logical.operations/logical_not.pass.cpp
+END
+logical_or.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/function.objects/logical.operations/logical_or.pass.cpp
+END
+logical_and.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/function.objects/logical.operations/logical_and.pass.cpp
+END

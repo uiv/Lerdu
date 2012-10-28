@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/llvm-project/!svn/ver/162335/libcxx/trunk/www
+END
+results.Linux.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/161192/libcxx/trunk/www/results.Linux.html
+END
+type_traits_design.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/160510/libcxx/trunk/www/type_traits_design.html
+END
+atomic_design.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/116065/libcxx/trunk/www/atomic_design.html
+END
+atomic_design_a.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/116742/libcxx/trunk/www/atomic_design_a.html
+END
+atomic_design_b.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/116065/libcxx/trunk/www/atomic_design_b.html
+END
+atomic_design_c.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/115791/libcxx/trunk/www/atomic_design_c.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/162335/libcxx/trunk/www/index.html
+END
+menu.css
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/llvm-project/!svn/ver/103498/libcxx/trunk/www/menu.css
+END
+results.Windows.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/159852/libcxx/trunk/www/results.Windows.html
+END
+content.css
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/103498/libcxx/trunk/www/content.css
+END
+libcxx_by_chapter.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/160943/libcxx/trunk/www/libcxx_by_chapter.pdf
+END

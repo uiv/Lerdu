@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/145698/libcxx/trunk/test/diagnostics/syserr/syserr.errcat/syserr.errcat.virtuals
+END
+equivalent_int_error_condition.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/diagnostics/syserr/syserr.errcat/syserr.errcat.virtuals/equivalent_int_error_condition.pass.cpp
+END
+equivalent_error_code_int.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/diagnostics/syserr/syserr.errcat/syserr.errcat.virtuals/equivalent_error_code_int.pass.cpp
+END
+default_error_condition.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/llvm-project/!svn/ver/145698/libcxx/trunk/test/diagnostics/syserr/syserr.errcat/syserr.errcat.virtuals/default_error_condition.pass.cpp
+END

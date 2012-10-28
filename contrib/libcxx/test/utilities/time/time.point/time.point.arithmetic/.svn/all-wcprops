@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.point/time.point.arithmetic
+END
+op_+=.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.point/time.point.arithmetic/op_+=.pass.cpp
+END
+op_-=.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.point/time.point.arithmetic/op_-=.pass.cpp
+END

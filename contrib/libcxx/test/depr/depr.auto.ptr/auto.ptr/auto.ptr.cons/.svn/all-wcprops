@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.auto.ptr/auto.ptr/auto.ptr.cons
+END
+assignment.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.auto.ptr/auto.ptr/auto.ptr.cons/assignment.pass.cpp
+END
+convert_assignment.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.auto.ptr/auto.ptr/auto.ptr.cons/convert_assignment.pass.cpp
+END
+copy.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.auto.ptr/auto.ptr/auto.ptr.cons/copy.pass.cpp
+END
+assignment.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.auto.ptr/auto.ptr/auto.ptr.cons/assignment.fail.cpp
+END
+convert_assignment.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.auto.ptr/auto.ptr/auto.ptr.cons/convert_assignment.fail.cpp
+END
+copy.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.auto.ptr/auto.ptr/auto.ptr.cons/copy.fail.cpp
+END
+convert.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.auto.ptr/auto.ptr/auto.ptr.cons/convert.pass.cpp
+END
+pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.auto.ptr/auto.ptr/auto.ptr.cons/pointer.pass.cpp
+END
+convert.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.auto.ptr/auto.ptr/auto.ptr.cons/convert.fail.cpp
+END
+explicit.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.auto.ptr/auto.ptr/auto.ptr.cons/explicit.fail.cpp
+END

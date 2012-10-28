@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/119909/libcxx/trunk/test/utilities/time/time.clock/time.clock.system
+END
+rep_signed.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.clock/time.clock.system/rep_signed.pass.cpp
+END
+consistency.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/119909/libcxx/trunk/test/utilities/time/time.clock/time.clock.system/consistency.pass.cpp
+END
+now.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.clock/time.clock.system/now.pass.cpp
+END
+to_time_t.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.clock/time.clock.system/to_time_t.pass.cpp
+END
+from_time_t.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.clock/time.clock.system/from_time_t.pass.cpp
+END

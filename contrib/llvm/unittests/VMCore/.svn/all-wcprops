@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/165403/llvm/trunk/unittests/VMCore
+END
+VerifierTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/135375/llvm/trunk/unittests/VMCore/VerifierTest.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/161297/llvm/trunk/unittests/VMCore/CMakeLists.txt
+END
+ConstantsTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/135375/llvm/trunk/unittests/VMCore/ConstantsTest.cpp
+END
+DominatorTreeTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/153755/llvm/trunk/unittests/VMCore/DominatorTreeTest.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/158942/llvm/trunk/unittests/VMCore/Makefile
+END
+MetadataTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/153798/llvm/trunk/unittests/VMCore/MetadataTest.cpp
+END
+IRBuilderTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/160251/llvm/trunk/unittests/VMCore/IRBuilderTest.cpp
+END
+PassManagerTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/165403/llvm/trunk/unittests/VMCore/PassManagerTest.cpp
+END
+InstructionsTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/165403/llvm/trunk/unittests/VMCore/InstructionsTest.cpp
+END
+TypesTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/161296/llvm/trunk/unittests/VMCore/TypesTest.cpp
+END
+MDBuilderTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/160237/llvm/trunk/unittests/VMCore/MDBuilderTest.cpp
+END
+TypeBuilderTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/160243/llvm/trunk/unittests/VMCore/TypeBuilderTest.cpp
+END
+ValueMapTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/146356/llvm/trunk/unittests/VMCore/ValueMapTest.cpp
+END

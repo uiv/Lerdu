@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/140248/libcxx/trunk/test/diagnostics/errno
+END
+cerrno.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/140248/libcxx/trunk/test/diagnostics/errno/cerrno.pass.cpp
+END

@@ -1,0 +1,12 @@
+void __assert2(const char *expr, const char *function,
+		const char *file, int line)
+{
+	UNUSED(function);
+	UNUSED(file);
+
+	printf("FAIL - %s at line %d\n", expr, line);
+
+	exit(EXIT_FAILURE);
+}
+
+

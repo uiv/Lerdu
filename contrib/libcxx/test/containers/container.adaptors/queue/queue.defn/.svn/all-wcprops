@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/queue/queue.defn
+END
+push.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/queue/queue.defn/push.pass.cpp
+END
+back.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/queue/queue.defn/back.pass.cpp
+END
+types.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/queue/queue.defn/types.pass.cpp
+END
+back_const.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/queue/queue.defn/back_const.pass.cpp
+END
+emplace.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/queue/queue.defn/emplace.pass.cpp
+END
+push_rv.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/queue/queue.defn/push_rv.pass.cpp
+END
+front.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/queue/queue.defn/front.pass.cpp
+END
+assign_move.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/queue/queue.defn/assign_move.pass.cpp
+END
+size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/queue/queue.defn/size.pass.cpp
+END
+swap.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/queue/queue.defn/swap.pass.cpp
+END
+assign_copy.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/queue/queue.defn/assign_copy.pass.cpp
+END
+empty.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/queue/queue.defn/empty.pass.cpp
+END
+front_const.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/queue/queue.defn/front_const.pass.cpp
+END
+pop.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/queue/queue.defn/pop.pass.cpp
+END

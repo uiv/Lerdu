@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.swap
+END
+swap_ranges.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.swap/swap_ranges.pass.cpp
+END
+iter_swap.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.swap/iter_swap.pass.cpp
+END

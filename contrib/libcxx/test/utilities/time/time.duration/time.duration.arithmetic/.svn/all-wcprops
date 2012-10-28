@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/160184/libcxx/trunk/test/utilities/time/time.duration/time.duration.arithmetic
+END
+op_mod=rep.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/time.duration.arithmetic/op_mod=rep.pass.cpp
+END
+op_--int.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/time.duration.arithmetic/op_--int.pass.cpp
+END
+op_++.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/time.duration.arithmetic/op_++.pass.cpp
+END
+op_+=.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/time.duration.arithmetic/op_+=.pass.cpp
+END
+op_--.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/time.duration.arithmetic/op_--.pass.cpp
+END
+op_-=.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/time.duration.arithmetic/op_-=.pass.cpp
+END
+op_+.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/160184/libcxx/trunk/test/utilities/time/time.duration/time.duration.arithmetic/op_+.pass.cpp
+END
+op_-.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/160184/libcxx/trunk/test/utilities/time/time.duration/time.duration.arithmetic/op_-.pass.cpp
+END
+op_times=.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/time.duration.arithmetic/op_times=.pass.cpp
+END
+op_++int.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/time.duration.arithmetic/op_++int.pass.cpp
+END
+op_divide=.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/time.duration.arithmetic/op_divide=.pass.cpp
+END
+op_mod=duration.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/time.duration.arithmetic/op_mod=duration.pass.cpp
+END

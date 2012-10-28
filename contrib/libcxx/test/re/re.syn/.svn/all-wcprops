@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.syn
+END
+regex.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.syn/regex.pass.cpp
+END
+wcregex_token_iterator.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.syn/wcregex_token_iterator.pass.cpp
+END
+wcregex_iterator.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.syn/wcregex_iterator.pass.cpp
+END
+smatch.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.syn/smatch.pass.cpp
+END
+wssub_match.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.syn/wssub_match.pass.cpp
+END
+wcmatch.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.syn/wcmatch.pass.cpp
+END
+cregex_token_iterator.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.syn/cregex_token_iterator.pass.cpp
+END
+cregex_iterator.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.syn/cregex_iterator.pass.cpp
+END
+ssub_match.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.syn/ssub_match.pass.cpp
+END
+wsregex_iterator.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.syn/wsregex_iterator.pass.cpp
+END
+wsregex_token_iterator.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.syn/wsregex_token_iterator.pass.cpp
+END
+wcsub_match.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.syn/wcsub_match.pass.cpp
+END
+cmatch.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.syn/cmatch.pass.cpp
+END
+wregex.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.syn/wregex.pass.cpp
+END
+wsmatch.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.syn/wsmatch.pass.cpp
+END
+sregex_token_iterator.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.syn/sregex_token_iterator.pass.cpp
+END
+sregex_iterator.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.syn/sregex_iterator.pass.cpp
+END
+csub_match.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.syn/csub_match.pass.cpp
+END

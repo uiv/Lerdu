@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/diagnostics/syserr/syserr.errcode/syserr.errcode.modifiers
+END
+ErrorCodeEnum.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/diagnostics/syserr/syserr.errcode/syserr.errcode.modifiers/ErrorCodeEnum.pass.cpp
+END
+assign.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/diagnostics/syserr/syserr.errcode/syserr.errcode.modifiers/assign.pass.cpp
+END
+clear.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/diagnostics/syserr/syserr.errcode/syserr.errcode.modifiers/clear.pass.cpp
+END

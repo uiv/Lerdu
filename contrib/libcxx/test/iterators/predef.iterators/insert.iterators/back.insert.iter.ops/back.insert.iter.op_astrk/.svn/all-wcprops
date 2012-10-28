@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/predef.iterators/insert.iterators/back.insert.iter.ops/back.insert.iter.op_astrk
+END
+test.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/predef.iterators/insert.iterators/back.insert.iter.ops/back.insert.iter.op_astrk/test.pass.cpp
+END

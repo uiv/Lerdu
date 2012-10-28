@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/163214/llvm/trunk/test/CodeGen/Hexagon
+END
+struct_args.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/156824/llvm/trunk/test/CodeGen/Hexagon/struct_args.ll
+END
+dmul.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/156568/llvm/trunk/test/CodeGen/Hexagon/dmul.ll
+END
+fmul.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/156568/llvm/trunk/test/CodeGen/Hexagon/fmul.ll
+END
+float.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/156824/llvm/trunk/test/CodeGen/Hexagon/float.ll
+END
+struct_args_large.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/156824/llvm/trunk/test/CodeGen/Hexagon/struct_args_large.ll
+END
+remove_lsr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/163214/llvm/trunk/test/CodeGen/Hexagon/remove_lsr.ll
+END
+convertsptoll.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/156568/llvm/trunk/test/CodeGen/Hexagon/convertsptoll.ll
+END
+opt-fneg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/156568/llvm/trunk/test/CodeGen/Hexagon/opt-fneg.ll
+END
+floatconvert-ieee-rnd-near.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/156824/llvm/trunk/test/CodeGen/Hexagon/floatconvert-ieee-rnd-near.ll
+END
+doubleconvert-ieee-rnd-near.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/156568/llvm/trunk/test/CodeGen/Hexagon/doubleconvert-ieee-rnd-near.ll
+END
+vaddh.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/156824/llvm/trunk/test/CodeGen/Hexagon/vaddh.ll
+END
+static.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/163137/llvm/trunk/test/CodeGen/Hexagon/static.ll
+END
+fusedandshift.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/156109/llvm/trunk/test/CodeGen/Hexagon/fusedandshift.ll
+END
+frame.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/156824/llvm/trunk/test/CodeGen/Hexagon/frame.ll
+END
+dadd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/156568/llvm/trunk/test/CodeGen/Hexagon/dadd.ll
+END
+fadd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/156568/llvm/trunk/test/CodeGen/Hexagon/fadd.ll
+END
+convertsptoint.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/156568/llvm/trunk/test/CodeGen/Hexagon/convertsptoint.ll
+END
+dualstore.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/156775/llvm/trunk/test/CodeGen/Hexagon/dualstore.ll
+END
+newvaluestore.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/163137/llvm/trunk/test/CodeGen/Hexagon/newvaluestore.ll
+END
+newvaluejump2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/156698/llvm/trunk/test/CodeGen/Hexagon/newvaluejump2.ll
+END
+mpy.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/156824/llvm/trunk/test/CodeGen/Hexagon/mpy.ll
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/153408/llvm/trunk/test/CodeGen/Hexagon/lit.local.cfg
+END
+double.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/156824/llvm/trunk/test/CodeGen/Hexagon/double.ll
+END
+opt-fabs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/161519/llvm/trunk/test/CodeGen/Hexagon/opt-fabs.ll
+END
+macint.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/156109/llvm/trunk/test/CodeGen/Hexagon/macint.ll
+END
+combine.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/156824/llvm/trunk/test/CodeGen/Hexagon/combine.ll
+END
+newvaluejump.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/162733/llvm/trunk/test/CodeGen/Hexagon/newvaluejump.ll
+END
+convertdptoint.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/156568/llvm/trunk/test/CodeGen/Hexagon/convertdptoint.ll
+END
+fcmp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/156568/llvm/trunk/test/CodeGen/Hexagon/fcmp.ll
+END
+args.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/163137/llvm/trunk/test/CodeGen/Hexagon/args.ll
+END
+dsub.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/156568/llvm/trunk/test/CodeGen/Hexagon/dsub.ll
+END
+convertdptoll.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/156568/llvm/trunk/test/CodeGen/Hexagon/convertdptoll.ll
+END
+simpletailcall.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/161778/llvm/trunk/test/CodeGen/Hexagon/simpletailcall.ll
+END
+fsub.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/156568/llvm/trunk/test/CodeGen/Hexagon/fsub.ll
+END

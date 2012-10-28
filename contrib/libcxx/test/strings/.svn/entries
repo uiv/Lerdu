@@ -1,0 +1,83 @@
+10
+
+dir
+166254
+http://llvm.org/svn/llvm-project/libcxx/trunk/test/strings
+http://llvm.org/svn/llvm-project
+
+
+
+2011-10-09T15:20:46.255874Z
+141506
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+basic.string
+dir
+
+basic.string.hash
+dir
+
+c.strings
+dir
+
+version.pass.cpp
+file
+
+
+
+
+2012-10-19T01:22:16.156276Z
+43117c647eb0e99100e26a4204e34ca3
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+471
+
+string.conversions
+dir
+
+char.traits
+dir
+
+string.classes
+dir
+
+strings.general
+dir
+

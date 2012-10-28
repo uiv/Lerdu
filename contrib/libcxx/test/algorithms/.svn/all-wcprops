@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/137522/libcxx/trunk/test/algorithms
+END
+version.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/algorithms/version.pass.cpp
+END
+iterators.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/111753/libcxx/trunk/test/algorithms/iterators.h
+END

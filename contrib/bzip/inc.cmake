@@ -1,0 +1,16 @@
+SET(OS_CONTRIB_BZIP_SRC
+./randtable.c
+./blocksort.c
+./decompress.c
+./crctable.c
+./huffman.c
+./compress.c
+./bzlib.c
+#demo 
+#./bzip2.c
+#./spewG.c
+#./mk251.c
+#./dlltest.c
+#./unzcrash.c
+#./bzip2recover.c
+)

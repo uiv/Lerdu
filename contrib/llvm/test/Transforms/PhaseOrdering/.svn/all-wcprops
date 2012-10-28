@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/164867/llvm/trunk/test/Transforms/PhaseOrdering
+END
+PR6627.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/155081/llvm/trunk/test/Transforms/PhaseOrdering/PR6627.ll
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/150664/llvm/trunk/test/Transforms/PhaseOrdering/lit.local.cfg
+END
+2010-03-22-empty-baseclass.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/138083/llvm/trunk/test/Transforms/PhaseOrdering/2010-03-22-empty-baseclass.ll
+END
+scev.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/155362/llvm/trunk/test/Transforms/PhaseOrdering/scev.ll
+END
+basic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/155362/llvm/trunk/test/Transforms/PhaseOrdering/basic.ll
+END
+gdce.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/164867/llvm/trunk/test/Transforms/PhaseOrdering/gdce.ll
+END

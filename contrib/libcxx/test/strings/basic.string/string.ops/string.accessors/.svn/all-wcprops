@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.ops/string.accessors
+END
+c_str.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.ops/string.accessors/c_str.pass.cpp
+END
+get_allocator.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.ops/string.accessors/get_allocator.pass.cpp
+END
+data.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.ops/string.accessors/data.pass.cpp
+END

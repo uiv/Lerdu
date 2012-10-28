@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.messages/locale.messages/locale.messages.virtuals
+END
+tested_elsewhere.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.messages/locale.messages/locale.messages.virtuals/tested_elsewhere.pass.cpp
+END

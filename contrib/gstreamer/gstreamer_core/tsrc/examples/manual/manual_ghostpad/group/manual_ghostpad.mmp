@@ -1,0 +1,50 @@
+/*
+============================================================================
+ Name		: ghostpad.mmp
+ Author	  : 
+ Copyright   : Your copyright notice
+ Description : This is the project specification file for ghostpad.
+============================================================================
+*/
+
+
+#include <gstreamer/gstreamer_path.hrh>                    
+
+TARGET		  manual_ghostpad.exe
+TARGETTYPE	  STDEXE
+UID			 0 0xE5AA0D9D
+
+#if !defined(__WINSCW__) && !defined(__WINS__)
+EpocAllowDllData
+#endif
+
+CAPABILITY All -Tcb
+
+
+
+GST_ALL_DEPENDENT_INCLUDE
+USERINCLUDE		../../../../../../include/gstreamer
+USERINCLUDE		../../../../../../include/gstreamer/gst
+USERINCLUDE		../../../../../../include/gstreamer/gst/base
+USERINCLUDE		../../../../../../include/gstreamer/gst/controller
+USERINCLUDE		../../../../../../include/gstreamer/gst/dataprotocol
+USERINCLUDE		../../../../../../include/gstreamer/gst/net
+
+
+USERINCLUDE		../../../../../libs/gst/check
+
+SYSTEMINCLUDE	../../../../../libs
+
+SYSTEMINCLUDE	../../../../../gst
+
+SOURCEPATH	  ../src
+SOURCE		  manual_ghostpad.c
+
+
+
+LIBRARY		 euser.lib libc.lib libgstreamer.lib libgstbase.lib libgstcontroller.lib libgstcoreelements.lib
+LIBRARY		 libglib.lib libgmodule.lib libgobject.lib
+#ifdef ENABLE_ABIV2_MODE
+DEBUGGABLE
+#endif
+SMPSAFE

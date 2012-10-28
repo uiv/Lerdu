@@ -1,0 +1,55 @@
+/*
+* ==============================================================================
+*  Name        : bld.inf
+*  Part of     :
+*  Description : This is a top level bld file to generate all libraries.
+*
+* Copyright (c) 2009 Nokia Corporation and/or its subsidiary(-ies). All rights reserved.
+*
+* This library is free software; you can redistribute it and/or
+* modify it under the terms of the GNU Lesser General Public
+* License as published by the Free Software Foundation; either
+* version 2 of the License, or (at your option) any later version.
+*
+* This library is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+* Lesser General Public License for more details.
+*
+* You should have received a copy of the GNU Lesser General Public
+* License along with this library; if not, write to the
+* Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+* Boston, MA 02111-1307, USA.
+*
+* Description:
+*
+*/
+
+
+PRJ_PLATFORMS
+DEFAULT
+
+PRJ_MMPFILES
+
+#include "../gstreamer_core/group/bld.inf"
+#include "../gst_plugins_base/group/bld.inf"
+#include "../gst_plugins_good/group/bld.inf"
+#include "../gstregistrygenerator/group/bld.inf"
+//  can't build due to lack of dependencies.
+#include "../gst_plugins_symbian/group/bld.inf"
+
+PRJ_EXPORTS
+
+../data/gst_dll_2001F41F.txt /epoc32/winscw/c/gstreamer/plugins_list/gst_dll_2001F41F.txt
+//../data/gstreamer_stub.sis /epoc32/data/z/system/install/gstreamer_stub.sis
+../data/gstreamer_path.hrh /epoc32/include/gstreamer/gstreamer_path.hrh
+
+//dependent_binaries for winscw
+//../data/dependent_binaries/3_2/winscw/libgstdevsoundext.dll    /epoc32/release/winscw/udeb/libgstdevsoundext3_2.dll
+//../data/dependent_binaries/3_2/winscw/libgstdevsoundsrc.dll    /epoc32/release/winscw/udeb/libgstdevsoundsrc3_2.dll
+//../data/dependent_binaries/3_2/winscw/libgstdevsoundsink.dll  /epoc32/release/winscw/udeb/libgstdevsoundsink3_2.dll
+
+//dependent_binaries for armv5
+//../data/dependent_binaries/3_2/armv5/libgstdevsoundext.dll    /epoc32/release/armv5/urel/libgstdevsoundext3_2.dll
+//../data/dependent_binaries/3_2/armv5/libgstdevsoundsrc.dll    /epoc32/release/armv5/urel/libgstdevsoundsrc3_2.dll
+//../data/dependent_binaries/3_2/armv5/libgstdevsoundsink.dll  /epoc32/release/armv5/urel/libgstdevsoundsink3_2.dll

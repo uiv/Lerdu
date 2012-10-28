@@ -1,0 +1,33 @@
+#warning "------------------------->"
+
+
+#if defined(DEBUG) && defined(CONFIG_KD)
+driver_dump(void)
+
+
+
+
+
+
+
+#if defined(DEBUG) && defined(CONFIG_DIAG_VBA)
+extern void vba_putc(int);
+
+
+
+
+
+#if defined(CONFIG_SPLASH)
+
+
+
+
+#if CONFIG_FS_THREADS > 1
+#define malloc(s)	malloc_r(s)
+#define free(p)		free_r(p)
+
+
+#ifdef DEBUG_DEVFS
+#define DPRINTF(a)	dprintf a
+#define ASSERT(e)	dassert(e)
+

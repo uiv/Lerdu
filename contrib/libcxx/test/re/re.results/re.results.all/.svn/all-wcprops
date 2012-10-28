@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.results/re.results.all
+END
+get_allocator.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/re/re.results/re.results.all/get_allocator.pass.cpp
+END

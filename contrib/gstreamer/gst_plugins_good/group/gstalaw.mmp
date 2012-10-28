@@ -1,0 +1,75 @@
+// Gstreamer.MMP
+/*
+ *  Copyright © 2008 Nokia Corporation.
+ *  This material, including documentation and any related
+ *  computer progrs, is protected by copyright controlled by
+ *  Nokia Corporation. All rights are reserved. Copying,
+ *  including reproducing, storing, adapting or translating, any
+ *  or all of this material requires the prior written consent of
+ *  Nokia Corporation. This material also contains confidential
+ *  information which may not be disclosed to others without the
+ *  prior written consent of Nokia Corporation.
+ * ============================================================================
+ */
+
+
+#include <gstreamer/gstreamer_path.hrh>                                                        
+
+TARGET          libgstalaw.dll
+TARGETTYPE      DLL
+UID             0x1000008d 0x2001F448
+
+#ifdef EKA2
+LANG            SC
+CAPABILITY All -Tcb
+//VENDORID        VID_DEFAULT
+#endif
+
+#if !defined(__WINSCW__) && !defined(__WINS__)
+EpocAllowDllData
+#endif
+
+MACRO           SYMBIAN
+MACRO           HAVE_CONFIG_H
+MACRO           __SYMBIAN32__
+
+USERINCLUDE     ..
+USERINCLUDE     ../gst/law
+USERINCLUDE     ../gst-libs
+USERINCLUDE     ../gst-libs/gst
+
+
+GST_ALL_DEPENDENT_INCLUDE
+
+SYSTEMINCLUDE		/epoc32/include
+SYSTEMINCLUDE		/epoc32/include/stdapis
+SYSTEMINCLUDE		/epoc32/include/stdapis/glib-2.0
+SYSTEMINCLUDE		/epoc32/include/stdapis/glib-2.0/glib
+SYSTEMINCLUDE		/epoc32/include/stdapis/glib-2.0/gobject
+USERINCLUDE		../../include/gstreamer
+USERINCLUDE		../../include/gstreamer/gst
+USERINCLUDE		../../include/gstreamer/gst/base
+USERINCLUDE		../../include/gstreamer/gst/controller
+USERINCLUDE		../../include/gstreamer/gst/dataprotocol
+USERINCLUDE		../../include/gstreamer/gst/net
+USERINCLUDE		../../include/gstreamer/gst/audio
+USERINCLUDE		../../include/gstreamer/gst/cdda
+USERINCLUDE		../../include/gstreamer/gst/floatcast
+USERINCLUDE		../../include/gstreamer/gst/interfaces
+USERINCLUDE		../../include/gstreamer/gst/netbuffer
+USERINCLUDE		../../include/gstreamer/gst/riff
+USERINCLUDE		../../include/gstreamer/gst/rtp
+USERINCLUDE		../../include/gstreamer/gst/tag
+USERINCLUDE		../../include/gstreamer/gst/video
+
+SOURCEPATH      ../gst/law
+SOURCE          alaw.c
+SOURCE          alaw-decode.c
+SOURCE          alaw-encode.c
+
+LIBRARY         libc.lib
+LIBRARY         libglib.lib
+LIBRARY         libgobject.lib
+LIBRARY         libgstreamer.lib
+LIBRARY         libgstbase.lib
+

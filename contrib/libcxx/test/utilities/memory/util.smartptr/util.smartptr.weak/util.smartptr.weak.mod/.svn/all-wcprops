@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/util.smartptr/util.smartptr.weak/util.smartptr.weak.mod
+END
+reset.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/util.smartptr/util.smartptr.weak/util.smartptr.weak.mod/reset.pass.cpp
+END
+swap.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/util.smartptr/util.smartptr.weak/util.smartptr.weak.mod/swap.pass.cpp
+END

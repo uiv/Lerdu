@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.formatted/istream.formatted.arithmetic
+END
+long_double.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.formatted/istream.formatted.arithmetic/long_double.pass.cpp
+END
+double.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.formatted/istream.formatted.arithmetic/double.pass.cpp
+END
+int.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.formatted/istream.formatted.arithmetic/int.pass.cpp
+END
+unsigned_long_long.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.formatted/istream.formatted.arithmetic/unsigned_long_long.pass.cpp
+END
+bool.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.formatted/istream.formatted.arithmetic/bool.pass.cpp
+END
+unsigned_long.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.formatted/istream.formatted.arithmetic/unsigned_long.pass.cpp
+END
+unsigned_short.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.formatted/istream.formatted.arithmetic/unsigned_short.pass.cpp
+END
+long_long.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.formatted/istream.formatted.arithmetic/long_long.pass.cpp
+END
+long.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.formatted/istream.formatted.arithmetic/long.pass.cpp
+END
+short.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.formatted/istream.formatted.arithmetic/short.pass.cpp
+END
+pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.formatted/istream.formatted.arithmetic/pointer.pass.cpp
+END
+float.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.formatted/istream.formatted.arithmetic/float.pass.cpp
+END
+unsigned_int.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/input.streams/istream.formatted/istream.formatted.arithmetic/unsigned_int.pass.cpp
+END

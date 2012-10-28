@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.virtuals/streambuf.virt.get
+END
+showmanyc.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.virtuals/streambuf.virt.get/showmanyc.pass.cpp
+END
+xsgetn.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.virtuals/streambuf.virt.get/xsgetn.pass.cpp
+END
+uflow.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.virtuals/streambuf.virt.get/uflow.pass.cpp
+END
+underflow.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/stream.buffers/streambuf/streambuf.virtuals/streambuf.virt.get/underflow.pass.cpp
+END

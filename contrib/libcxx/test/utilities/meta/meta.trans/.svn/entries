@@ -1,0 +1,80 @@
+10
+
+dir
+166254
+http://llvm.org/svn/llvm-project/libcxx/trunk/test/utilities/meta/meta.trans
+http://llvm.org/svn/llvm-project
+
+
+
+2011-07-18T18:37:21.508774Z
+135410
+coppro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+meta.trans.arr
+dir
+
+meta.trans.ptr
+dir
+
+nothing_to_do.pass.cpp
+file
+
+
+
+
+2012-10-19T01:22:28.288276Z
+de8ffdb592ab304b14832467aef77cb3
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+372
+
+meta.trans.cv
+dir
+
+meta.trans.ref
+dir
+
+meta.trans.sign
+dir
+
+meta.trans.other
+dir
+

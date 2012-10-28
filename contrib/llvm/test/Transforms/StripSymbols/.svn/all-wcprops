@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/150664/llvm/trunk/test/Transforms/StripSymbols
+END
+2010-07-01-DeadDbgInfo.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/107446/llvm/trunk/test/Transforms/StripSymbols/2010-07-01-DeadDbgInfo.ll
+END
+2010-08-25-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/112072/llvm/trunk/test/Transforms/StripSymbols/2010-08-25-crash.ll
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/150664/llvm/trunk/test/Transforms/StripSymbols/lit.local.cfg
+END
+2010-06-30-StripDebug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/107323/llvm/trunk/test/Transforms/StripSymbols/2010-06-30-StripDebug.ll
+END
+block-address.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/136768/llvm/trunk/test/Transforms/StripSymbols/block-address.ll
+END
+2007-01-15-llvm.used.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/81314/llvm/trunk/test/Transforms/StripSymbols/2007-01-15-llvm.used.ll
+END

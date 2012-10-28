@@ -1,0 +1,1 @@
+/usr/bin/clang      CMakeFiles/test.dir/examples/enough.c.o  -o test -rdynamic -lz 

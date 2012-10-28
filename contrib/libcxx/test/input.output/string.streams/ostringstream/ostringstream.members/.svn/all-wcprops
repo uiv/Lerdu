@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/string.streams/ostringstream/ostringstream.members
+END
+str.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/string.streams/ostringstream/ostringstream.members/str.pass.cpp
+END

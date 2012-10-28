@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/meta/meta.trans/meta.trans.cv
+END
+remove_const.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/meta/meta.trans/meta.trans.cv/remove_const.pass.cpp
+END
+remove_cv.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/meta/meta.trans/meta.trans.cv/remove_cv.pass.cpp
+END
+add_volatile.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/meta/meta.trans/meta.trans.cv/add_volatile.pass.cpp
+END
+remove_volatile.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/meta/meta.trans/meta.trans.cv/remove_volatile.pass.cpp
+END
+add_const.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/meta/meta.trans/meta.trans.cv/add_const.pass.cpp
+END
+add_cv.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/meta/meta.trans/meta.trans.cv/add_cv.pass.cpp
+END

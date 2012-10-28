@@ -1,0 +1,12 @@
+SET(OS_BSP_SRC
+./boot/common/bootinfo.c
+./boot/common/elf.c
+./boot/common/load.c
+./boot/common/main.c
+./boot/common/printf.c
+./boot/common/splash.c
+./boot/common/string.c
+#./boot/x86/arch/elf_reloc.c
+./boot/x86/pc/debug.c
+./boot/x86/pc/startup.c
+)

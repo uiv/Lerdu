@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios.base/ios.types/ios_fmtflags
+END
+fmtflags.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostreams.base/ios.base/ios.types/ios_fmtflags/fmtflags.pass.cpp
+END

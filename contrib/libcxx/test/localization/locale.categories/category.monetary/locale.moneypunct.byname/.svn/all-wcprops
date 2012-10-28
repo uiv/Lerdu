@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/152501/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.moneypunct.byname
+END
+frac_digits.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.moneypunct.byname/frac_digits.pass.cpp
+END
+thousands_sep.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.moneypunct.byname/thousands_sep.pass.cpp
+END
+curr_symbol.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/llvm-project/!svn/ver/152501/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.moneypunct.byname/curr_symbol.pass.cpp
+END
+neg_format.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/llvm-project/!svn/ver/152501/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.moneypunct.byname/neg_format.pass.cpp
+END
+negative_sign.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.moneypunct.byname/negative_sign.pass.cpp
+END
+positive_sign.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.moneypunct.byname/positive_sign.pass.cpp
+END
+decimal_point.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.moneypunct.byname/decimal_point.pass.cpp
+END
+pos_format.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/llvm-project/!svn/ver/152501/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.moneypunct.byname/pos_format.pass.cpp
+END
+grouping.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/llvm-project/!svn/ver/152501/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.moneypunct.byname/grouping.pass.cpp
+END

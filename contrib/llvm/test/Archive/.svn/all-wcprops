@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/llvm-project/!svn/ver/150664/llvm/trunk/test/Archive
+END
+evenlen
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/evenlen
+END
+toc_xpg4.ll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/120506/llvm/trunk/test/Archive/toc_xpg4.ll
+END
+xpg4.a
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/xpg4.a
+END
+very_long_bytecode_file_name.bc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/very_long_bytecode_file_name.bc
+END
+toc_GNU.ll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/120506/llvm/trunk/test/Archive/toc_GNU.ll
+END
+toc_MacOSX.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/120506/llvm/trunk/test/Archive/toc_MacOSX.ll
+END
+oddlen
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/oddlen
+END
+IsNAN.o
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/IsNAN.o
+END
+check_binary_output.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/130936/llvm/trunk/test/Archive/check_binary_output.ll
+END
+GNU.a
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/GNU.a
+END
+toc_SVR4.ll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/120506/llvm/trunk/test/Archive/toc_SVR4.ll
+END
+MacOSX.a
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/95296/llvm/trunk/test/Archive/MacOSX.a
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/110201/llvm/trunk/test/Archive/README.txt
+END
+SVR4.a
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/70892/llvm/trunk/test/Archive/SVR4.a
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/150664/llvm/trunk/test/Archive/lit.local.cfg
+END
+extract.ll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/134355/llvm/trunk/test/Archive/extract.ll
+END

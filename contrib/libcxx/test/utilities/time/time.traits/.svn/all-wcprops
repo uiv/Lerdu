@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/160184/libcxx/trunk/test/utilities/time/time.traits
+END
+nothing_to_do.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.traits/nothing_to_do.pass.cpp
+END

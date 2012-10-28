@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/pointer.traits
+END
+pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/pointer.traits/pointer.pass.cpp
+END
+pointer_to.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/pointer.traits/pointer_to.pass.cpp
+END
+rebind.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/pointer.traits/rebind.pass.cpp
+END
+element_type.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/pointer.traits/element_type.pass.cpp
+END
+difference_type.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/pointer.traits/difference_type.pass.cpp
+END

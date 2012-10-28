@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.capacity
+END
+clear.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.capacity/clear.pass.cpp
+END
+resize_size_char.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.capacity/resize_size_char.pass.cpp
+END
+size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.capacity/size.pass.cpp
+END
+reserve.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.capacity/reserve.pass.cpp
+END
+resize_size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.capacity/resize_size.pass.cpp
+END
+capacity.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.capacity/capacity.pass.cpp
+END
+empty.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.capacity/empty.pass.cpp
+END
+max_size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.capacity/max_size.pass.cpp
+END
+length.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.capacity/length.pass.cpp
+END
+shrink_to_fit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.capacity/shrink_to_fit.pass.cpp
+END

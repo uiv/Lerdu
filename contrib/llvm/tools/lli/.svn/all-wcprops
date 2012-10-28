@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/llvm-project/!svn/ver/165791/llvm/trunk/tools/lli
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/146409/llvm/trunk/tools/lli/LLVMBuild.txt
+END
+RemoteTarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/163979/llvm/trunk/tools/lli/RemoteTarget.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/164831/llvm/trunk/tools/lli/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/152620/llvm/trunk/tools/lli/Makefile
+END
+RecordingMemoryManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/163216/llvm/trunk/tools/lli/RecordingMemoryManager.cpp
+END
+lli.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/165791/llvm/trunk/tools/lli/lli.cpp
+END
+RemoteTarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/163979/llvm/trunk/tools/lli/RemoteTarget.cpp
+END
+RecordingMemoryManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/163216/llvm/trunk/tools/lli/RecordingMemoryManager.h
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/140271/libcxx/trunk/test/re/re.iter/re.tokiter/re.tokiter.deref
+END
+deref.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/140271/libcxx/trunk/test/re/re.iter/re.tokiter/re.tokiter.deref/deref.pass.cpp
+END

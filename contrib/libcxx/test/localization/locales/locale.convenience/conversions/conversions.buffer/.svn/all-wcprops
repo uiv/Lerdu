@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locales/locale.convenience/conversions/conversions.buffer
+END
+test.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locales/locale.convenience/conversions/conversions.buffer/test.pass.cpp
+END
+state.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locales/locale.convenience/conversions/conversions.buffer/state.pass.cpp
+END
+rdbuf.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locales/locale.convenience/conversions/conversions.buffer/rdbuf.pass.cpp
+END
+seekoff.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locales/locale.convenience/conversions/conversions.buffer/seekoff.pass.cpp
+END
+overflow.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locales/locale.convenience/conversions/conversions.buffer/overflow.pass.cpp
+END
+underflow.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locales/locale.convenience/conversions/conversions.buffer/underflow.pass.cpp
+END
+underflow.dat
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/105286/libcxx/trunk/test/localization/locales/locale.convenience/conversions/conversions.buffer/underflow.dat
+END
+ctor.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locales/locale.convenience/conversions/conversions.buffer/ctor.pass.cpp
+END
+pbackfail.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locales/locale.convenience/conversions/conversions.buffer/pbackfail.pass.cpp
+END
+underflow_utf8.dat
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/llvm-project/!svn/ver/105286/libcxx/trunk/test/localization/locales/locale.convenience/conversions/conversions.buffer/underflow_utf8.dat
+END

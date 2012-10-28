@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/predef.iterators/insert.iterators/front.insert.iterator
+END
+types.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/predef.iterators/insert.iterators/front.insert.iterator/types.pass.cpp
+END

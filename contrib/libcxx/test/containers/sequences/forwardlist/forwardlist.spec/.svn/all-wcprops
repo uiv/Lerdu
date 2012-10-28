@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/132553/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.spec
+END
+equal.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.spec/equal.pass.cpp
+END
+relational.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.spec/relational.pass.cpp
+END
+non_member_swap.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.spec/non_member_swap.pass.cpp
+END
+swap_noexcept.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/llvm-project/!svn/ver/132553/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.spec/swap_noexcept.pass.cpp
+END
+member_swap.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/forwardlist/forwardlist.spec/member_swap.pass.cpp
+END

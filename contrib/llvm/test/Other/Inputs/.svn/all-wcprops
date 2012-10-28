@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/164474/llvm/trunk/test/Other/Inputs
+END
+llvm-cov.gcda
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/164474/llvm/trunk/test/Other/Inputs/llvm-cov.gcda
+END
+llvm-cov.gcno
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/164474/llvm/trunk/test/Other/Inputs/llvm-cov.gcno
+END

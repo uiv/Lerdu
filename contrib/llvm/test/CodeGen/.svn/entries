@@ -1,0 +1,79 @@
+10
+
+dir
+166262
+http://llvm.org/svn/llvm-project/llvm/trunk/test/CodeGen
+http://llvm.org/svn/llvm-project
+
+
+
+2012-10-18T19:53:48.453517Z
+166216
+spop
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+Generic
+dir
+
+Thumb
+dir
+
+PowerPC
+dir
+
+NVPTX
+dir
+
+ARM
+dir
+
+XCore
+dir
+
+CPP
+dir
+
+X86
+dir
+
+MSP430
+dir
+
+R600
+dir
+
+Hexagon
+dir
+
+Thumb2
+dir
+
+CellSPU
+dir
+
+SPARC
+dir
+
+Mips
+dir
+
+MBlaze
+dir
+
+PTX
+dir
+

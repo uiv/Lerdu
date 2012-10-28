@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/llvm-project/!svn/ver/150927/libcxx/trunk/test/localization/locale.categories/category.numeric/locale.nm.put/facet.num.put.members
+END
+put_long_long.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.numeric/locale.nm.put/facet.num.put.members/put_long_long.pass.cpp
+END
+put_long.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.numeric/locale.nm.put/facet.num.put.members/put_long.pass.cpp
+END
+put_pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/llvm-project/!svn/ver/150927/libcxx/trunk/test/localization/locale.categories/category.numeric/locale.nm.put/facet.num.put.members/put_pointer.pass.cpp
+END
+iterators.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/llvm-project/!svn/ver/111761/libcxx/trunk/test/localization/locale.categories/category.numeric/locale.nm.put/facet.num.put.members/iterators.h
+END
+put_long_double.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/llvm-project/!svn/ver/140242/libcxx/trunk/test/localization/locale.categories/category.numeric/locale.nm.put/facet.num.put.members/put_long_double.pass.cpp
+END
+put_double.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.numeric/locale.nm.put/facet.num.put.members/put_double.pass.cpp
+END
+put_unsigned_long_long.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.numeric/locale.nm.put/facet.num.put.members/put_unsigned_long_long.pass.cpp
+END
+put_bool.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.numeric/locale.nm.put/facet.num.put.members/put_bool.pass.cpp
+END
+put_unsigned_long.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.numeric/locale.nm.put/facet.num.put.members/put_unsigned_long.pass.cpp
+END

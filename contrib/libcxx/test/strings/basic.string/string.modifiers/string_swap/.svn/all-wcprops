@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.modifiers/string_swap
+END
+swap.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/basic.string/string.modifiers/string_swap/swap.pass.cpp
+END

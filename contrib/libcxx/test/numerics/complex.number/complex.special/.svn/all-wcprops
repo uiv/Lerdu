@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/160585/libcxx/trunk/test/numerics/complex.number/complex.special
+END
+double_float_implicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/160585/libcxx/trunk/test/numerics/complex.number/complex.special/double_float_implicit.pass.cpp
+END
+float_long_double_implicit.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.special/float_long_double_implicit.fail.cpp
+END
+long_double_double_implicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/160585/libcxx/trunk/test/numerics/complex.number/complex.special/long_double_double_implicit.pass.cpp
+END
+float_double_implicit.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.special/float_double_implicit.fail.cpp
+END
+float_long_double_explicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/160585/libcxx/trunk/test/numerics/complex.number/complex.special/float_long_double_explicit.pass.cpp
+END
+long_double_float_explicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/160585/libcxx/trunk/test/numerics/complex.number/complex.special/long_double_float_explicit.pass.cpp
+END
+double_float_explicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/160585/libcxx/trunk/test/numerics/complex.number/complex.special/double_float_explicit.pass.cpp
+END
+float_double_explicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/160585/libcxx/trunk/test/numerics/complex.number/complex.special/float_double_explicit.pass.cpp
+END
+double_long_double_implicit.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/numerics/complex.number/complex.special/double_long_double_implicit.fail.cpp
+END
+double_long_double_explicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/160585/libcxx/trunk/test/numerics/complex.number/complex.special/double_long_double_explicit.pass.cpp
+END
+long_double_double_explicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/160585/libcxx/trunk/test/numerics/complex.number/complex.special/long_double_double_explicit.pass.cpp
+END
+long_double_float_implicit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/160585/libcxx/trunk/test/numerics/complex.number/complex.special/long_double_float_implicit.pass.cpp
+END

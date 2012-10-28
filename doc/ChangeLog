@@ -1,0 +1,5 @@
+
+Version 1.0.1:
+
+ - New: Add 'lock' - terminal lock utility.
+ - Fix: Page fault in realloc().

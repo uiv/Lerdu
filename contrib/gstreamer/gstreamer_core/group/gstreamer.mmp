@@ -1,0 +1,168 @@
+// Gstreamer.MMP
+/*
+* Copyright (c) 2009 Nokia Corporation and/or its subsidiary(-ies). All rights reserved.
+*
+* This library is free software; you can redistribute it and/or
+* modify it under the terms of the GNU Lesser General Public
+* License as published by the Free Software Foundation; either
+* version 2 of the License, or (at your option) any later version.
+*
+* This library is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+* Lesser General Public License for more details.
+*
+* You should have received a copy of the GNU Lesser General Public
+* License along with this library; if not, write to the
+* Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+* Boston, MA 02111-1307, USA.
+*
+* Description:
+*
+*/
+
+
+#include <gstreamer/gstreamer_path.hrh>
+
+TARGET          libgstreamer.dll
+TARGETTYPE		DLL
+UID             0x20004c45 0x2001F41F
+
+#ifdef EKA2
+LANG            SC
+CAPABILITY      All -Tcb
+////VENDORID        VID_DEFAULT
+
+#endif
+#if !defined(__WINSCW__) && !defined(__WINS__)
+EpocAllowDllData
+#endif
+
+
+MACRO			HAVE_CONFIG_H
+
+//MACRO			GST_TESTCASE_COMPILATION
+
+//MACRO		HAVE_LIBXML2
+USERINCLUDE     ..
+USERINCLUDE		../gst
+USERINCLUDE		../gst/parse
+
+
+GST_ALL_DEPENDENT_INCLUDE
+
+USERINCLUDE		../../include/gstreamer
+USERINCLUDE		../../include/gstreamer/gst
+USERINCLUDE		../../include/gstreamer/gst/base
+USERINCLUDE		../../include/gstreamer/gst/controller
+USERINCLUDE		../../include/gstreamer/gst/dataprotocol
+USERINCLUDE		../../include/gstreamer/gst/net
+
+
+USERINCLUDE			../libs/gst/check
+
+//#ifdef GST_TESTCASE_COMPILATION
+SYSTEMINCLUDE		../libs
+
+//#endif	/* GST_TESTCASE_COMPILATION */
+
+
+SOURCEPATH      ../gst
+SOURCE          gstbin.c
+SOURCE          gstbuffer.c
+SOURCE          gstbus.c
+SOURCE          gst.c
+SOURCE          gstcaps.c
+SOURCE          gstchildproxy.c
+SOURCE          gstclock.c
+SOURCE          gstelement.c
+SOURCE          gstelementfactory.c
+SOURCE          gstenumtypes.c
+SOURCE          gsterror.c
+SOURCE          gstevent.c
+SOURCE          gstfilter.c
+SOURCE          gstformat.c
+SOURCE          gstghostpad.c
+SOURCE          gstindex.c
+SOURCE          gstindexfactory.c
+SOURCE          gstinfo.c
+SOURCE          gstinterface.c
+SOURCE          gstiterator.c
+SOURCE          gstmarshal.c
+SOURCE          gstmessage.c
+SOURCE          gstminiobject.c
+SOURCE          gstobject.c
+SOURCE          gstpad.c
+SOURCE          gstpadtemplate.c
+SOURCE          gstparse.c
+SOURCE          gstpipeline.c
+SOURCE          gstplugin.c
+SOURCE          gstpluginfeature.c
+SOURCE          gstquery.c
+SOURCE          gstregistry.c
+SOURCE          gstsegment.c
+SOURCE          gststructure.c
+SOURCE          gstsystemclock.c
+SOURCE          gsttaglist.c
+SOURCE          gsttagsetter.c
+SOURCE          gsttask.c
+SOURCE          gsttrace.c
+SOURCE          gsttypefind.c
+SOURCE          gsttypefindfactory.c
+SOURCE          gsturi.c
+SOURCE          gstutils.c
+SOURCE          gstvalue.c
+
+#ifdef HAVE_LIBXML2
+SOURCE          gstxml.c
+SOURCE          gstregistryxml.c
+#else
+SOURCE          gstregistrybinary.c
+#endif
+
+SOURCE          gstquark.c
+SOURCE          gstparamspecs.c
+SOURCE          gstdebugutils.c
+SOURCE          gstpoll.c
+SOURCE          helpfile.cpp
+
+#ifdef WINSCW
+SOURCE          libgstreamer_wsd.cpp
+#endif /*WINSCW*/
+
+//#ifdef GST_TESTCASE_COMPILATION
+SOURCEPATH      ../libs/gst/check
+SOURCE          gstcheck.c
+SOURCE          gstbufferstraw.c
+SOURCE          check.c
+//#endif	/* GST_TESTCASE_COMPILATION */
+
+
+SOURCEPATH ../gst/parse
+SOURCE grammar.tab.pre.c lex._gst_parse_yy.pre.c
+
+//SOURCEPATH	../gst/parse
+//SOURCE		grammar.tab.c
+//SOURCE		lex._gst_parse_yy.c
+
+LIBRARY			euser.lib
+LIBRARY 		libc.lib
+LIBRARY 		libpthread.lib
+LIBRARY			libdl.lib
+LIBRARY			libglib.lib
+LIBRARY			libgmodule.lib
+LIBRARY			libgobject.lib
+LIBRARY			libgthread.lib
+LIBRARY			libm.lib
+LIBRARY 		libz.lib  
+LIBRARY         efsrv.lib 
+
+#ifdef WINSCW
+LIBRARY         ewsd.lib //wsd solution
+#endif
+
+#ifdef HAVE_LIBXML2
+libxml2.lib
+#endif
+
+SMPSAFE

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/thread.threads/thread.thread.class/thread.thread.assign
+END
+copy.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/thread.threads/thread.thread.class/thread.thread.assign/copy.fail.cpp
+END
+move.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/thread.threads/thread.thread.class/thread.thread.assign/move.pass.cpp
+END

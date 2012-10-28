@@ -1,0 +1,83 @@
+10
+
+dir
+166254
+http://llvm.org/svn/llvm-project/libcxx/trunk/test/re/re.regex
+http://llvm.org/svn/llvm-project
+
+
+
+2011-10-03T15:23:59.932402Z
+141003
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+re.regex.const
+dir
+
+re.regex.swap
+dir
+
+re.regex.nonmemb
+dir
+
+types.pass.cpp
+file
+
+
+
+
+2012-10-19T01:22:24.364276Z
+79389671457b0e7d044e4d228f5eed1d
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1422
+
+re.regex.locale
+dir
+
+re.regex.operations
+dir
+
+re.regex.assign
+dir
+
+re.regex.construct
+dir
+

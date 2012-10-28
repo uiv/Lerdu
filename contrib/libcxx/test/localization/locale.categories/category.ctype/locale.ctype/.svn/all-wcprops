@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.ctype/locale.ctype
+END
+types.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.ctype/locale.ctype/types.pass.cpp
+END
+ctor.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.ctype/locale.ctype/ctor.pass.cpp
+END

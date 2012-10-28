@@ -1,0 +1,15 @@
+EXPORTS
+	_GST_PLUGIN_DESC @ 1 NONAME
+	gst_capsfilter_get_type @ 2 NONAME
+	gst_fake_sink_get_type @ 3 NONAME
+	gst_fake_src_get_type @ 4 NONAME
+	gst_fd_sink_get_type @ 5 NONAME
+	gst_fd_src_get_type @ 6 NONAME
+	gst_file_sink_get_type @ 7 NONAME
+	gst_file_src_get_type @ 8 NONAME
+	gst_identity_get_type @ 9 NONAME
+	gst_multi_queue_get_type @ 10 NONAME
+	gst_queue_get_type @ 11 NONAME
+	gst_tee_get_type @ 12 NONAME
+	gst_type_find_element_get_type @ 13 NONAME
+

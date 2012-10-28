@@ -1,0 +1,1 @@
+/usr/bin/clang   -O2 -Wall -W -fPIC -nostdlib   -shared -Wl,-soname,libogg.so.0.1.07 -o libogg.so.0.1.07 CMakeFiles/libogg.dir/src/bitwise.c.o CMakeFiles/libogg.dir/src/framing.c.o -L/home/samuel/build/1.08/lib -L/home/samuel/build/1.08/net -L/home/samuel/build/1.08/fs -L/home/samuel/build/1.08/atom -L/home/samuel/build/1.08/bsp -L/home/samuel/build/1.08/arch 

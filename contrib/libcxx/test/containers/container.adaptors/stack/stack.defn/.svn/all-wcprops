@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/stack/stack.defn
+END
+top_const.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/stack/stack.defn/top_const.pass.cpp
+END
+assign_move.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/stack/stack.defn/assign_move.pass.cpp
+END
+size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/stack/stack.defn/size.pass.cpp
+END
+swap.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/stack/stack.defn/swap.pass.cpp
+END
+assign_copy.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/stack/stack.defn/assign_copy.pass.cpp
+END
+empty.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/stack/stack.defn/empty.pass.cpp
+END
+pop.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/stack/stack.defn/pop.pass.cpp
+END
+push.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/stack/stack.defn/push.pass.cpp
+END
+top.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/stack/stack.defn/top.pass.cpp
+END
+types.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/stack/stack.defn/types.pass.cpp
+END
+emplace.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/stack/stack.defn/emplace.pass.cpp
+END
+push_rv.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/stack/stack.defn/push_rv.pass.cpp
+END

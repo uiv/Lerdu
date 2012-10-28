@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/163128/llvm/trunk/test/DebugInfo/Inputs
+END
+dwarfdump-inl-test.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/163128/llvm/trunk/test/DebugInfo/Inputs/dwarfdump-inl-test.elf-x86-64
+END
+dwarfdump-test.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/160496/llvm/trunk/test/DebugInfo/Inputs/dwarfdump-test.elf-x86-64
+END
+dwarfdump-test2.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/160496/llvm/trunk/test/DebugInfo/Inputs/dwarfdump-test2.elf-x86-64
+END
+dwarfdump-test3.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/160496/llvm/trunk/test/DebugInfo/Inputs/dwarfdump-test3.elf-x86-64
+END
+dwarfdump-test4.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/161414/llvm/trunk/test/DebugInfo/Inputs/dwarfdump-test4.elf-x86-64
+END

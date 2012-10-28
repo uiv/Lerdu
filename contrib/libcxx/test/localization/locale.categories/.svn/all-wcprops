@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/152501/libcxx/trunk/test/localization/locale.categories
+END
+__scan_keyword.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/__scan_keyword.pass.cpp
+END

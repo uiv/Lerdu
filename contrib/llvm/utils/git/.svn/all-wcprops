@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/llvm-project/!svn/ver/97150/llvm/trunk/utils/git
+END
+find-rev
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/97150/llvm/trunk/utils/git/find-rev
+END

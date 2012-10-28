@@ -1,0 +1,15 @@
+/*
+============================================================================
+ Name		: bld.inf
+ Author	  : 
+ Copyright   : Your copyright notice
+ Description : This file provides the information required for building the
+				whole of a typefind.
+============================================================================
+*/
+
+PRJ_PLATFORMS
+DEFAULT
+
+PRJ_TESTMMPFILES
+manual_typefind.mmp

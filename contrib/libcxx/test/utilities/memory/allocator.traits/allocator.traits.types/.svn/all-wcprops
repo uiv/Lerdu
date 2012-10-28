@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/119609/libcxx/trunk/test/utilities/memory/allocator.traits/allocator.traits.types
+END
+propagate_on_container_swap.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.traits/allocator.traits.types/propagate_on_container_swap.pass.cpp
+END
+difference_type.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119609/libcxx/trunk/test/utilities/memory/allocator.traits/allocator.traits.types/difference_type.pass.cpp
+END
+size_type.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/119609/libcxx/trunk/test/utilities/memory/allocator.traits/allocator.traits.types/size_type.pass.cpp
+END
+rebind_alloc.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.traits/allocator.traits.types/rebind_alloc.pass.cpp
+END
+propagate_on_container_move_assignment.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.traits/allocator.traits.types/propagate_on_container_move_assignment.pass.cpp
+END
+pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.traits/allocator.traits.types/pointer.pass.cpp
+END
+void_pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.traits/allocator.traits.types/void_pointer.pass.cpp
+END
+propagate_on_container_copy_assignment.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.traits/allocator.traits.types/propagate_on_container_copy_assignment.pass.cpp
+END
+const_pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.traits/allocator.traits.types/const_pointer.pass.cpp
+END
+const_void_pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/allocator.traits/allocator.traits.types/const_void_pointer.pass.cpp
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/function.objects/func.wrap/func.wrap.badcall
+END
+bad_function_call.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/function.objects/func.wrap/func.wrap.badcall/bad_function_call.pass.cpp
+END

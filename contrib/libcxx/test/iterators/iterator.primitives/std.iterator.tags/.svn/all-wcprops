@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/iterator.primitives/std.iterator.tags
+END
+forward_iterator_tag.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/iterator.primitives/std.iterator.tags/forward_iterator_tag.pass.cpp
+END
+bidirectional_iterator_tag.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/iterator.primitives/std.iterator.tags/bidirectional_iterator_tag.pass.cpp
+END
+input_iterator_tag.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/iterator.primitives/std.iterator.tags/input_iterator_tag.pass.cpp
+END
+output_iterator_tag.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/iterator.primitives/std.iterator.tags/output_iterator_tag.pass.cpp
+END
+random_access_iterator_tag.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/iterator.primitives/std.iterator.tags/random_access_iterator_tag.pass.cpp
+END

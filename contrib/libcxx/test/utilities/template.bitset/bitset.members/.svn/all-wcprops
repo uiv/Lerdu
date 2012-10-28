@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/159899/libcxx/trunk/test/utilities/template.bitset/bitset.members
+END
+index_const.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.members/index_const.pass.cpp
+END
+test.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.members/test.pass.cpp
+END
+flip_all.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.members/flip_all.pass.cpp
+END
+reset_one.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/159899/libcxx/trunk/test/utilities/template.bitset/bitset.members/reset_one.pass.cpp
+END
+set_all.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.members/set_all.pass.cpp
+END
+op_and_eq.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.members/op_and_eq.pass.cpp
+END
+to_ulong.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/template.bitset/bitset.members/to_ulong.pass.cpp
+END
+left_shift.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.members/left_shift.pass.cpp
+END
+any.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/template.bitset/bitset.members/any.pass.cpp
+END
+op_eq_eq.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.members/op_eq_eq.pass.cpp
+END
+not_all.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.members/not_all.pass.cpp
+END
+count.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.members/count.pass.cpp
+END
+op_xor_eq.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.members/op_xor_eq.pass.cpp
+END
+flip_one.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.members/flip_one.pass.cpp
+END
+set_one.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/template.bitset/bitset.members/set_one.pass.cpp
+END
+none.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/template.bitset/bitset.members/none.pass.cpp
+END
+right_shift_eq.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.members/right_shift_eq.pass.cpp
+END
+to_ullong.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/template.bitset/bitset.members/to_ullong.pass.cpp
+END
+op_or_eq.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.members/op_or_eq.pass.cpp
+END
+index.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.members/index.pass.cpp
+END
+all.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/template.bitset/bitset.members/all.pass.cpp
+END
+to_string.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.members/to_string.pass.cpp
+END
+reset_all.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.members/reset_all.pass.cpp
+END
+right_shift.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.members/right_shift.pass.cpp
+END
+size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/template.bitset/bitset.members/size.pass.cpp
+END
+left_shift_eq.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/131479/libcxx/trunk/test/utilities/template.bitset/bitset.members/left_shift_eq.pass.cpp
+END

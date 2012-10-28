@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/llvm-project/!svn/ver/164476/llvm/trunk/test/MC/COFF
+END
+switch-relocations.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/116150/llvm/trunk/test/MC/COFF/switch-relocations.ll
+END
+bss.s
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/130125/llvm/trunk/test/MC/COFF/bss.s
+END
+weak.s
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/130125/llvm/trunk/test/MC/COFF/weak.s
+END
+symbol-fragment-offset.s
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/130125/llvm/trunk/test/MC/COFF/symbol-fragment-offset.s
+END
+global_ctors_dtors.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/164476/llvm/trunk/test/MC/COFF/global_ctors_dtors.ll
+END
+symbol-alias.s
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/130125/llvm/trunk/test/MC/COFF/symbol-alias.s
+END
+basic-coff.s
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/130125/llvm/trunk/test/MC/COFF/basic-coff.s
+END
+comm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/163420/llvm/trunk/test/MC/COFF/comm.ll
+END
+symbol-mangling.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/145409/llvm/trunk/test/MC/COFF/symbol-mangling.ll
+END
+simple-fixups.s
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/130125/llvm/trunk/test/MC/COFF/simple-fixups.s
+END
+align-nops.s
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/116150/llvm/trunk/test/MC/COFF/align-nops.s
+END
+module-asm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/116151/llvm/trunk/test/MC/COFF/module-asm.ll
+END
+diff.s
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/129923/llvm/trunk/test/MC/COFF/diff.s
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/153408/llvm/trunk/test/MC/COFF/lit.local.cfg
+END
+seh.s
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/161489/llvm/trunk/test/MC/COFF/seh.s
+END
+seh-section.s
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/132220/llvm/trunk/test/MC/COFF/seh-section.s
+END
+secrel32.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/146801/llvm/trunk/test/MC/COFF/secrel32.s
+END

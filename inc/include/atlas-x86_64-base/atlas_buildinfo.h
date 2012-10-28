@@ -1,0 +1,31 @@
+#ifndef ATL_INSTINFO_H
+   #define ATL_INSTINFO_H
+
+#define ATL_ARCH "HAMMER64SSE2"
+#define ATL_INSTFLAGS "-1 0 -a 1"
+#define ATL_F2CDEFS "-DAdd_ -DF77_INTEGER=int -DStringSunStyle"
+#define ATL_ARCHDEFS "-DATL_OS_Linux -DATL_ARCH_Core2 -DATL_CPUMHZ=2333 -DATL_SSE2 -DATL_SSE1 -DATL_USE64BITS -DATL_GAS_x8664"
+#define ATL_DKCFLAGS "-fomit-frame-pointer -mfpmath=sse -msse2 -O2 -g -Wa,--noexecstack -fPIC -m64"
+#define ATL_DKC "gcc"
+#define ATL_SKCFLAGS "-fomit-frame-pointer -mfpmath=sse -msse2 -O2 -g -Wa,--noexecstack -fPIC -m64"
+#define ATL_SKC "gcc"
+#define ATL_DMCFLAGS "-fomit-frame-pointer -mfpmath=sse -msse2 -O2 -g -Wa,--noexecstack -fPIC -m64"
+#define ATL_DMC "gcc"
+#define ATL_SMCFLAGS "-fomit-frame-pointer -mfpmath=sse -msse2 -O2 -g -Wa,--noexecstack -fPIC -m64"
+#define ATL_SMC "gcc"
+#define ATL_ICCFLAGS "-DL2SIZE=4194304 -I/builddir/build/BUILD/ATLAS/x86_64_base/include -I/builddir/build/BUILD/ATLAS/x86_64_base/..//include -I/builddir/build/BUILD/ATLAS/x86_64_base/..//include/contrib -DAdd_ -DF77_INTEGER=int -DStringSunStyle -DATL_OS_Linux -DATL_ARCH_Core2 -DATL_CPUMHZ=2333 -DATL_SSE2 -DATL_SSE1 -DATL_USE64BITS -DATL_GAS_x8664 -DWALL -DATL_NCPU=4 -fomit-frame-pointer -mfpmath=sse -msse2 -O2 -g -Wa,--noexecstack -fPIC -m64"
+#define ATL_ICC "gcc"
+#define ATL_F77FLAGS "-O -g -Wa,--noexecstack -fPIC -m64"
+#define ATL_F77 "gfortran"
+#define ATL_DKCVERS "gcc (GCC) 4.6.1 20110804 (Red Hat 4.6.1-7)"
+#define ATL_SKCVERS "gcc (GCC) 4.6.1 20110804 (Red Hat 4.6.1-7)"
+#define ATL_DMCVERS "gcc (GCC) 4.6.1 20110804 (Red Hat 4.6.1-7)"
+#define ATL_SMCVERS "gcc (GCC) 4.6.1 20110804 (Red Hat 4.6.1-7)"
+#define ATL_ICCVERS "gcc (GCC) 4.6.1 20110804 (Red Hat 4.6.1-7)"
+#define ATL_F77VERS "GNU Fortran (GCC) 4.6.1 20110804 (Red Hat 4.6.1-7)"
+#define ATL_SYSINFO "Linux x86-04.phx2.fedoraproject.org 2.6.32-131.2.1.el6.x86_64 #1 SMP Wed May 18 07:07:37 EDT 2011 x86_64 x86_64 x86_64 GNU/Linux"
+#define ATL_DATE    "Fri Sep  2 01:16:43 UTC 2011"
+#define ATL_UNAM    "mockbuild"
+#define ATL_VERS    "3.8.4"
+
+#endif

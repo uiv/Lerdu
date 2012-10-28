@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/166255/llvm/trunk/test/Transforms/LoopVectorize
+END
+increment.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/166255/llvm/trunk/test/Transforms/LoopVectorize/increment.ll
+END
+gcc-examples.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/166165/llvm/trunk/test/Transforms/LoopVectorize/gcc-examples.ll
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/166112/llvm/trunk/test/Transforms/LoopVectorize/lit.local.cfg
+END
+non-const-n.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/166165/llvm/trunk/test/Transforms/LoopVectorize/non-const-n.ll
+END

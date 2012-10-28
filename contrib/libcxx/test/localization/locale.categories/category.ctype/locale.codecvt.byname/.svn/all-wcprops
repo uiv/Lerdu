@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locale.categories/category.ctype/locale.codecvt.byname
+END
+ctor_char32_t.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.ctype/locale.codecvt.byname/ctor_char32_t.pass.cpp
+END
+ctor_char16_t.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.ctype/locale.codecvt.byname/ctor_char16_t.pass.cpp
+END
+ctor_wchar_t.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/llvm-project/!svn/ver/141003/libcxx/trunk/test/localization/locale.categories/category.ctype/locale.codecvt.byname/ctor_wchar_t.pass.cpp
+END
+ctor_char.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.ctype/locale.codecvt.byname/ctor_char.pass.cpp
+END

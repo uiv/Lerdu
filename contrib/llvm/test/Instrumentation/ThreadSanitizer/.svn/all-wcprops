@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/165109/llvm/trunk/test/Instrumentation/ThreadSanitizer
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/153448/llvm/trunk/test/Instrumentation/ThreadSanitizer/lit.local.cfg
+END
+atomic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/165109/llvm/trunk/test/Instrumentation/ThreadSanitizer/atomic.ll
+END
+vptr_update.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/153448/llvm/trunk/test/Instrumentation/ThreadSanitizer/vptr_update.ll
+END
+read_from_global.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/154444/llvm/trunk/test/Instrumentation/ThreadSanitizer/read_from_global.ll
+END
+tsan_basic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/150423/llvm/trunk/test/Instrumentation/ThreadSanitizer/tsan_basic.ll
+END
+read_before_write.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/154418/llvm/trunk/test/Instrumentation/ThreadSanitizer/read_before_write.ll
+END

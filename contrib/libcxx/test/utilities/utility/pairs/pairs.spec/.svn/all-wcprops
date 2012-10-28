@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/utility/pairs/pairs.spec
+END
+make_pair.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/utility/pairs/pairs.spec/make_pair.pass.cpp
+END
+comparison.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/utility/pairs/pairs.spec/comparison.pass.cpp
+END
+non_member_swap.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/utility/pairs/pairs.spec/non_member_swap.pass.cpp
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.formatted/ostream.inserters
+END
+streambuf.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.formatted/ostream.inserters/streambuf.pass.cpp
+END
+ostream.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.formatted/ostream.inserters/ostream.pass.cpp
+END
+basic_ios.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.formatted/ostream.inserters/basic_ios.pass.cpp
+END
+ios_base.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.formatted/ostream.inserters/ios_base.pass.cpp
+END

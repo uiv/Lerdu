@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/160184/libcxx/trunk/test/utilities/time/time.duration
+END
+duration.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/duration.fail.cpp
+END
+default_ratio.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/default_ratio.pass.cpp
+END
+ratio.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/ratio.fail.cpp
+END
+types.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/types.pass.cpp
+END
+positive_num.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/positive_num.fail.cpp
+END

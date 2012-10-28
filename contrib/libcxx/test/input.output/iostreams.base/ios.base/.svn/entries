@@ -1,0 +1,83 @@
+10
+
+dir
+166254
+http://llvm.org/svn/llvm-project/libcxx/trunk/test/input.output/iostreams.base/ios.base
+http://llvm.org/svn/llvm-project
+
+
+
+2011-10-03T15:23:59.932402Z
+141003
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+fmtflags.state
+dir
+
+ios.base.cons
+dir
+
+ios.base.locales
+dir
+
+ios.base.storage
+dir
+
+ios.members.static
+dir
+
+ios.types
+dir
+
+ios.base.callback
+dir
+
+nothing_to_do.pass.cpp
+file
+
+
+
+
+2012-10-19T01:22:17.056276Z
+b9d077b07927997b7421717578c73e28
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+398
+

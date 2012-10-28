@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/ptr.align
+END
+align.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/memory/ptr.align/align.pass.cpp
+END
